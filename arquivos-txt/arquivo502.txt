@@ -1,0 +1,7 @@
+=== Arquivo número 502 ===
+Arquivo 502, linha 1: contagem linha arquivo arquivo await texto thread linha
+Arquivo 502, linha 2: contagem contagem CSharp CSharp contagem contagem palavra teste arquivo CSharp
+Arquivo 502, linha 3: CSharp CSharp contagem palavra teste
+Arquivo 502, linha 4: teste await contagem thread linha async contagem contagem teste
+Arquivo 502, linha 5: await arquivo arquivo async arquivo linha thread texto texto thread contagem linha
+Arquivo 502, linha 6: linha arquivo linha texto texto async texto async

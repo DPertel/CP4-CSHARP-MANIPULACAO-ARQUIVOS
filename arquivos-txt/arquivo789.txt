@@ -1,0 +1,9 @@
+=== Arquivo número 789 ===
+Arquivo 789, linha 1: thread arquivo async arquivo await async teste async CSharp arquivo
+Arquivo 789, linha 2: texto contagem arquivo palavra CSharp palavra linha
+Arquivo 789, linha 3: CSharp teste teste linha await thread
+Arquivo 789, linha 4: arquivo linha teste CSharp palavra palavra await
+Arquivo 789, linha 5: linha texto CSharp arquivo teste CSharp palavra arquivo thread palavra
+Arquivo 789, linha 6: linha linha linha arquivo teste CSharp await
+Arquivo 789, linha 7: texto CSharp linha texto linha async await
+Arquivo 789, linha 8: CSharp CSharp thread texto texto arquivo await contagem palavra palavra

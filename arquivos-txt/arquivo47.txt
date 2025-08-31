@@ -1,0 +1,5 @@
+=== Arquivo número 47 ===
+Arquivo 47, linha 1: teste palavra await teste CSharp linha palavra
+Arquivo 47, linha 2: texto palavra contagem thread contagem await CSharp texto thread palavra contagem
+Arquivo 47, linha 3: CSharp texto palavra CSharp teste async thread async
+Arquivo 47, linha 4: linha texto texto linha teste

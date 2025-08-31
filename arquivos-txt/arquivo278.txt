@@ -1,0 +1,17 @@
+=== Arquivo número 278 ===
+Arquivo 278, linha 1: async arquivo thread async teste async arquivo contagem contagem thread palavra linha
+Arquivo 278, linha 2: async arquivo CSharp arquivo teste
+Arquivo 278, linha 3: thread palavra CSharp await async arquivo palavra thread arquivo linha
+Arquivo 278, linha 4: contagem palavra CSharp texto texto async thread contagem palavra
+Arquivo 278, linha 5: arquivo texto texto teste palavra texto teste linha await teste teste
+Arquivo 278, linha 6: CSharp CSharp async texto linha await async CSharp teste contagem
+Arquivo 278, linha 7: teste texto CSharp thread CSharp contagem teste texto arquivo contagem contagem teste
+Arquivo 278, linha 8: linha palavra linha palavra thread contagem thread arquivo CSharp CSharp thread contagem
+Arquivo 278, linha 9: thread CSharp thread arquivo CSharp
+Arquivo 278, linha 10: linha arquivo texto await contagem
+Arquivo 278, linha 11: linha linha linha palavra contagem CSharp palavra CSharp async arquivo CSharp teste
+Arquivo 278, linha 12: await contagem contagem linha texto contagem async texto
+Arquivo 278, linha 13: arquivo teste texto thread CSharp CSharp async await async thread async
+Arquivo 278, linha 14: palavra linha thread contagem palavra arquivo await thread texto linha texto arquivo
+Arquivo 278, linha 15: thread await arquivo contagem teste
+Arquivo 278, linha 16: CSharp linha arquivo contagem thread arquivo CSharp palavra async linha arquivo

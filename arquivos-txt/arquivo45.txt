@@ -1,0 +1,5 @@
+=== Arquivo número 45 ===
+Arquivo 45, linha 1: CSharp linha async await teste thread
+Arquivo 45, linha 2: await arquivo CSharp linha arquivo texto texto contagem thread await
+Arquivo 45, linha 3: async await teste await contagem await arquivo teste thread contagem thread
+Arquivo 45, linha 4: CSharp texto async linha await texto teste texto await async

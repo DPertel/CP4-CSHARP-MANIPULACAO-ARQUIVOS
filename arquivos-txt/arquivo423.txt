@@ -1,0 +1,11 @@
+=== Arquivo número 423 ===
+Arquivo 423, linha 1: await async CSharp CSharp arquivo async arquivo texto contagem linha arquivo
+Arquivo 423, linha 2: CSharp thread contagem palavra CSharp thread teste linha linha palavra contagem
+Arquivo 423, linha 3: contagem CSharp thread texto contagem async
+Arquivo 423, linha 4: contagem texto palavra texto linha linha thread async teste arquivo arquivo contagem
+Arquivo 423, linha 5: CSharp arquivo linha texto await teste CSharp await async async teste
+Arquivo 423, linha 6: async await texto linha await
+Arquivo 423, linha 7: arquivo async await texto async thread async thread thread
+Arquivo 423, linha 8: CSharp thread await teste contagem arquivo async thread await arquivo
+Arquivo 423, linha 9: CSharp thread contagem teste async
+Arquivo 423, linha 10: contagem CSharp arquivo contagem CSharp CSharp thread

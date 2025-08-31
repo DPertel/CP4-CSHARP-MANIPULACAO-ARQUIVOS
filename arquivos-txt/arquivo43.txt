@@ -1,0 +1,10 @@
+=== Arquivo número 43 ===
+Arquivo 43, linha 1: await CSharp thread CSharp palavra
+Arquivo 43, linha 2: await palavra thread CSharp await texto
+Arquivo 43, linha 3: contagem texto palavra await teste arquivo teste thread contagem arquivo
+Arquivo 43, linha 4: thread await CSharp await linha thread arquivo arquivo texto linha palavra palavra
+Arquivo 43, linha 5: async contagem CSharp arquivo arquivo teste CSharp
+Arquivo 43, linha 6: await texto thread arquivo thread teste CSharp await arquivo arquivo
+Arquivo 43, linha 7: texto CSharp teste async contagem palavra async linha thread palavra linha texto
+Arquivo 43, linha 8: async texto await arquivo arquivo teste CSharp
+Arquivo 43, linha 9: linha teste contagem await teste

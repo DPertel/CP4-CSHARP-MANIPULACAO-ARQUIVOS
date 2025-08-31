@@ -1,0 +1,11 @@
+=== Arquivo número 981 ===
+Arquivo 981, linha 1: contagem arquivo teste contagem CSharp thread texto texto thread
+Arquivo 981, linha 2: texto palavra linha await await linha palavra contagem texto palavra palavra
+Arquivo 981, linha 3: teste texto CSharp linha thread
+Arquivo 981, linha 4: texto teste thread teste contagem await texto
+Arquivo 981, linha 5: arquivo await palavra palavra texto contagem CSharp arquivo
+Arquivo 981, linha 6: CSharp CSharp teste async async
+Arquivo 981, linha 7: teste teste linha arquivo async palavra arquivo
+Arquivo 981, linha 8: await arquivo texto async thread teste
+Arquivo 981, linha 9: contagem async palavra teste linha async teste linha palavra texto
+Arquivo 981, linha 10: arquivo teste await arquivo async teste contagem arquivo contagem thread

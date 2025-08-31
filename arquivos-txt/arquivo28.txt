@@ -1,0 +1,14 @@
+=== Arquivo número 28 ===
+Arquivo 28, linha 1: palavra await thread texto contagem palavra CSharp CSharp
+Arquivo 28, linha 2: await contagem contagem arquivo contagem await linha teste texto contagem
+Arquivo 28, linha 3: await contagem thread arquivo async thread linha contagem contagem linha
+Arquivo 28, linha 4: async contagem arquivo texto texto async contagem
+Arquivo 28, linha 5: palavra texto await contagem async teste
+Arquivo 28, linha 6: await await await CSharp thread texto teste texto thread texto teste arquivo
+Arquivo 28, linha 7: async palavra arquivo contagem texto teste await thread async palavra contagem
+Arquivo 28, linha 8: await linha await CSharp await CSharp CSharp CSharp CSharp
+Arquivo 28, linha 9: linha await contagem texto contagem palavra arquivo async async
+Arquivo 28, linha 10: await thread teste palavra thread
+Arquivo 28, linha 11: CSharp thread thread linha CSharp CSharp texto teste arquivo CSharp linha
+Arquivo 28, linha 12: arquivo texto CSharp linha await palavra linha thread await
+Arquivo 28, linha 13: async texto CSharp texto arquivo contagem linha contagem contagem teste texto

@@ -1,0 +1,13 @@
+=== Arquivo número 48 ===
+Arquivo 48, linha 1: thread CSharp await linha contagem await
+Arquivo 48, linha 2: teste contagem CSharp texto thread
+Arquivo 48, linha 3: linha await CSharp linha thread thread thread texto palavra CSharp thread texto
+Arquivo 48, linha 4: CSharp palavra texto teste contagem teste contagem async async
+Arquivo 48, linha 5: arquivo texto await arquivo contagem contagem
+Arquivo 48, linha 6: thread CSharp thread await palavra await thread arquivo
+Arquivo 48, linha 7: teste arquivo await thread teste palavra teste thread async CSharp
+Arquivo 48, linha 8: async texto teste teste texto async async async
+Arquivo 48, linha 9: thread arquivo arquivo async contagem texto palavra teste contagem arquivo CSharp
+Arquivo 48, linha 10: palavra arquivo teste teste palavra CSharp arquivo async
+Arquivo 48, linha 11: thread palavra palavra thread contagem
+Arquivo 48, linha 12: CSharp CSharp texto teste texto contagem thread

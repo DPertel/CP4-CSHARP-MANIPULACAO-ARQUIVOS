@@ -1,0 +1,20 @@
+=== Arquivo número 377 ===
+Arquivo 377, linha 1: linha thread teste texto linha arquivo arquivo arquivo linha await
+Arquivo 377, linha 2: thread arquivo texto CSharp arquivo contagem await async teste contagem
+Arquivo 377, linha 3: arquivo CSharp await thread CSharp contagem arquivo CSharp
+Arquivo 377, linha 4: await linha async async texto contagem
+Arquivo 377, linha 5: texto arquivo thread texto CSharp async thread await texto
+Arquivo 377, linha 6: thread texto arquivo thread linha async
+Arquivo 377, linha 7: linha thread await texto async linha arquivo palavra contagem arquivo CSharp
+Arquivo 377, linha 8: arquivo await arquivo linha palavra CSharp
+Arquivo 377, linha 9: async palavra await CSharp contagem CSharp thread
+Arquivo 377, linha 10: await contagem linha palavra thread arquivo
+Arquivo 377, linha 11: CSharp arquivo contagem teste contagem contagem await palavra
+Arquivo 377, linha 12: CSharp contagem texto thread async texto
+Arquivo 377, linha 13: CSharp contagem linha arquivo texto contagem
+Arquivo 377, linha 14: linha async teste async await contagem async thread
+Arquivo 377, linha 15: texto arquivo linha arquivo linha arquivo arquivo thread CSharp
+Arquivo 377, linha 16: texto teste contagem CSharp arquivo
+Arquivo 377, linha 17: contagem linha contagem arquivo texto
+Arquivo 377, linha 18: texto contagem await texto teste thread teste await thread
+Arquivo 377, linha 19: contagem texto palavra contagem thread CSharp teste

@@ -1,0 +1,17 @@
+=== Arquivo número 387 ===
+Arquivo 387, linha 1: teste thread teste texto thread teste await async teste
+Arquivo 387, linha 2: texto contagem async palavra thread teste
+Arquivo 387, linha 3: CSharp contagem CSharp async linha contagem contagem thread teste linha
+Arquivo 387, linha 4: await thread await linha thread
+Arquivo 387, linha 5: texto arquivo thread teste async CSharp thread linha
+Arquivo 387, linha 6: teste async thread CSharp teste teste palavra arquivo async
+Arquivo 387, linha 7: CSharp teste thread teste teste thread
+Arquivo 387, linha 8: texto await contagem CSharp async thread thread arquivo teste texto
+Arquivo 387, linha 9: palavra teste async texto await await contagem thread linha
+Arquivo 387, linha 10: await contagem await texto palavra
+Arquivo 387, linha 11: await linha teste CSharp CSharp CSharp CSharp linha thread await
+Arquivo 387, linha 12: async linha texto palavra contagem linha palavra palavra contagem teste palavra teste
+Arquivo 387, linha 13: CSharp contagem linha arquivo arquivo
+Arquivo 387, linha 14: async CSharp texto CSharp texto teste
+Arquivo 387, linha 15: CSharp CSharp async texto async linha
+Arquivo 387, linha 16: arquivo contagem palavra contagem contagem texto await palavra CSharp

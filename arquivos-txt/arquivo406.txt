@@ -1,0 +1,14 @@
+=== Arquivo número 406 ===
+Arquivo 406, linha 1: texto thread await CSharp async CSharp teste await
+Arquivo 406, linha 2: linha async palavra texto async contagem CSharp palavra
+Arquivo 406, linha 3: await linha teste async await teste teste async teste contagem async palavra
+Arquivo 406, linha 4: palavra thread linha linha linha texto contagem contagem
+Arquivo 406, linha 5: contagem contagem linha linha thread async await palavra contagem thread
+Arquivo 406, linha 6: await arquivo palavra await CSharp await
+Arquivo 406, linha 7: async contagem await async arquivo async
+Arquivo 406, linha 8: contagem async CSharp teste contagem linha arquivo linha await contagem
+Arquivo 406, linha 9: CSharp palavra arquivo thread linha texto async await await thread
+Arquivo 406, linha 10: async texto arquivo thread texto palavra contagem thread teste
+Arquivo 406, linha 11: palavra linha arquivo CSharp arquivo CSharp
+Arquivo 406, linha 12: thread contagem teste palavra CSharp texto teste
+Arquivo 406, linha 13: texto CSharp await contagem thread palavra thread CSharp

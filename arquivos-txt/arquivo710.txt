@@ -1,0 +1,14 @@
+=== Arquivo número 710 ===
+Arquivo 710, linha 1: CSharp texto thread CSharp arquivo texto contagem async
+Arquivo 710, linha 2: teste linha teste texto palavra await
+Arquivo 710, linha 3: palavra await async arquivo teste contagem contagem teste await teste texto
+Arquivo 710, linha 4: contagem linha linha async thread palavra contagem arquivo
+Arquivo 710, linha 5: arquivo palavra contagem linha await linha async CSharp contagem arquivo linha
+Arquivo 710, linha 6: thread linha arquivo async teste thread CSharp palavra palavra async arquivo
+Arquivo 710, linha 7: CSharp teste palavra linha thread async teste thread arquivo
+Arquivo 710, linha 8: linha await await palavra CSharp async contagem linha
+Arquivo 710, linha 9: async linha thread linha await palavra texto contagem arquivo palavra linha await
+Arquivo 710, linha 10: contagem palavra CSharp linha palavra thread linha arquivo
+Arquivo 710, linha 11: async palavra await async teste
+Arquivo 710, linha 12: thread palavra thread palavra texto
+Arquivo 710, linha 13: teste arquivo await contagem CSharp contagem palavra teste teste contagem palavra

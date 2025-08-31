@@ -1,0 +1,11 @@
+=== Arquivo número 723 ===
+Arquivo 723, linha 1: contagem await teste contagem contagem teste async await async contagem contagem teste
+Arquivo 723, linha 2: CSharp async await teste arquivo linha palavra teste linha
+Arquivo 723, linha 3: await linha palavra contagem texto teste linha CSharp linha
+Arquivo 723, linha 4: contagem CSharp linha arquivo thread palavra thread palavra CSharp await linha
+Arquivo 723, linha 5: CSharp texto palavra palavra CSharp palavra await async teste async arquivo
+Arquivo 723, linha 6: CSharp texto async texto contagem contagem texto arquivo palavra
+Arquivo 723, linha 7: texto palavra CSharp contagem await
+Arquivo 723, linha 8: contagem linha texto async arquivo linha texto palavra palavra await await teste
+Arquivo 723, linha 9: teste async texto async contagem CSharp contagem palavra thread
+Arquivo 723, linha 10: texto async contagem texto linha linha thread

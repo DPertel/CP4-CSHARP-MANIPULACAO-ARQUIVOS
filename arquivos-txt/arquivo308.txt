@@ -1,0 +1,5 @@
+=== Arquivo número 308 ===
+Arquivo 308, linha 1: linha await async await contagem CSharp
+Arquivo 308, linha 2: async CSharp thread texto linha CSharp CSharp async palavra await
+Arquivo 308, linha 3: contagem linha arquivo palavra palavra arquivo arquivo
+Arquivo 308, linha 4: CSharp await contagem CSharp await await arquivo thread teste CSharp palavra thread

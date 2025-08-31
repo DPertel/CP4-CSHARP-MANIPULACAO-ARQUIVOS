@@ -1,0 +1,8 @@
+=== Arquivo número 342 ===
+Arquivo 342, linha 1: teste CSharp arquivo teste await arquivo
+Arquivo 342, linha 2: teste arquivo linha arquivo texto texto async
+Arquivo 342, linha 3: contagem CSharp linha await CSharp linha async CSharp CSharp async thread
+Arquivo 342, linha 4: thread arquivo async CSharp contagem arquivo arquivo teste async await arquivo
+Arquivo 342, linha 5: async thread CSharp async contagem async
+Arquivo 342, linha 6: texto async contagem await async
+Arquivo 342, linha 7: async async contagem CSharp palavra palavra thread texto texto

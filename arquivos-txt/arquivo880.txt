@@ -1,0 +1,19 @@
+=== Arquivo número 880 ===
+Arquivo 880, linha 1: thread teste texto thread teste texto async arquivo thread teste contagem CSharp
+Arquivo 880, linha 2: CSharp contagem linha arquivo await linha await
+Arquivo 880, linha 3: linha teste palavra texto palavra thread CSharp contagem
+Arquivo 880, linha 4: linha linha await texto texto await CSharp palavra linha texto texto thread
+Arquivo 880, linha 5: teste arquivo arquivo arquivo CSharp await await teste CSharp CSharp linha linha
+Arquivo 880, linha 6: CSharp arquivo CSharp thread linha
+Arquivo 880, linha 7: CSharp thread teste palavra arquivo contagem thread texto linha thread teste
+Arquivo 880, linha 8: texto contagem arquivo linha arquivo contagem
+Arquivo 880, linha 9: texto await texto contagem teste thread contagem async await
+Arquivo 880, linha 10: contagem palavra palavra contagem teste teste await linha teste
+Arquivo 880, linha 11: async texto arquivo linha thread arquivo contagem await await await async CSharp
+Arquivo 880, linha 12: contagem contagem texto texto texto thread thread linha CSharp linha palavra palavra
+Arquivo 880, linha 13: CSharp arquivo thread arquivo contagem thread await
+Arquivo 880, linha 14: palavra linha CSharp texto CSharp
+Arquivo 880, linha 15: thread contagem async teste arquivo teste palavra texto CSharp arquivo
+Arquivo 880, linha 16: async texto thread thread teste await linha palavra
+Arquivo 880, linha 17: arquivo async arquivo arquivo contagem arquivo contagem teste linha teste linha
+Arquivo 880, linha 18: async contagem async CSharp CSharp palavra thread contagem linha contagem

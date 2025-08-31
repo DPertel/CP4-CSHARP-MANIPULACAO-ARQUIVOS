@@ -1,0 +1,12 @@
+=== Arquivo número 553 ===
+Arquivo 553, linha 1: linha linha contagem arquivo contagem linha linha async CSharp
+Arquivo 553, linha 2: texto palavra palavra arquivo CSharp linha async
+Arquivo 553, linha 3: arquivo teste contagem contagem await async CSharp CSharp palavra thread
+Arquivo 553, linha 4: async CSharp CSharp await linha thread async
+Arquivo 553, linha 5: linha thread texto arquivo arquivo thread palavra linha CSharp arquivo thread thread
+Arquivo 553, linha 6: teste linha CSharp contagem texto palavra
+Arquivo 553, linha 7: thread async arquivo contagem await contagem arquivo teste await linha
+Arquivo 553, linha 8: teste teste thread contagem teste arquivo
+Arquivo 553, linha 9: async linha CSharp await await arquivo palavra CSharp linha contagem arquivo
+Arquivo 553, linha 10: arquivo teste arquivo async teste
+Arquivo 553, linha 11: palavra texto thread contagem teste await async teste

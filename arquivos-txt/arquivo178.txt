@@ -1,0 +1,19 @@
+=== Arquivo número 178 ===
+Arquivo 178, linha 1: await texto CSharp CSharp texto texto await texto CSharp texto palavra
+Arquivo 178, linha 2: CSharp CSharp palavra texto teste arquivo
+Arquivo 178, linha 3: arquivo palavra thread palavra arquivo linha contagem teste
+Arquivo 178, linha 4: palavra async linha linha CSharp CSharp texto linha linha palavra contagem
+Arquivo 178, linha 5: arquivo CSharp arquivo arquivo await contagem arquivo
+Arquivo 178, linha 6: palavra palavra texto texto arquivo arquivo linha teste
+Arquivo 178, linha 7: linha thread await async async texto thread
+Arquivo 178, linha 8: linha contagem thread CSharp async await linha await CSharp async CSharp
+Arquivo 178, linha 9: async await CSharp contagem texto async texto
+Arquivo 178, linha 10: await async async arquivo linha await arquivo thread CSharp texto async
+Arquivo 178, linha 11: async async contagem arquivo palavra arquivo thread texto
+Arquivo 178, linha 12: CSharp texto texto await thread palavra teste contagem CSharp CSharp
+Arquivo 178, linha 13: teste contagem palavra CSharp async teste linha arquivo
+Arquivo 178, linha 14: thread teste texto CSharp linha async
+Arquivo 178, linha 15: texto linha contagem contagem contagem texto
+Arquivo 178, linha 16: contagem linha thread teste await thread
+Arquivo 178, linha 17: contagem palavra texto await await contagem texto CSharp contagem teste contagem contagem
+Arquivo 178, linha 18: palavra palavra linha linha async texto linha async CSharp linha await

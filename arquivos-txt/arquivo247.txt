@@ -1,0 +1,5 @@
+=== Arquivo número 247 ===
+Arquivo 247, linha 1: palavra CSharp arquivo texto thread palavra await teste
+Arquivo 247, linha 2: await linha arquivo texto CSharp await
+Arquivo 247, linha 3: contagem await linha teste teste texto CSharp CSharp CSharp palavra
+Arquivo 247, linha 4: contagem contagem arquivo linha async texto arquivo CSharp async

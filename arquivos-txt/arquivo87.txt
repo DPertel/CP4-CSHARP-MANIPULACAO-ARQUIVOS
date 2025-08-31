@@ -1,0 +1,9 @@
+=== Arquivo número 87 ===
+Arquivo 87, linha 1: await linha arquivo contagem teste arquivo thread
+Arquivo 87, linha 2: teste texto await teste await texto CSharp
+Arquivo 87, linha 3: palavra thread palavra CSharp thread await palavra thread async
+Arquivo 87, linha 4: async thread CSharp contagem linha thread async await texto async
+Arquivo 87, linha 5: contagem CSharp await texto contagem texto thread CSharp
+Arquivo 87, linha 6: texto contagem teste await texto CSharp palavra texto linha arquivo arquivo
+Arquivo 87, linha 7: linha thread await contagem palavra thread texto
+Arquivo 87, linha 8: texto CSharp await linha contagem arquivo

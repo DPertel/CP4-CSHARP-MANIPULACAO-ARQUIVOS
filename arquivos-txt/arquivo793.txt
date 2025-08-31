@@ -1,0 +1,20 @@
+=== Arquivo número 793 ===
+Arquivo 793, linha 1: contagem texto teste contagem thread teste arquivo await CSharp CSharp teste
+Arquivo 793, linha 2: await async arquivo thread CSharp await contagem contagem arquivo
+Arquivo 793, linha 3: texto CSharp async CSharp CSharp
+Arquivo 793, linha 4: contagem linha async async linha texto
+Arquivo 793, linha 5: CSharp palavra linha arquivo await contagem contagem teste thread teste
+Arquivo 793, linha 6: teste linha palavra arquivo arquivo contagem async teste contagem linha palavra
+Arquivo 793, linha 7: linha teste teste async CSharp texto async await
+Arquivo 793, linha 8: arquivo linha teste thread contagem linha await CSharp arquivo
+Arquivo 793, linha 9: palavra palavra CSharp thread thread await teste async CSharp contagem async thread
+Arquivo 793, linha 10: palavra palavra thread CSharp CSharp contagem
+Arquivo 793, linha 11: thread CSharp CSharp await arquivo
+Arquivo 793, linha 12: teste await CSharp thread arquivo linha thread await palavra thread linha
+Arquivo 793, linha 13: teste texto contagem async linha palavra CSharp thread palavra contagem arquivo
+Arquivo 793, linha 14: linha async async await texto await arquivo arquivo texto linha await
+Arquivo 793, linha 15: teste arquivo CSharp texto linha palavra thread async await texto
+Arquivo 793, linha 16: thread contagem thread palavra thread async
+Arquivo 793, linha 17: CSharp linha texto async linha CSharp teste contagem
+Arquivo 793, linha 18: palavra linha linha await teste linha texto async
+Arquivo 793, linha 19: palavra await CSharp linha async CSharp async contagem palavra palavra contagem contagem

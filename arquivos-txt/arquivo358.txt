@@ -1,0 +1,10 @@
+=== Arquivo número 358 ===
+Arquivo 358, linha 1: thread contagem linha CSharp contagem palavra
+Arquivo 358, linha 2: contagem CSharp await palavra thread await texto CSharp
+Arquivo 358, linha 3: CSharp palavra async teste teste async linha
+Arquivo 358, linha 4: linha thread contagem teste teste
+Arquivo 358, linha 5: contagem await palavra await arquivo async async palavra palavra
+Arquivo 358, linha 6: thread thread teste palavra thread arquivo
+Arquivo 358, linha 7: async CSharp await linha texto teste linha arquivo
+Arquivo 358, linha 8: CSharp texto palavra linha thread await
+Arquivo 358, linha 9: arquivo teste linha palavra CSharp teste palavra thread await linha texto

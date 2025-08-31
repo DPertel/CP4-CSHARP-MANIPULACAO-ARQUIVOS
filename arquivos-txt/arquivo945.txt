@@ -1,0 +1,19 @@
+=== Arquivo número 945 ===
+Arquivo 945, linha 1: teste CSharp arquivo await contagem contagem
+Arquivo 945, linha 2: teste contagem CSharp CSharp await
+Arquivo 945, linha 3: linha async thread teste contagem async arquivo
+Arquivo 945, linha 4: palavra CSharp async async await texto thread async async
+Arquivo 945, linha 5: contagem palavra arquivo thread texto contagem thread
+Arquivo 945, linha 6: CSharp linha palavra async arquivo linha thread CSharp teste teste teste arquivo
+Arquivo 945, linha 7: contagem contagem contagem texto linha palavra await texto
+Arquivo 945, linha 8: async async palavra async contagem linha contagem
+Arquivo 945, linha 9: contagem async texto palavra thread texto arquivo linha
+Arquivo 945, linha 10: await await thread async async thread async
+Arquivo 945, linha 11: contagem contagem await palavra await arquivo teste arquivo await arquivo
+Arquivo 945, linha 12: async thread palavra CSharp async async CSharp arquivo contagem CSharp
+Arquivo 945, linha 13: linha thread contagem teste await
+Arquivo 945, linha 14: linha async teste CSharp arquivo
+Arquivo 945, linha 15: contagem CSharp thread CSharp await
+Arquivo 945, linha 16: CSharp palavra CSharp palavra thread
+Arquivo 945, linha 17: teste contagem texto thread contagem arquivo arquivo contagem async palavra CSharp
+Arquivo 945, linha 18: CSharp arquivo teste thread arquivo async teste contagem await arquivo CSharp

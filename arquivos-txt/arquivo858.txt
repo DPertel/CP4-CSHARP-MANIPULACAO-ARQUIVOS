@@ -1,0 +1,8 @@
+=== Arquivo número 858 ===
+Arquivo 858, linha 1: thread async contagem await teste contagem await arquivo async contagem teste
+Arquivo 858, linha 2: palavra await linha linha arquivo CSharp arquivo async await
+Arquivo 858, linha 3: arquivo await CSharp teste await palavra thread contagem palavra
+Arquivo 858, linha 4: CSharp CSharp await async await arquivo async async
+Arquivo 858, linha 5: texto palavra texto palavra arquivo palavra
+Arquivo 858, linha 6: thread contagem arquivo await palavra palavra async arquivo thread await texto teste
+Arquivo 858, linha 7: thread palavra teste async CSharp async await contagem palavra

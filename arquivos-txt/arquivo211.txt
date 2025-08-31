@@ -1,0 +1,8 @@
+=== Arquivo número 211 ===
+Arquivo 211, linha 1: thread linha texto arquivo thread thread
+Arquivo 211, linha 2: linha await texto async linha thread palavra
+Arquivo 211, linha 3: await arquivo teste texto texto teste thread await
+Arquivo 211, linha 4: texto palavra CSharp teste CSharp linha palavra CSharp texto linha texto
+Arquivo 211, linha 5: teste thread thread teste teste thread palavra contagem thread await
+Arquivo 211, linha 6: thread texto async async CSharp teste thread arquivo
+Arquivo 211, linha 7: thread texto texto linha teste await palavra palavra arquivo linha

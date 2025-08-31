@@ -1,0 +1,11 @@
+=== Arquivo número 990 ===
+Arquivo 990, linha 1: await CSharp palavra palavra await CSharp texto thread await arquivo await async
+Arquivo 990, linha 2: await await thread await teste palavra texto
+Arquivo 990, linha 3: teste texto linha linha CSharp CSharp texto thread arquivo await linha CSharp
+Arquivo 990, linha 4: thread CSharp thread thread teste thread CSharp texto palavra contagem await teste
+Arquivo 990, linha 5: texto texto thread contagem linha palavra async await async teste thread
+Arquivo 990, linha 6: CSharp async CSharp arquivo thread teste async async linha palavra await
+Arquivo 990, linha 7: arquivo linha await thread async arquivo async thread palavra
+Arquivo 990, linha 8: teste linha contagem thread await arquivo async arquivo async CSharp
+Arquivo 990, linha 9: texto CSharp linha arquivo palavra await palavra thread CSharp async contagem CSharp
+Arquivo 990, linha 10: palavra palavra CSharp arquivo contagem teste texto

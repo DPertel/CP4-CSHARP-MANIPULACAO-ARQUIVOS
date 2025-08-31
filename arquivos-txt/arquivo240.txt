@@ -1,0 +1,9 @@
+=== Arquivo número 240 ===
+Arquivo 240, linha 1: thread texto texto arquivo arquivo CSharp contagem palavra palavra palavra CSharp
+Arquivo 240, linha 2: CSharp linha CSharp await palavra teste contagem
+Arquivo 240, linha 3: await arquivo CSharp await linha
+Arquivo 240, linha 4: thread texto arquivo async palavra arquivo palavra thread teste
+Arquivo 240, linha 5: linha thread contagem linha await await contagem CSharp palavra CSharp
+Arquivo 240, linha 6: texto async arquivo teste thread palavra await async
+Arquivo 240, linha 7: contagem texto contagem thread async async linha contagem CSharp palavra palavra texto
+Arquivo 240, linha 8: linha contagem thread contagem palavra

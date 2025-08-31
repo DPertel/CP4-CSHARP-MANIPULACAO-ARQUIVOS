@@ -1,0 +1,13 @@
+=== Arquivo número 849 ===
+Arquivo 849, linha 1: teste arquivo CSharp thread CSharp async await contagem CSharp
+Arquivo 849, linha 2: async thread thread teste arquivo CSharp async async CSharp linha await
+Arquivo 849, linha 3: contagem palavra CSharp async teste CSharp texto CSharp palavra arquivo CSharp async
+Arquivo 849, linha 4: await texto thread linha thread thread
+Arquivo 849, linha 5: thread await texto texto teste palavra
+Arquivo 849, linha 6: linha async contagem CSharp thread thread contagem linha await contagem thread arquivo
+Arquivo 849, linha 7: CSharp arquivo texto linha async arquivo
+Arquivo 849, linha 8: contagem CSharp CSharp texto texto
+Arquivo 849, linha 9: teste thread contagem await teste
+Arquivo 849, linha 10: contagem teste linha teste arquivo
+Arquivo 849, linha 11: CSharp texto teste contagem palavra await CSharp
+Arquivo 849, linha 12: await texto thread arquivo async

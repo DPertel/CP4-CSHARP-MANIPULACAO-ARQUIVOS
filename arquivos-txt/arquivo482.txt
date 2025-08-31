@@ -1,0 +1,16 @@
+=== Arquivo número 482 ===
+Arquivo 482, linha 1: palavra contagem await linha async linha palavra
+Arquivo 482, linha 2: contagem teste texto await thread CSharp thread contagem texto
+Arquivo 482, linha 3: palavra linha await arquivo texto teste palavra
+Arquivo 482, linha 4: linha teste await arquivo arquivo linha
+Arquivo 482, linha 5: teste await texto linha await async teste async async arquivo
+Arquivo 482, linha 6: linha teste async teste contagem arquivo
+Arquivo 482, linha 7: teste async contagem teste async await
+Arquivo 482, linha 8: linha linha linha contagem texto teste await async palavra thread
+Arquivo 482, linha 9: CSharp teste contagem palavra thread contagem contagem arquivo contagem palavra
+Arquivo 482, linha 10: texto await arquivo thread teste CSharp teste contagem linha await
+Arquivo 482, linha 11: await await contagem linha linha contagem contagem arquivo thread CSharp arquivo
+Arquivo 482, linha 12: await teste palavra thread thread
+Arquivo 482, linha 13: thread contagem contagem async await texto texto await contagem linha
+Arquivo 482, linha 14: texto thread teste async palavra arquivo teste await palavra thread async contagem
+Arquivo 482, linha 15: contagem thread async await CSharp arquivo palavra teste async arquivo CSharp

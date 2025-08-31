@@ -1,0 +1,17 @@
+=== Arquivo número 490 ===
+Arquivo 490, linha 1: contagem arquivo arquivo thread CSharp CSharp linha await contagem linha palavra await
+Arquivo 490, linha 2: linha CSharp texto contagem linha
+Arquivo 490, linha 3: CSharp async thread CSharp palavra texto texto async arquivo CSharp
+Arquivo 490, linha 4: async palavra await arquivo palavra thread palavra texto CSharp
+Arquivo 490, linha 5: texto arquivo CSharp arquivo contagem palavra CSharp teste CSharp contagem
+Arquivo 490, linha 6: texto linha teste contagem CSharp await thread linha
+Arquivo 490, linha 7: async CSharp linha palavra async CSharp palavra
+Arquivo 490, linha 8: palavra async palavra palavra thread palavra arquivo arquivo palavra
+Arquivo 490, linha 9: linha palavra teste await palavra async arquivo linha texto thread
+Arquivo 490, linha 10: CSharp texto CSharp thread contagem texto contagem teste thread teste texto
+Arquivo 490, linha 11: CSharp texto texto palavra thread await linha await CSharp contagem linha teste
+Arquivo 490, linha 12: texto palavra CSharp arquivo palavra thread thread texto contagem CSharp
+Arquivo 490, linha 13: CSharp async contagem palavra teste palavra await linha teste contagem async
+Arquivo 490, linha 14: await thread async async arquivo teste CSharp teste contagem palavra arquivo
+Arquivo 490, linha 15: thread await async arquivo texto teste CSharp
+Arquivo 490, linha 16: await thread async await await

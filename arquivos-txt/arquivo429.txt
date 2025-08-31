@@ -1,0 +1,7 @@
+=== Arquivo número 429 ===
+Arquivo 429, linha 1: async arquivo texto await contagem palavra await await CSharp
+Arquivo 429, linha 2: linha texto palavra await linha arquivo CSharp contagem await contagem
+Arquivo 429, linha 3: await thread thread CSharp arquivo async
+Arquivo 429, linha 4: teste palavra thread CSharp linha await async
+Arquivo 429, linha 5: await linha async teste thread async thread thread await
+Arquivo 429, linha 6: CSharp palavra texto linha texto arquivo async texto CSharp async await

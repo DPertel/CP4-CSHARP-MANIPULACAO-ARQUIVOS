@@ -1,0 +1,9 @@
+=== Arquivo número 4 ===
+Arquivo 4, linha 1: arquivo texto palavra arquivo linha thread
+Arquivo 4, linha 2: linha palavra texto teste async await
+Arquivo 4, linha 3: arquivo contagem await palavra linha contagem await CSharp CSharp linha
+Arquivo 4, linha 4: arquivo linha palavra teste thread thread
+Arquivo 4, linha 5: CSharp async contagem contagem await
+Arquivo 4, linha 6: arquivo thread arquivo teste arquivo linha contagem linha arquivo thread linha
+Arquivo 4, linha 7: palavra texto CSharp teste arquivo palavra contagem linha await await
+Arquivo 4, linha 8: texto palavra palavra await texto CSharp await

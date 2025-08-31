@@ -1,0 +1,16 @@
+=== Arquivo número 888 ===
+Arquivo 888, linha 1: await palavra palavra thread teste teste thread
+Arquivo 888, linha 2: teste await palavra await async await teste
+Arquivo 888, linha 3: linha CSharp await arquivo await await
+Arquivo 888, linha 4: thread async palavra async thread CSharp linha
+Arquivo 888, linha 5: await palavra palavra texto await await arquivo
+Arquivo 888, linha 6: teste CSharp linha texto contagem palavra linha texto CSharp linha async
+Arquivo 888, linha 7: contagem CSharp linha await arquivo
+Arquivo 888, linha 8: thread async CSharp async CSharp async arquivo await
+Arquivo 888, linha 9: thread texto await await arquivo async thread palavra linha
+Arquivo 888, linha 10: palavra linha palavra CSharp CSharp await texto async linha linha
+Arquivo 888, linha 11: thread await async arquivo CSharp arquivo texto thread
+Arquivo 888, linha 12: async thread contagem palavra CSharp arquivo
+Arquivo 888, linha 13: teste await arquivo arquivo palavra teste async linha
+Arquivo 888, linha 14: async texto linha arquivo async contagem palavra palavra palavra thread
+Arquivo 888, linha 15: CSharp teste teste linha linha CSharp CSharp palavra contagem

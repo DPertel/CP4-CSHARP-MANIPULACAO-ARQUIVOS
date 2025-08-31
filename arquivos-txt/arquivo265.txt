@@ -1,0 +1,17 @@
+=== Arquivo número 265 ===
+Arquivo 265, linha 1: linha arquivo arquivo contagem CSharp await
+Arquivo 265, linha 2: teste thread await await CSharp contagem CSharp async
+Arquivo 265, linha 3: palavra CSharp arquivo thread await arquivo CSharp linha thread
+Arquivo 265, linha 4: teste arquivo arquivo palavra contagem linha palavra linha arquivo
+Arquivo 265, linha 5: arquivo thread await contagem teste CSharp thread CSharp
+Arquivo 265, linha 6: teste async CSharp palavra arquivo texto palavra teste async arquivo arquivo
+Arquivo 265, linha 7: thread arquivo texto CSharp teste texto await CSharp async
+Arquivo 265, linha 8: CSharp await CSharp thread async texto CSharp linha
+Arquivo 265, linha 9: arquivo async await CSharp texto await arquivo palavra async
+Arquivo 265, linha 10: thread palavra teste await teste arquivo texto arquivo texto CSharp CSharp
+Arquivo 265, linha 11: async linha CSharp async arquivo linha async
+Arquivo 265, linha 12: CSharp texto teste arquivo teste arquivo thread teste CSharp linha arquivo async
+Arquivo 265, linha 13: thread linha contagem texto linha
+Arquivo 265, linha 14: palavra arquivo contagem CSharp CSharp arquivo contagem arquivo
+Arquivo 265, linha 15: thread thread contagem linha teste texto
+Arquivo 265, linha 16: linha arquivo contagem thread linha await await

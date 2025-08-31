@@ -1,0 +1,11 @@
+=== Arquivo número 927 ===
+Arquivo 927, linha 1: palavra await async CSharp await contagem texto contagem
+Arquivo 927, linha 2: async arquivo arquivo async contagem arquivo await
+Arquivo 927, linha 3: CSharp CSharp CSharp linha teste contagem arquivo CSharp async async texto
+Arquivo 927, linha 4: palavra await texto CSharp async
+Arquivo 927, linha 5: await arquivo arquivo await teste texto linha linha teste texto CSharp CSharp
+Arquivo 927, linha 6: contagem CSharp CSharp CSharp CSharp linha
+Arquivo 927, linha 7: thread await thread contagem teste thread palavra linha
+Arquivo 927, linha 8: thread contagem thread linha async await teste contagem teste linha
+Arquivo 927, linha 9: texto thread palavra await texto texto await arquivo palavra palavra
+Arquivo 927, linha 10: linha teste async linha arquivo thread thread teste

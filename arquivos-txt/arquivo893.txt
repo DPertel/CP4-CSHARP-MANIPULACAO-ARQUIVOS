@@ -1,0 +1,18 @@
+=== Arquivo número 893 ===
+Arquivo 893, linha 1: texto async await arquivo palavra teste arquivo texto await
+Arquivo 893, linha 2: contagem arquivo await texto await texto contagem palavra teste await contagem
+Arquivo 893, linha 3: teste async linha CSharp linha palavra
+Arquivo 893, linha 4: CSharp contagem teste linha async
+Arquivo 893, linha 5: CSharp contagem texto contagem contagem async
+Arquivo 893, linha 6: contagem linha thread teste thread contagem await arquivo palavra linha async
+Arquivo 893, linha 7: CSharp CSharp contagem texto arquivo teste contagem palavra thread await palavra texto
+Arquivo 893, linha 8: linha await thread teste contagem texto teste CSharp palavra contagem texto
+Arquivo 893, linha 9: async thread await arquivo palavra palavra teste teste CSharp contagem linha
+Arquivo 893, linha 10: await texto contagem thread CSharp
+Arquivo 893, linha 11: async texto contagem async contagem linha palavra linha
+Arquivo 893, linha 12: linha async palavra palavra teste
+Arquivo 893, linha 13: linha thread arquivo thread CSharp arquivo thread palavra thread
+Arquivo 893, linha 14: arquivo thread linha teste contagem
+Arquivo 893, linha 15: thread CSharp palavra arquivo async linha CSharp
+Arquivo 893, linha 16: texto thread thread async linha contagem thread CSharp teste texto async contagem
+Arquivo 893, linha 17: await CSharp arquivo arquivo palavra palavra contagem async linha await contagem palavra

@@ -1,0 +1,17 @@
+=== Arquivo número 509 ===
+Arquivo 509, linha 1: contagem linha await arquivo contagem thread async await palavra
+Arquivo 509, linha 2: CSharp await arquivo palavra arquivo teste CSharp linha
+Arquivo 509, linha 3: thread arquivo await await palavra arquivo thread await teste palavra linha CSharp
+Arquivo 509, linha 4: contagem thread CSharp async await palavra palavra thread arquivo contagem await arquivo
+Arquivo 509, linha 5: contagem arquivo palavra linha CSharp arquivo
+Arquivo 509, linha 6: contagem texto CSharp await async await async thread
+Arquivo 509, linha 7: linha thread texto await contagem teste contagem await thread linha
+Arquivo 509, linha 8: palavra palavra arquivo linha async teste async CSharp arquivo thread CSharp texto
+Arquivo 509, linha 9: texto CSharp CSharp texto await
+Arquivo 509, linha 10: await texto palavra await palavra arquivo texto await teste linha arquivo
+Arquivo 509, linha 11: contagem contagem linha linha contagem teste linha async contagem
+Arquivo 509, linha 12: arquivo arquivo texto CSharp contagem
+Arquivo 509, linha 13: await palavra CSharp thread arquivo texto async async palavra arquivo
+Arquivo 509, linha 14: CSharp thread thread linha async linha arquivo arquivo teste
+Arquivo 509, linha 15: thread contagem CSharp async arquivo await texto texto await
+Arquivo 509, linha 16: teste CSharp texto async async contagem contagem async linha async contagem async

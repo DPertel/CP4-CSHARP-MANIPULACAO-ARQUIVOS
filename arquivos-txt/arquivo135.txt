@@ -1,0 +1,17 @@
+=== Arquivo número 135 ===
+Arquivo 135, linha 1: texto arquivo linha contagem teste palavra
+Arquivo 135, linha 2: contagem arquivo CSharp await CSharp thread await thread thread CSharp texto CSharp
+Arquivo 135, linha 3: thread async await arquivo contagem palavra
+Arquivo 135, linha 4: CSharp teste linha thread async teste palavra async
+Arquivo 135, linha 5: teste arquivo await teste await palavra texto await linha
+Arquivo 135, linha 6: linha thread palavra linha linha
+Arquivo 135, linha 7: linha linha await palavra thread thread
+Arquivo 135, linha 8: CSharp CSharp async contagem texto palavra contagem linha
+Arquivo 135, linha 9: texto teste thread teste texto texto await palavra teste
+Arquivo 135, linha 10: palavra linha linha thread CSharp teste CSharp linha texto palavra texto
+Arquivo 135, linha 11: texto CSharp thread await arquivo contagem thread arquivo linha contagem palavra
+Arquivo 135, linha 12: CSharp texto contagem arquivo texto teste await linha palavra CSharp async
+Arquivo 135, linha 13: async arquivo palavra await await CSharp teste
+Arquivo 135, linha 14: arquivo teste contagem texto linha async
+Arquivo 135, linha 15: async teste async linha texto
+Arquivo 135, linha 16: arquivo thread CSharp texto await palavra texto teste arquivo

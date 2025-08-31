@@ -1,0 +1,18 @@
+=== Arquivo número 572 ===
+Arquivo 572, linha 1: arquivo thread teste arquivo arquivo thread teste contagem linha async
+Arquivo 572, linha 2: teste palavra CSharp contagem arquivo teste arquivo teste palavra
+Arquivo 572, linha 3: await thread thread linha texto contagem texto CSharp arquivo
+Arquivo 572, linha 4: thread arquivo texto async contagem async linha thread
+Arquivo 572, linha 5: palavra thread await teste contagem linha async async palavra contagem
+Arquivo 572, linha 6: arquivo arquivo async CSharp async await await arquivo arquivo contagem arquivo await
+Arquivo 572, linha 7: contagem contagem teste palavra linha texto arquivo arquivo palavra texto teste
+Arquivo 572, linha 8: async linha async CSharp teste await palavra contagem CSharp texto
+Arquivo 572, linha 9: await async contagem thread async contagem linha linha linha arquivo texto
+Arquivo 572, linha 10: palavra arquivo CSharp palavra teste teste palavra await thread teste async contagem
+Arquivo 572, linha 11: teste palavra contagem palavra teste thread linha linha
+Arquivo 572, linha 12: thread contagem texto async linha linha CSharp arquivo linha
+Arquivo 572, linha 13: CSharp contagem palavra CSharp texto palavra texto contagem
+Arquivo 572, linha 14: async async thread CSharp teste palavra teste palavra await
+Arquivo 572, linha 15: palavra arquivo palavra arquivo texto arquivo arquivo thread async teste teste await
+Arquivo 572, linha 16: linha teste texto CSharp thread await CSharp linha teste texto arquivo thread
+Arquivo 572, linha 17: linha linha texto linha CSharp async texto teste contagem await arquivo contagem

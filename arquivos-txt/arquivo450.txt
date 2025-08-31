@@ -1,0 +1,6 @@
+=== Arquivo número 450 ===
+Arquivo 450, linha 1: teste contagem await async linha
+Arquivo 450, linha 2: linha contagem texto thread teste await async await
+Arquivo 450, linha 3: async thread palavra await texto
+Arquivo 450, linha 4: texto palavra linha thread texto CSharp
+Arquivo 450, linha 5: contagem await contagem texto palavra CSharp CSharp texto teste arquivo

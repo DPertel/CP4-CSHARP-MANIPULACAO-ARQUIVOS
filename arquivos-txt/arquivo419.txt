@@ -1,0 +1,9 @@
+=== Arquivo número 419 ===
+Arquivo 419, linha 1: thread async thread async teste palavra await arquivo await await linha CSharp
+Arquivo 419, linha 2: await palavra teste linha texto texto
+Arquivo 419, linha 3: texto async thread async await teste
+Arquivo 419, linha 4: texto palavra await texto teste teste teste texto
+Arquivo 419, linha 5: CSharp teste arquivo arquivo linha contagem await contagem
+Arquivo 419, linha 6: arquivo linha thread thread palavra linha teste await texto linha palavra linha
+Arquivo 419, linha 7: CSharp await await arquivo linha CSharp palavra
+Arquivo 419, linha 8: async await arquivo texto teste CSharp CSharp teste arquivo thread

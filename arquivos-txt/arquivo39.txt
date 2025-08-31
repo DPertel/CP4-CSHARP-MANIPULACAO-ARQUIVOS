@@ -1,0 +1,18 @@
+=== Arquivo número 39 ===
+Arquivo 39, linha 1: linha teste async thread teste texto teste async
+Arquivo 39, linha 2: texto teste texto CSharp texto thread CSharp linha contagem teste contagem
+Arquivo 39, linha 3: CSharp contagem CSharp thread teste arquivo arquivo arquivo await contagem linha
+Arquivo 39, linha 4: arquivo contagem CSharp arquivo palavra async CSharp async
+Arquivo 39, linha 5: linha arquivo contagem palavra texto palavra thread arquivo palavra async palavra contagem
+Arquivo 39, linha 6: linha await teste CSharp thread arquivo teste arquivo contagem contagem arquivo
+Arquivo 39, linha 7: thread palavra await thread await arquivo
+Arquivo 39, linha 8: async palavra linha arquivo contagem contagem thread async texto thread arquivo await
+Arquivo 39, linha 9: palavra arquivo thread texto palavra linha
+Arquivo 39, linha 10: thread texto teste contagem thread palavra palavra arquivo
+Arquivo 39, linha 11: thread async contagem teste async teste palavra
+Arquivo 39, linha 12: texto contagem teste arquivo arquivo
+Arquivo 39, linha 13: texto texto contagem teste texto contagem await linha CSharp thread linha
+Arquivo 39, linha 14: thread linha contagem async linha CSharp arquivo await async arquivo arquivo CSharp
+Arquivo 39, linha 15: arquivo CSharp async thread thread linha arquivo CSharp texto await thread
+Arquivo 39, linha 16: CSharp palavra palavra async async
+Arquivo 39, linha 17: async arquivo async arquivo linha await CSharp async await palavra

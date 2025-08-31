@@ -1,0 +1,8 @@
+=== Arquivo número 436 ===
+Arquivo 436, linha 1: linha linha thread palavra arquivo palavra CSharp texto palavra CSharp linha palavra
+Arquivo 436, linha 2: await thread thread thread thread CSharp
+Arquivo 436, linha 3: arquivo thread linha CSharp thread teste arquivo
+Arquivo 436, linha 4: texto linha contagem async thread async palavra arquivo
+Arquivo 436, linha 5: await contagem palavra await texto
+Arquivo 436, linha 6: async texto texto palavra CSharp thread arquivo await texto async
+Arquivo 436, linha 7: texto CSharp linha arquivo texto linha

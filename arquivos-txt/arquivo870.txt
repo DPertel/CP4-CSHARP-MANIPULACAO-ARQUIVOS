@@ -1,0 +1,15 @@
+=== Arquivo número 870 ===
+Arquivo 870, linha 1: contagem async palavra contagem thread
+Arquivo 870, linha 2: await teste CSharp await arquivo texto arquivo CSharp CSharp contagem thread contagem
+Arquivo 870, linha 3: teste contagem palavra texto palavra contagem teste
+Arquivo 870, linha 4: CSharp linha thread linha async await texto async texto
+Arquivo 870, linha 5: contagem contagem palavra linha linha teste palavra palavra async linha thread thread
+Arquivo 870, linha 6: arquivo CSharp teste texto arquivo async
+Arquivo 870, linha 7: teste palavra async thread arquivo thread texto thread
+Arquivo 870, linha 8: async await texto CSharp async linha palavra CSharp contagem arquivo await
+Arquivo 870, linha 9: contagem linha contagem arquivo arquivo await CSharp thread texto contagem CSharp palavra
+Arquivo 870, linha 10: arquivo thread arquivo arquivo palavra async contagem teste thread teste
+Arquivo 870, linha 11: thread CSharp palavra teste palavra teste teste await thread arquivo
+Arquivo 870, linha 12: thread palavra linha CSharp arquivo contagem thread
+Arquivo 870, linha 13: contagem arquivo thread async texto thread teste async
+Arquivo 870, linha 14: CSharp await await await teste async

@@ -1,0 +1,11 @@
+=== Arquivo número 422 ===
+Arquivo 422, linha 1: linha CSharp teste arquivo thread linha
+Arquivo 422, linha 2: palavra contagem async contagem contagem teste teste thread palavra palavra teste teste
+Arquivo 422, linha 3: arquivo linha linha await thread contagem linha thread arquivo teste linha palavra
+Arquivo 422, linha 4: async async async palavra thread contagem thread arquivo
+Arquivo 422, linha 5: teste await palavra texto contagem await async palavra await async
+Arquivo 422, linha 6: CSharp linha await linha palavra palavra
+Arquivo 422, linha 7: linha async thread async async CSharp
+Arquivo 422, linha 8: palavra CSharp texto CSharp texto await arquivo palavra palavra linha await
+Arquivo 422, linha 9: CSharp teste thread thread thread thread teste await async palavra texto palavra
+Arquivo 422, linha 10: arquivo palavra contagem async CSharp

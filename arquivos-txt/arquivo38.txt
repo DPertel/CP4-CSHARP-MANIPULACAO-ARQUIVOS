@@ -1,0 +1,9 @@
+=== Arquivo número 38 ===
+Arquivo 38, linha 1: teste teste CSharp texto CSharp texto await arquivo async arquivo arquivo
+Arquivo 38, linha 2: CSharp texto arquivo teste teste linha palavra
+Arquivo 38, linha 3: palavra arquivo teste CSharp palavra contagem await
+Arquivo 38, linha 4: contagem texto arquivo palavra palavra async await texto CSharp
+Arquivo 38, linha 5: async thread async CSharp async palavra await
+Arquivo 38, linha 6: async texto linha linha await linha teste
+Arquivo 38, linha 7: thread await contagem await CSharp linha teste async await async thread arquivo
+Arquivo 38, linha 8: CSharp arquivo palavra async thread

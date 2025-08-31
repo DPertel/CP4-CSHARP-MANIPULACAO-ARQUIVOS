@@ -1,0 +1,12 @@
+=== Arquivo número 856 ===
+Arquivo 856, linha 1: arquivo contagem palavra arquivo arquivo arquivo contagem texto
+Arquivo 856, linha 2: linha teste teste await thread linha async contagem
+Arquivo 856, linha 3: teste palavra texto texto await
+Arquivo 856, linha 4: thread await palavra async CSharp linha async palavra
+Arquivo 856, linha 5: await arquivo async texto texto linha texto CSharp linha teste contagem
+Arquivo 856, linha 6: teste palavra CSharp async async teste teste thread texto await contagem
+Arquivo 856, linha 7: async CSharp thread thread palavra texto async async await
+Arquivo 856, linha 8: texto thread palavra thread arquivo contagem linha linha
+Arquivo 856, linha 9: teste palavra texto palavra thread contagem
+Arquivo 856, linha 10: linha contagem async arquivo CSharp CSharp CSharp texto CSharp async await thread
+Arquivo 856, linha 11: CSharp palavra await CSharp await contagem palavra await CSharp palavra teste arquivo

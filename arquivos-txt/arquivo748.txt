@@ -1,0 +1,18 @@
+=== Arquivo número 748 ===
+Arquivo 748, linha 1: palavra palavra contagem palavra CSharp contagem texto
+Arquivo 748, linha 2: palavra palavra CSharp texto async teste linha
+Arquivo 748, linha 3: await teste CSharp arquivo linha texto texto
+Arquivo 748, linha 4: contagem palavra thread linha CSharp teste async CSharp
+Arquivo 748, linha 5: async palavra linha palavra async teste await teste contagem thread await
+Arquivo 748, linha 6: linha arquivo thread await async thread texto
+Arquivo 748, linha 7: CSharp await linha texto arquivo palavra palavra thread await arquivo CSharp await
+Arquivo 748, linha 8: await thread CSharp CSharp contagem async contagem CSharp
+Arquivo 748, linha 9: palavra linha teste linha palavra texto palavra teste palavra
+Arquivo 748, linha 10: CSharp arquivo texto contagem await texto thread arquivo palavra
+Arquivo 748, linha 11: contagem texto await arquivo teste linha CSharp texto CSharp CSharp arquivo
+Arquivo 748, linha 12: await arquivo async CSharp teste teste palavra teste await thread CSharp await
+Arquivo 748, linha 13: async palavra palavra linha arquivo
+Arquivo 748, linha 14: texto thread async linha CSharp arquivo teste palavra texto
+Arquivo 748, linha 15: teste CSharp thread CSharp contagem contagem async arquivo linha
+Arquivo 748, linha 16: palavra contagem teste thread thread linha await
+Arquivo 748, linha 17: texto texto texto arquivo contagem linha async

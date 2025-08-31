@@ -1,0 +1,8 @@
+=== Arquivo número 175 ===
+Arquivo 175, linha 1: thread await palavra CSharp texto async arquivo palavra await async linha await
+Arquivo 175, linha 2: contagem teste thread thread async palavra arquivo async palavra await
+Arquivo 175, linha 3: linha await palavra await thread
+Arquivo 175, linha 4: await palavra arquivo await contagem contagem palavra palavra
+Arquivo 175, linha 5: texto teste palavra thread teste await
+Arquivo 175, linha 6: texto contagem palavra thread async CSharp async texto palavra palavra
+Arquivo 175, linha 7: texto palavra teste async arquivo palavra

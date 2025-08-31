@@ -1,0 +1,5 @@
+=== Arquivo número 407 ===
+Arquivo 407, linha 1: contagem contagem linha CSharp CSharp teste palavra async palavra linha palavra contagem
+Arquivo 407, linha 2: thread arquivo linha texto CSharp CSharp arquivo async await texto
+Arquivo 407, linha 3: CSharp await teste async thread palavra teste async texto
+Arquivo 407, linha 4: async await await thread linha contagem contagem

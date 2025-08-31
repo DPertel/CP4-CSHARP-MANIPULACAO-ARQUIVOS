@@ -1,0 +1,10 @@
+=== Arquivo número 66 ===
+Arquivo 66, linha 1: async linha contagem thread thread
+Arquivo 66, linha 2: async arquivo palavra contagem linha thread async thread arquivo arquivo teste await
+Arquivo 66, linha 3: await palavra texto contagem arquivo
+Arquivo 66, linha 4: palavra linha contagem async await thread teste linha thread teste teste arquivo
+Arquivo 66, linha 5: thread linha linha texto texto
+Arquivo 66, linha 6: thread linha linha async linha CSharp teste linha linha async texto
+Arquivo 66, linha 7: CSharp teste CSharp arquivo linha CSharp thread contagem palavra arquivo teste palavra
+Arquivo 66, linha 8: palavra texto arquivo contagem async
+Arquivo 66, linha 9: contagem async linha texto thread palavra palavra texto palavra arquivo contagem

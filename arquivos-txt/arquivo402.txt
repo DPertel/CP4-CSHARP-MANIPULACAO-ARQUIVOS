@@ -1,0 +1,6 @@
+=== Arquivo número 402 ===
+Arquivo 402, linha 1: async CSharp teste CSharp await thread thread linha async await
+Arquivo 402, linha 2: arquivo linha CSharp contagem arquivo async
+Arquivo 402, linha 3: await async arquivo await CSharp contagem palavra await thread
+Arquivo 402, linha 4: arquivo arquivo palavra arquivo teste teste CSharp await
+Arquivo 402, linha 5: CSharp texto arquivo await await

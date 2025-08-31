@@ -1,0 +1,12 @@
+=== Arquivo número 264 ===
+Arquivo 264, linha 1: async texto palavra arquivo CSharp async linha thread CSharp arquivo contagem thread
+Arquivo 264, linha 2: arquivo await palavra contagem arquivo palavra await contagem
+Arquivo 264, linha 3: palavra arquivo await CSharp contagem async
+Arquivo 264, linha 4: linha async teste teste async CSharp palavra teste texto texto await
+Arquivo 264, linha 5: contagem async async await await CSharp await texto contagem async async
+Arquivo 264, linha 6: teste linha teste contagem async await CSharp async await CSharp palavra
+Arquivo 264, linha 7: teste palavra teste texto thread teste async texto palavra contagem thread
+Arquivo 264, linha 8: texto async contagem async await thread async teste CSharp await palavra
+Arquivo 264, linha 9: palavra async teste contagem palavra arquivo CSharp async
+Arquivo 264, linha 10: thread CSharp arquivo async async arquivo
+Arquivo 264, linha 11: CSharp thread linha CSharp teste linha texto contagem CSharp

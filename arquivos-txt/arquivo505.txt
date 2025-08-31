@@ -1,0 +1,19 @@
+=== Arquivo número 505 ===
+Arquivo 505, linha 1: linha texto linha texto palavra async contagem contagem await linha linha
+Arquivo 505, linha 2: contagem palavra teste thread await await linha CSharp thread texto texto linha
+Arquivo 505, linha 3: linha arquivo thread palavra arquivo async async texto contagem async thread
+Arquivo 505, linha 4: await linha async texto linha async await CSharp linha linha texto CSharp
+Arquivo 505, linha 5: thread contagem await thread palavra arquivo texto texto await await texto
+Arquivo 505, linha 6: linha arquivo teste await thread linha arquivo thread teste async palavra
+Arquivo 505, linha 7: teste async CSharp contagem linha linha
+Arquivo 505, linha 8: await palavra arquivo await texto texto texto arquivo palavra teste
+Arquivo 505, linha 9: teste await thread teste teste texto thread linha contagem
+Arquivo 505, linha 10: arquivo contagem async linha contagem thread linha
+Arquivo 505, linha 11: palavra linha CSharp teste contagem async arquivo palavra await thread contagem contagem
+Arquivo 505, linha 12: thread CSharp thread await thread teste contagem async async teste contagem contagem
+Arquivo 505, linha 13: teste CSharp linha thread teste
+Arquivo 505, linha 14: CSharp teste linha arquivo teste contagem
+Arquivo 505, linha 15: thread CSharp contagem arquivo async texto texto linha linha
+Arquivo 505, linha 16: await linha palavra async contagem thread
+Arquivo 505, linha 17: teste thread CSharp await thread thread texto
+Arquivo 505, linha 18: CSharp linha CSharp linha teste texto linha CSharp

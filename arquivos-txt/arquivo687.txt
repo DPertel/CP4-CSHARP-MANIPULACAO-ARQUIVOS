@@ -1,0 +1,13 @@
+=== Arquivo número 687 ===
+Arquivo 687, linha 1: palavra palavra await contagem await arquivo texto palavra
+Arquivo 687, linha 2: teste palavra palavra teste await
+Arquivo 687, linha 3: texto thread palavra await await palavra palavra thread teste
+Arquivo 687, linha 4: palavra texto CSharp palavra palavra contagem
+Arquivo 687, linha 5: async texto async linha await thread thread linha thread
+Arquivo 687, linha 6: linha async arquivo arquivo CSharp arquivo
+Arquivo 687, linha 7: linha linha palavra linha CSharp thread thread teste async arquivo thread texto
+Arquivo 687, linha 8: await contagem CSharp arquivo palavra
+Arquivo 687, linha 9: palavra teste async teste contagem palavra CSharp arquivo teste
+Arquivo 687, linha 10: linha linha await teste texto contagem linha async linha CSharp
+Arquivo 687, linha 11: teste arquivo teste texto async arquivo contagem texto palavra contagem
+Arquivo 687, linha 12: linha arquivo contagem contagem CSharp texto

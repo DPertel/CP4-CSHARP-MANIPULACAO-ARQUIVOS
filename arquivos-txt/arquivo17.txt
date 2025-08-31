@@ -1,0 +1,19 @@
+=== Arquivo número 17 ===
+Arquivo 17, linha 1: thread palavra await contagem contagem palavra
+Arquivo 17, linha 2: arquivo async teste CSharp CSharp arquivo linha async
+Arquivo 17, linha 3: contagem texto contagem CSharp await async CSharp await palavra
+Arquivo 17, linha 4: texto async contagem async thread async linha teste thread texto teste
+Arquivo 17, linha 5: async texto async contagem thread teste contagem
+Arquivo 17, linha 6: await arquivo arquivo texto linha CSharp
+Arquivo 17, linha 7: teste await palavra arquivo teste palavra await texto contagem contagem
+Arquivo 17, linha 8: linha async palavra await texto teste texto CSharp linha texto teste CSharp
+Arquivo 17, linha 9: palavra linha texto CSharp thread await contagem
+Arquivo 17, linha 10: await contagem texto await await contagem linha
+Arquivo 17, linha 11: texto await linha texto await contagem linha teste
+Arquivo 17, linha 12: CSharp linha await teste contagem linha contagem thread linha linha CSharp palavra
+Arquivo 17, linha 13: await async texto linha CSharp
+Arquivo 17, linha 14: linha thread await linha texto linha linha async palavra texto
+Arquivo 17, linha 15: async arquivo await async arquivo async thread async texto
+Arquivo 17, linha 16: await contagem await palavra teste texto texto arquivo async linha palavra
+Arquivo 17, linha 17: thread async teste texto thread arquivo
+Arquivo 17, linha 18: async async await linha async teste thread texto linha teste CSharp CSharp

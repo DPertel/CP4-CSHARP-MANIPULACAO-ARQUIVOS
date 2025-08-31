@@ -1,0 +1,18 @@
+=== Arquivo número 574 ===
+Arquivo 574, linha 1: contagem texto linha teste await contagem async CSharp texto CSharp palavra
+Arquivo 574, linha 2: palavra palavra CSharp palavra thread await palavra contagem
+Arquivo 574, linha 3: contagem arquivo texto await palavra teste thread arquivo texto arquivo await
+Arquivo 574, linha 4: palavra teste CSharp teste arquivo
+Arquivo 574, linha 5: thread contagem teste palavra contagem teste texto async arquivo contagem
+Arquivo 574, linha 6: texto arquivo palavra arquivo linha
+Arquivo 574, linha 7: texto teste arquivo async linha await linha arquivo arquivo CSharp
+Arquivo 574, linha 8: await linha teste palavra arquivo thread CSharp arquivo linha teste texto async
+Arquivo 574, linha 9: texto async CSharp CSharp texto await async texto thread
+Arquivo 574, linha 10: linha arquivo async arquivo palavra arquivo await linha teste
+Arquivo 574, linha 11: async async CSharp palavra linha palavra contagem texto contagem texto
+Arquivo 574, linha 12: palavra texto await CSharp async CSharp CSharp arquivo
+Arquivo 574, linha 13: contagem CSharp CSharp texto texto async contagem thread contagem CSharp
+Arquivo 574, linha 14: await texto texto arquivo palavra async palavra thread await contagem
+Arquivo 574, linha 15: palavra teste texto palavra linha
+Arquivo 574, linha 16: texto thread linha linha texto CSharp arquivo async linha arquivo teste await
+Arquivo 574, linha 17: palavra arquivo texto linha arquivo palavra CSharp arquivo async texto

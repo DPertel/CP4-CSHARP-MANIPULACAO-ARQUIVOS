@@ -1,0 +1,15 @@
+=== Arquivo número 330 ===
+Arquivo 330, linha 1: linha palavra linha thread thread async arquivo async
+Arquivo 330, linha 2: texto arquivo thread linha CSharp arquivo
+Arquivo 330, linha 3: texto contagem thread thread linha linha await arquivo
+Arquivo 330, linha 4: palavra texto teste arquivo teste texto
+Arquivo 330, linha 5: async thread CSharp async CSharp
+Arquivo 330, linha 6: texto async texto async palavra
+Arquivo 330, linha 7: CSharp thread await arquivo arquivo contagem linha texto
+Arquivo 330, linha 8: CSharp CSharp CSharp await thread linha texto arquivo teste await teste await
+Arquivo 330, linha 9: arquivo arquivo arquivo async texto CSharp
+Arquivo 330, linha 10: palavra teste palavra await linha
+Arquivo 330, linha 11: teste contagem arquivo teste teste teste arquivo await thread await linha
+Arquivo 330, linha 12: CSharp contagem palavra contagem teste linha contagem teste teste
+Arquivo 330, linha 13: CSharp arquivo palavra contagem palavra linha thread linha texto async await thread
+Arquivo 330, linha 14: teste texto texto texto thread await contagem texto CSharp thread CSharp

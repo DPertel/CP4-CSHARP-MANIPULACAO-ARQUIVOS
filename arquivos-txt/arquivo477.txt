@@ -1,0 +1,18 @@
+=== Arquivo número 477 ===
+Arquivo 477, linha 1: thread await linha await texto texto arquivo
+Arquivo 477, linha 2: texto palavra palavra thread teste async CSharp palavra texto thread arquivo
+Arquivo 477, linha 3: CSharp async CSharp await teste await texto teste arquivo palavra linha
+Arquivo 477, linha 4: arquivo async async linha CSharp arquivo
+Arquivo 477, linha 5: teste palavra await contagem teste palavra teste contagem texto
+Arquivo 477, linha 6: texto contagem async CSharp CSharp async linha texto
+Arquivo 477, linha 7: thread arquivo async arquivo palavra thread CSharp thread CSharp
+Arquivo 477, linha 8: teste thread CSharp linha contagem thread palavra contagem texto CSharp arquivo teste
+Arquivo 477, linha 9: contagem linha async texto teste arquivo await CSharp contagem thread async
+Arquivo 477, linha 10: arquivo linha teste await arquivo palavra linha texto texto linha contagem await
+Arquivo 477, linha 11: thread linha arquivo async palavra linha teste await CSharp texto palavra
+Arquivo 477, linha 12: async texto texto thread arquivo arquivo thread await teste palavra
+Arquivo 477, linha 13: teste CSharp teste arquivo thread thread linha arquivo palavra arquivo teste
+Arquivo 477, linha 14: linha texto async await teste contagem async teste linha arquivo CSharp teste
+Arquivo 477, linha 15: texto teste arquivo async async teste arquivo palavra linha linha arquivo
+Arquivo 477, linha 16: contagem async await thread teste thread thread CSharp await
+Arquivo 477, linha 17: texto arquivo contagem contagem contagem teste teste texto CSharp CSharp palavra contagem

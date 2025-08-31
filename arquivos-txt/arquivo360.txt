@@ -1,0 +1,13 @@
+=== Arquivo número 360 ===
+Arquivo 360, linha 1: await async palavra linha texto arquivo linha CSharp CSharp contagem
+Arquivo 360, linha 2: texto palavra arquivo texto thread linha texto teste texto
+Arquivo 360, linha 3: await arquivo teste CSharp await
+Arquivo 360, linha 4: thread linha linha CSharp async contagem async texto linha arquivo palavra contagem
+Arquivo 360, linha 5: arquivo teste arquivo teste await linha teste async
+Arquivo 360, linha 6: teste await contagem async teste contagem
+Arquivo 360, linha 7: linha CSharp linha teste palavra thread texto linha CSharp
+Arquivo 360, linha 8: contagem async thread CSharp teste linha async linha linha
+Arquivo 360, linha 9: await texto arquivo CSharp palavra arquivo
+Arquivo 360, linha 10: texto contagem thread teste arquivo texto linha await thread CSharp CSharp texto
+Arquivo 360, linha 11: async texto arquivo thread arquivo palavra async contagem await
+Arquivo 360, linha 12: thread async linha arquivo thread await palavra thread contagem async contagem CSharp

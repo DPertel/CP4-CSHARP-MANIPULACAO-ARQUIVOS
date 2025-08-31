@@ -1,0 +1,10 @@
+=== Arquivo número 908 ===
+Arquivo 908, linha 1: thread CSharp palavra await teste CSharp arquivo palavra thread teste texto thread
+Arquivo 908, linha 2: thread arquivo CSharp CSharp palavra palavra contagem linha palavra palavra
+Arquivo 908, linha 3: arquivo palavra teste texto arquivo thread await CSharp
+Arquivo 908, linha 4: thread thread await contagem contagem linha
+Arquivo 908, linha 5: palavra await await arquivo contagem thread teste linha
+Arquivo 908, linha 6: arquivo thread async async contagem teste await async thread texto linha
+Arquivo 908, linha 7: CSharp thread await linha contagem linha thread texto texto linha palavra
+Arquivo 908, linha 8: thread await await CSharp arquivo CSharp async teste CSharp teste await await
+Arquivo 908, linha 9: async teste CSharp linha await arquivo contagem thread async

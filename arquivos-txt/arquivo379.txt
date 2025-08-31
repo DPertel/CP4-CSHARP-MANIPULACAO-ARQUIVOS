@@ -1,0 +1,17 @@
+=== Arquivo número 379 ===
+Arquivo 379, linha 1: await async contagem thread teste palavra
+Arquivo 379, linha 2: contagem linha CSharp arquivo linha thread linha
+Arquivo 379, linha 3: await palavra arquivo await texto CSharp arquivo await teste await thread
+Arquivo 379, linha 4: CSharp linha contagem texto await linha arquivo async
+Arquivo 379, linha 5: texto linha contagem await await texto teste linha texto teste
+Arquivo 379, linha 6: linha linha async await async palavra CSharp palavra
+Arquivo 379, linha 7: thread teste contagem linha await palavra palavra linha contagem CSharp texto
+Arquivo 379, linha 8: teste contagem arquivo texto palavra CSharp
+Arquivo 379, linha 9: arquivo CSharp contagem linha thread teste texto
+Arquivo 379, linha 10: texto thread linha teste arquivo palavra async contagem await
+Arquivo 379, linha 11: texto await linha linha arquivo async
+Arquivo 379, linha 12: CSharp linha CSharp texto contagem CSharp await texto arquivo teste async
+Arquivo 379, linha 13: linha arquivo contagem CSharp contagem linha contagem linha arquivo thread CSharp async
+Arquivo 379, linha 14: CSharp CSharp contagem CSharp texto await thread palavra palavra
+Arquivo 379, linha 15: arquivo palavra CSharp CSharp CSharp
+Arquivo 379, linha 16: palavra thread async palavra teste arquivo teste palavra CSharp

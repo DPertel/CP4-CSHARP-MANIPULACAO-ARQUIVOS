@@ -1,0 +1,12 @@
+=== Arquivo número 74 ===
+Arquivo 74, linha 1: texto CSharp teste linha texto texto await teste arquivo await texto
+Arquivo 74, linha 2: teste teste linha async arquivo async await await palavra thread linha
+Arquivo 74, linha 3: async texto linha palavra async linha await texto async texto await linha
+Arquivo 74, linha 4: texto palavra async teste texto palavra thread
+Arquivo 74, linha 5: CSharp thread palavra linha CSharp contagem contagem thread
+Arquivo 74, linha 6: teste linha arquivo palavra arquivo thread arquivo contagem arquivo texto
+Arquivo 74, linha 7: texto contagem contagem async palavra texto teste contagem contagem
+Arquivo 74, linha 8: texto teste palavra linha await linha CSharp async CSharp arquivo texto palavra
+Arquivo 74, linha 9: await CSharp texto texto texto thread async contagem palavra await
+Arquivo 74, linha 10: await contagem await linha arquivo texto contagem teste palavra linha thread
+Arquivo 74, linha 11: teste await palavra thread texto contagem thread

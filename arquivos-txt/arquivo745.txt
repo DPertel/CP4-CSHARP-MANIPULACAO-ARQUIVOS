@@ -1,0 +1,12 @@
+=== Arquivo número 745 ===
+Arquivo 745, linha 1: CSharp thread CSharp contagem contagem async
+Arquivo 745, linha 2: await teste thread thread teste contagem
+Arquivo 745, linha 3: contagem texto contagem teste teste
+Arquivo 745, linha 4: teste thread thread await arquivo
+Arquivo 745, linha 5: texto linha CSharp linha teste thread await arquivo arquivo contagem
+Arquivo 745, linha 6: async contagem palavra contagem teste async texto texto async arquivo palavra
+Arquivo 745, linha 7: contagem texto teste contagem arquivo palavra linha
+Arquivo 745, linha 8: linha contagem arquivo async arquivo async await
+Arquivo 745, linha 9: thread CSharp linha palavra texto CSharp
+Arquivo 745, linha 10: teste async texto palavra teste arquivo contagem thread contagem
+Arquivo 745, linha 11: palavra contagem thread teste texto

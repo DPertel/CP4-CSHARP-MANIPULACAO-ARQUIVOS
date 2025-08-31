@@ -1,0 +1,12 @@
+=== Arquivo número 301 ===
+Arquivo 301, linha 1: thread thread texto teste texto texto async
+Arquivo 301, linha 2: teste texto thread thread linha CSharp
+Arquivo 301, linha 3: texto contagem palavra contagem arquivo
+Arquivo 301, linha 4: await linha async contagem palavra await teste async contagem teste palavra
+Arquivo 301, linha 5: thread thread async arquivo thread contagem async contagem contagem async
+Arquivo 301, linha 6: palavra CSharp arquivo texto linha await
+Arquivo 301, linha 7: thread texto contagem palavra texto thread contagem
+Arquivo 301, linha 8: await teste palavra await linha async async linha contagem palavra async
+Arquivo 301, linha 9: teste arquivo CSharp thread palavra CSharp palavra thread palavra CSharp contagem
+Arquivo 301, linha 10: arquivo contagem contagem await CSharp texto await teste CSharp async linha
+Arquivo 301, linha 11: thread CSharp arquivo teste linha thread

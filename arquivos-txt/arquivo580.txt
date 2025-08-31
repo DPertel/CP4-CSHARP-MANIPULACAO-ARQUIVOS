@@ -1,0 +1,19 @@
+=== Arquivo número 580 ===
+Arquivo 580, linha 1: texto palavra teste teste contagem teste teste
+Arquivo 580, linha 2: await CSharp async teste teste palavra thread
+Arquivo 580, linha 3: palavra await arquivo await contagem async CSharp linha async CSharp contagem arquivo
+Arquivo 580, linha 4: async teste thread linha palavra thread linha await await CSharp async palavra
+Arquivo 580, linha 5: async linha palavra arquivo thread await contagem texto await arquivo
+Arquivo 580, linha 6: async arquivo texto texto linha
+Arquivo 580, linha 7: CSharp async thread thread async thread async
+Arquivo 580, linha 8: linha teste palavra thread thread palavra contagem async await
+Arquivo 580, linha 9: thread texto palavra texto CSharp texto contagem
+Arquivo 580, linha 10: contagem teste teste CSharp CSharp teste texto palavra
+Arquivo 580, linha 11: texto thread texto CSharp linha await await teste teste contagem contagem
+Arquivo 580, linha 12: async thread contagem texto CSharp async thread CSharp await teste linha
+Arquivo 580, linha 13: palavra CSharp await texto linha linha palavra teste async texto arquivo
+Arquivo 580, linha 14: thread CSharp thread palavra thread arquivo CSharp await
+Arquivo 580, linha 15: CSharp teste palavra linha arquivo CSharp linha thread arquivo arquivo contagem teste
+Arquivo 580, linha 16: async CSharp arquivo linha texto texto
+Arquivo 580, linha 17: async texto arquivo thread contagem teste texto arquivo await arquivo linha
+Arquivo 580, linha 18: linha palavra linha teste texto async

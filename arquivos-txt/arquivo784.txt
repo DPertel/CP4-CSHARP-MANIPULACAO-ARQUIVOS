@@ -1,0 +1,19 @@
+=== Arquivo número 784 ===
+Arquivo 784, linha 1: texto thread CSharp teste linha
+Arquivo 784, linha 2: teste arquivo CSharp palavra arquivo
+Arquivo 784, linha 3: await CSharp arquivo palavra teste await texto
+Arquivo 784, linha 4: await teste linha palavra CSharp teste thread contagem
+Arquivo 784, linha 5: palavra linha palavra thread thread await palavra texto async contagem
+Arquivo 784, linha 6: await texto texto await palavra texto linha contagem arquivo linha async contagem
+Arquivo 784, linha 7: thread async contagem teste async
+Arquivo 784, linha 8: contagem thread teste await palavra palavra arquivo linha teste palavra
+Arquivo 784, linha 9: texto arquivo async contagem teste arquivo contagem arquivo async arquivo linha
+Arquivo 784, linha 10: linha arquivo texto thread palavra texto palavra await thread thread texto
+Arquivo 784, linha 11: palavra teste texto texto thread texto arquivo
+Arquivo 784, linha 12: texto palavra CSharp thread async
+Arquivo 784, linha 13: teste CSharp await thread texto linha linha palavra arquivo arquivo
+Arquivo 784, linha 14: CSharp palavra await texto contagem await thread contagem
+Arquivo 784, linha 15: teste teste linha texto CSharp await teste await await
+Arquivo 784, linha 16: thread thread CSharp async texto await async thread await
+Arquivo 784, linha 17: teste contagem async CSharp teste arquivo await arquivo
+Arquivo 784, linha 18: CSharp CSharp teste palavra teste linha linha arquivo CSharp palavra

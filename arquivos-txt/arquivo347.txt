@@ -1,0 +1,19 @@
+=== Arquivo número 347 ===
+Arquivo 347, linha 1: CSharp linha async await CSharp arquivo
+Arquivo 347, linha 2: arquivo teste async teste arquivo teste CSharp linha async contagem
+Arquivo 347, linha 3: teste linha await arquivo await teste palavra await CSharp
+Arquivo 347, linha 4: contagem contagem teste palavra arquivo async teste
+Arquivo 347, linha 5: teste texto arquivo linha await palavra linha CSharp async
+Arquivo 347, linha 6: linha CSharp async arquivo arquivo contagem contagem
+Arquivo 347, linha 7: teste CSharp CSharp teste palavra arquivo teste arquivo thread CSharp teste
+Arquivo 347, linha 8: linha texto async thread await CSharp linha
+Arquivo 347, linha 9: async thread arquivo linha texto CSharp thread
+Arquivo 347, linha 10: await contagem contagem thread teste teste await CSharp teste async
+Arquivo 347, linha 11: contagem arquivo texto await CSharp palavra
+Arquivo 347, linha 12: thread thread linha texto async
+Arquivo 347, linha 13: async await await linha teste contagem linha
+Arquivo 347, linha 14: teste CSharp contagem palavra async async CSharp palavra
+Arquivo 347, linha 15: async await contagem thread await
+Arquivo 347, linha 16: teste texto CSharp thread thread CSharp arquivo
+Arquivo 347, linha 17: async linha contagem palavra texto teste
+Arquivo 347, linha 18: linha contagem CSharp linha arquivo thread texto CSharp linha

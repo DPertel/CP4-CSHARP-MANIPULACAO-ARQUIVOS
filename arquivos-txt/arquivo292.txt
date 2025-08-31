@@ -1,0 +1,12 @@
+=== Arquivo número 292 ===
+Arquivo 292, linha 1: linha teste async contagem texto palavra texto contagem texto
+Arquivo 292, linha 2: texto palavra await await teste async palavra palavra teste CSharp await
+Arquivo 292, linha 3: texto linha palavra texto texto linha palavra teste arquivo
+Arquivo 292, linha 4: arquivo arquivo async palavra CSharp await
+Arquivo 292, linha 5: thread palavra thread contagem arquivo async linha thread
+Arquivo 292, linha 6: thread texto arquivo CSharp contagem CSharp arquivo
+Arquivo 292, linha 7: teste palavra texto thread async texto async await texto contagem arquivo linha
+Arquivo 292, linha 8: palavra CSharp texto teste texto palavra await teste CSharp linha
+Arquivo 292, linha 9: linha CSharp palavra contagem await linha teste thread linha linha arquivo teste
+Arquivo 292, linha 10: CSharp await async contagem contagem arquivo linha contagem palavra teste await linha
+Arquivo 292, linha 11: palavra await await linha thread CSharp

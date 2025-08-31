@@ -1,0 +1,12 @@
+=== Arquivo número 443 ===
+Arquivo 443, linha 1: async thread teste arquivo linha arquivo async arquivo texto arquivo
+Arquivo 443, linha 2: thread await await texto CSharp thread CSharp arquivo linha texto texto thread
+Arquivo 443, linha 3: CSharp teste palavra arquivo CSharp linha CSharp async CSharp thread await thread
+Arquivo 443, linha 4: teste teste CSharp linha arquivo texto await async palavra
+Arquivo 443, linha 5: CSharp CSharp contagem CSharp texto await arquivo texto arquivo teste
+Arquivo 443, linha 6: linha texto contagem CSharp teste async CSharp async
+Arquivo 443, linha 7: await teste thread async arquivo
+Arquivo 443, linha 8: thread texto texto linha CSharp
+Arquivo 443, linha 9: CSharp contagem linha texto thread CSharp contagem await palavra contagem arquivo arquivo
+Arquivo 443, linha 10: CSharp async texto palavra arquivo arquivo texto await thread linha await CSharp
+Arquivo 443, linha 11: CSharp linha thread teste texto thread linha palavra teste texto arquivo

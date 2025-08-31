@@ -1,0 +1,14 @@
+=== Arquivo número 68 ===
+Arquivo 68, linha 1: CSharp arquivo async teste palavra palavra await CSharp arquivo arquivo linha
+Arquivo 68, linha 2: linha arquivo await linha teste contagem async
+Arquivo 68, linha 3: palavra palavra linha teste linha palavra async palavra
+Arquivo 68, linha 4: teste contagem await teste await CSharp linha arquivo texto async
+Arquivo 68, linha 5: teste thread CSharp CSharp await
+Arquivo 68, linha 6: contagem teste teste texto thread CSharp
+Arquivo 68, linha 7: linha await arquivo thread palavra await teste palavra await
+Arquivo 68, linha 8: async linha teste linha palavra
+Arquivo 68, linha 9: contagem teste await linha thread
+Arquivo 68, linha 10: palavra linha thread async arquivo CSharp
+Arquivo 68, linha 11: linha palavra await teste teste palavra linha await async async async async
+Arquivo 68, linha 12: palavra async linha teste await CSharp arquivo
+Arquivo 68, linha 13: contagem teste arquivo await teste await linha contagem

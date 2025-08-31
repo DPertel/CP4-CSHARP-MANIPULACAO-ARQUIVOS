@@ -1,0 +1,20 @@
+=== Arquivo número 718 ===
+Arquivo 718, linha 1: arquivo palavra async teste await contagem palavra linha contagem palavra await
+Arquivo 718, linha 2: linha contagem palavra await texto contagem CSharp teste
+Arquivo 718, linha 3: CSharp async arquivo thread thread palavra async palavra texto palavra thread
+Arquivo 718, linha 4: arquivo teste CSharp await arquivo async await arquivo await linha
+Arquivo 718, linha 5: linha contagem arquivo contagem palavra teste arquivo CSharp linha arquivo texto texto
+Arquivo 718, linha 6: teste arquivo texto linha await texto
+Arquivo 718, linha 7: async teste async teste palavra await texto async teste arquivo CSharp arquivo
+Arquivo 718, linha 8: linha linha thread arquivo thread async
+Arquivo 718, linha 9: await teste texto teste linha palavra contagem
+Arquivo 718, linha 10: CSharp palavra palavra texto palavra contagem async
+Arquivo 718, linha 11: teste contagem teste palavra await texto CSharp await CSharp texto await
+Arquivo 718, linha 12: linha CSharp async linha async thread CSharp palavra texto async
+Arquivo 718, linha 13: arquivo CSharp arquivo thread palavra async contagem contagem teste await
+Arquivo 718, linha 14: linha texto await contagem async linha contagem CSharp contagem async teste contagem
+Arquivo 718, linha 15: texto CSharp teste texto thread async linha
+Arquivo 718, linha 16: CSharp contagem palavra linha async texto
+Arquivo 718, linha 17: contagem contagem texto await palavra CSharp palavra texto contagem teste palavra async
+Arquivo 718, linha 18: CSharp teste async thread thread CSharp thread async
+Arquivo 718, linha 19: contagem contagem linha palavra CSharp palavra contagem arquivo

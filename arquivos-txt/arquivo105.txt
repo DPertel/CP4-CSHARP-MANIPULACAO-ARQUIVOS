@@ -1,0 +1,14 @@
+=== Arquivo número 105 ===
+Arquivo 105, linha 1: async arquivo linha async texto await arquivo thread linha
+Arquivo 105, linha 2: teste await await contagem arquivo
+Arquivo 105, linha 3: teste async thread linha CSharp
+Arquivo 105, linha 4: teste texto linha async await arquivo thread
+Arquivo 105, linha 5: await teste texto arquivo thread linha CSharp
+Arquivo 105, linha 6: palavra await await thread contagem CSharp arquivo teste await
+Arquivo 105, linha 7: async arquivo CSharp contagem async linha async palavra async
+Arquivo 105, linha 8: CSharp palavra await await async CSharp
+Arquivo 105, linha 9: texto async CSharp thread arquivo thread
+Arquivo 105, linha 10: await await await await thread async palavra thread CSharp
+Arquivo 105, linha 11: await await async CSharp texto thread await
+Arquivo 105, linha 12: CSharp arquivo palavra linha CSharp CSharp texto palavra contagem teste CSharp CSharp
+Arquivo 105, linha 13: arquivo CSharp async async teste CSharp texto linha await async

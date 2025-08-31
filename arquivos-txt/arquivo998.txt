@@ -1,0 +1,6 @@
+=== Arquivo número 998 ===
+Arquivo 998, linha 1: arquivo thread CSharp async CSharp CSharp palavra palavra texto async texto
+Arquivo 998, linha 2: texto thread contagem palavra linha async contagem teste await linha await thread
+Arquivo 998, linha 3: linha async await async arquivo linha
+Arquivo 998, linha 4: teste CSharp palavra teste palavra thread teste
+Arquivo 998, linha 5: texto texto texto palavra arquivo CSharp linha CSharp

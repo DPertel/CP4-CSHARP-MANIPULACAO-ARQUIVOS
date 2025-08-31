@@ -1,0 +1,7 @@
+=== Arquivo número 821 ===
+Arquivo 821, linha 1: CSharp await async contagem teste contagem
+Arquivo 821, linha 2: arquivo async contagem arquivo async linha palavra
+Arquivo 821, linha 3: teste contagem palavra thread contagem texto async contagem
+Arquivo 821, linha 4: teste arquivo arquivo async palavra CSharp async arquivo teste palavra linha contagem
+Arquivo 821, linha 5: contagem teste texto linha async linha CSharp thread async linha await
+Arquivo 821, linha 6: await palavra linha async linha arquivo teste CSharp

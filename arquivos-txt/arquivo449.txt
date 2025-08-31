@@ -1,0 +1,6 @@
+=== Arquivo número 449 ===
+Arquivo 449, linha 1: CSharp async arquivo arquivo palavra linha thread thread
+Arquivo 449, linha 2: await await await async arquivo
+Arquivo 449, linha 3: await await contagem await texto texto CSharp
+Arquivo 449, linha 4: thread arquivo contagem await async texto async palavra linha CSharp
+Arquivo 449, linha 5: thread linha contagem arquivo teste thread CSharp async arquivo arquivo arquivo

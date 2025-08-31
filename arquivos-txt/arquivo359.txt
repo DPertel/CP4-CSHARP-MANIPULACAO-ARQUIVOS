@@ -1,0 +1,11 @@
+=== Arquivo número 359 ===
+Arquivo 359, linha 1: teste linha thread async arquivo teste teste
+Arquivo 359, linha 2: CSharp arquivo CSharp await arquivo CSharp arquivo await
+Arquivo 359, linha 3: linha CSharp contagem palavra await arquivo texto arquivo linha teste
+Arquivo 359, linha 4: linha thread contagem async contagem arquivo async
+Arquivo 359, linha 5: teste thread async texto CSharp await async texto linha
+Arquivo 359, linha 6: contagem thread async await await await teste CSharp
+Arquivo 359, linha 7: arquivo CSharp CSharp linha texto palavra CSharp
+Arquivo 359, linha 8: await thread CSharp async contagem async await
+Arquivo 359, linha 9: async texto contagem await async
+Arquivo 359, linha 10: await CSharp palavra contagem CSharp thread contagem teste async palavra arquivo linha

@@ -1,0 +1,14 @@
+=== Arquivo número 800 ===
+Arquivo 800, linha 1: thread thread texto palavra linha thread linha linha CSharp linha texto
+Arquivo 800, linha 2: thread thread await CSharp arquivo CSharp linha contagem contagem contagem
+Arquivo 800, linha 3: arquivo linha CSharp arquivo thread CSharp texto CSharp
+Arquivo 800, linha 4: contagem CSharp teste thread async async palavra teste teste
+Arquivo 800, linha 5: arquivo await await thread linha arquivo thread palavra arquivo
+Arquivo 800, linha 6: linha texto arquivo texto linha arquivo contagem texto contagem CSharp await palavra
+Arquivo 800, linha 7: texto texto CSharp async texto contagem await palavra texto texto texto await
+Arquivo 800, linha 8: linha arquivo contagem teste palavra await linha palavra texto linha texto
+Arquivo 800, linha 9: palavra palavra CSharp palavra await linha arquivo
+Arquivo 800, linha 10: await contagem arquivo teste texto texto contagem contagem
+Arquivo 800, linha 11: CSharp CSharp async thread await teste arquivo arquivo async await
+Arquivo 800, linha 12: texto arquivo linha texto linha linha thread await linha await await arquivo
+Arquivo 800, linha 13: thread linha await thread arquivo

@@ -1,0 +1,5 @@
+=== Arquivo número 412 ===
+Arquivo 412, linha 1: palavra thread async async CSharp linha linha linha palavra linha
+Arquivo 412, linha 2: palavra CSharp teste arquivo async CSharp thread
+Arquivo 412, linha 3: texto await linha thread linha
+Arquivo 412, linha 4: texto contagem linha contagem linha contagem contagem linha palavra CSharp linha async

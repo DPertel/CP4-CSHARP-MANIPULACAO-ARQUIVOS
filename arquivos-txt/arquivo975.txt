@@ -1,0 +1,13 @@
+=== Arquivo número 975 ===
+Arquivo 975, linha 1: arquivo contagem linha teste arquivo arquivo thread contagem CSharp texto texto
+Arquivo 975, linha 2: palavra texto arquivo await thread await CSharp palavra
+Arquivo 975, linha 3: texto async teste async linha texto async linha contagem arquivo
+Arquivo 975, linha 4: linha thread contagem arquivo teste await thread CSharp teste thread teste
+Arquivo 975, linha 5: teste linha texto contagem await CSharp await
+Arquivo 975, linha 6: async async linha texto async thread arquivo contagem palavra
+Arquivo 975, linha 7: texto teste teste teste palavra
+Arquivo 975, linha 8: arquivo teste linha CSharp palavra thread async arquivo
+Arquivo 975, linha 9: palavra teste contagem linha CSharp texto linha
+Arquivo 975, linha 10: teste contagem thread thread CSharp await async thread
+Arquivo 975, linha 11: teste await arquivo texto texto
+Arquivo 975, linha 12: arquivo teste texto contagem palavra CSharp teste

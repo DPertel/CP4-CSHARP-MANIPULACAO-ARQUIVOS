@@ -1,0 +1,20 @@
+=== Arquivo número 79 ===
+Arquivo 79, linha 1: async contagem teste await arquivo await CSharp texto arquivo
+Arquivo 79, linha 2: await thread contagem arquivo palavra await contagem texto
+Arquivo 79, linha 3: palavra teste CSharp teste async palavra texto
+Arquivo 79, linha 4: palavra contagem palavra linha thread CSharp CSharp async palavra
+Arquivo 79, linha 5: teste teste async texto teste palavra thread palavra teste await contagem linha
+Arquivo 79, linha 6: await contagem texto linha await async CSharp texto CSharp linha
+Arquivo 79, linha 7: texto CSharp palavra palavra linha teste thread texto thread contagem
+Arquivo 79, linha 8: await arquivo async async await texto async texto
+Arquivo 79, linha 9: teste await CSharp thread await texto linha async arquivo thread teste
+Arquivo 79, linha 10: teste await contagem async await
+Arquivo 79, linha 11: palavra async linha thread CSharp contagem teste
+Arquivo 79, linha 12: arquivo texto palavra await palavra await CSharp arquivo contagem contagem
+Arquivo 79, linha 13: CSharp arquivo CSharp async await
+Arquivo 79, linha 14: texto linha linha palavra await
+Arquivo 79, linha 15: contagem palavra teste CSharp contagem contagem linha texto
+Arquivo 79, linha 16: CSharp arquivo arquivo palavra arquivo CSharp teste
+Arquivo 79, linha 17: await texto arquivo arquivo thread thread arquivo palavra linha
+Arquivo 79, linha 18: contagem async texto thread async palavra palavra palavra texto thread palavra
+Arquivo 79, linha 19: linha async palavra teste texto palavra thread linha arquivo

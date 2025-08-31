@@ -1,0 +1,9 @@
+=== Arquivo número 20 ===
+Arquivo 20, linha 1: palavra arquivo palavra await CSharp arquivo palavra arquivo CSharp
+Arquivo 20, linha 2: thread thread palavra palavra texto async CSharp arquivo
+Arquivo 20, linha 3: await contagem texto contagem CSharp CSharp linha await linha linha async await
+Arquivo 20, linha 4: CSharp palavra linha linha CSharp async await
+Arquivo 20, linha 5: contagem palavra async arquivo thread teste arquivo
+Arquivo 20, linha 6: CSharp thread palavra CSharp async CSharp await async thread
+Arquivo 20, linha 7: linha teste arquivo CSharp await CSharp
+Arquivo 20, linha 8: CSharp async async linha teste

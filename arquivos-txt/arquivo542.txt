@@ -1,0 +1,6 @@
+=== Arquivo número 542 ===
+Arquivo 542, linha 1: linha thread await texto linha thread thread linha
+Arquivo 542, linha 2: palavra thread CSharp CSharp CSharp linha await arquivo async await CSharp
+Arquivo 542, linha 3: async async palavra CSharp texto palavra
+Arquivo 542, linha 4: async arquivo arquivo thread linha
+Arquivo 542, linha 5: contagem thread await linha contagem contagem arquivo async texto

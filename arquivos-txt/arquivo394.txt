@@ -1,0 +1,12 @@
+=== Arquivo número 394 ===
+Arquivo 394, linha 1: CSharp palavra texto CSharp await arquivo texto
+Arquivo 394, linha 2: texto linha CSharp teste contagem contagem palavra texto linha palavra
+Arquivo 394, linha 3: thread teste arquivo async arquivo palavra
+Arquivo 394, linha 4: thread teste contagem contagem contagem palavra arquivo
+Arquivo 394, linha 5: palavra teste linha thread arquivo thread teste
+Arquivo 394, linha 6: await async linha async CSharp async thread
+Arquivo 394, linha 7: await CSharp thread contagem linha palavra linha arquivo CSharp
+Arquivo 394, linha 8: contagem contagem contagem palavra arquivo
+Arquivo 394, linha 9: teste async CSharp palavra contagem arquivo thread palavra linha
+Arquivo 394, linha 10: arquivo thread contagem thread contagem palavra async thread async
+Arquivo 394, linha 11: palavra arquivo thread palavra CSharp arquivo texto contagem

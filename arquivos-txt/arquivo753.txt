@@ -1,0 +1,19 @@
+=== Arquivo número 753 ===
+Arquivo 753, linha 1: async thread async teste contagem thread teste palavra CSharp async
+Arquivo 753, linha 2: arquivo thread contagem linha linha
+Arquivo 753, linha 3: thread texto palavra linha arquivo
+Arquivo 753, linha 4: await CSharp async contagem thread
+Arquivo 753, linha 5: thread palavra teste texto contagem await palavra contagem palavra await await
+Arquivo 753, linha 6: teste async arquivo await palavra teste CSharp
+Arquivo 753, linha 7: await palavra texto async linha CSharp texto linha await teste linha linha
+Arquivo 753, linha 8: CSharp palavra teste async thread texto
+Arquivo 753, linha 9: palavra await teste linha texto thread await await contagem texto palavra
+Arquivo 753, linha 10: teste async CSharp teste texto CSharp CSharp
+Arquivo 753, linha 11: linha arquivo palavra CSharp thread texto async arquivo
+Arquivo 753, linha 12: linha linha palavra linha linha teste contagem async await
+Arquivo 753, linha 13: async linha async contagem texto await arquivo
+Arquivo 753, linha 14: arquivo texto palavra palavra teste
+Arquivo 753, linha 15: await teste contagem linha teste linha async thread arquivo thread
+Arquivo 753, linha 16: contagem CSharp linha texto palavra arquivo await
+Arquivo 753, linha 17: async thread teste contagem async async palavra
+Arquivo 753, linha 18: await await thread linha CSharp contagem teste contagem

@@ -1,0 +1,8 @@
+=== Arquivo número 521 ===
+Arquivo 521, linha 1: contagem texto linha teste arquivo async teste texto teste CSharp arquivo
+Arquivo 521, linha 2: async await async palavra await palavra CSharp thread contagem thread
+Arquivo 521, linha 3: async await arquivo await linha await
+Arquivo 521, linha 4: await palavra arquivo linha texto texto
+Arquivo 521, linha 5: linha arquivo texto linha CSharp contagem
+Arquivo 521, linha 6: async palavra contagem linha await arquivo contagem arquivo teste teste thread linha
+Arquivo 521, linha 7: teste thread await linha teste

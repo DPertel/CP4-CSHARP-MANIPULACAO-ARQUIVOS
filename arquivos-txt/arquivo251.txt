@@ -1,0 +1,9 @@
+=== Arquivo número 251 ===
+Arquivo 251, linha 1: contagem CSharp teste contagem async contagem CSharp await linha
+Arquivo 251, linha 2: linha await async thread async arquivo arquivo async arquivo async
+Arquivo 251, linha 3: contagem async palavra arquivo teste teste
+Arquivo 251, linha 4: arquivo await CSharp teste await palavra
+Arquivo 251, linha 5: linha CSharp async arquivo await contagem palavra
+Arquivo 251, linha 6: async async await arquivo async thread arquivo linha
+Arquivo 251, linha 7: texto thread palavra teste CSharp contagem teste async texto teste
+Arquivo 251, linha 8: async teste thread await teste linha teste CSharp palavra

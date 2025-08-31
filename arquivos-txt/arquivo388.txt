@@ -1,0 +1,15 @@
+=== Arquivo número 388 ===
+Arquivo 388, linha 1: texto contagem async linha teste palavra contagem palavra CSharp palavra
+Arquivo 388, linha 2: thread async linha linha palavra async contagem texto CSharp thread teste
+Arquivo 388, linha 3: async teste arquivo thread texto texto CSharp
+Arquivo 388, linha 4: await await linha contagem await thread await thread CSharp palavra async thread
+Arquivo 388, linha 5: texto linha linha palavra CSharp linha async await await arquivo arquivo
+Arquivo 388, linha 6: arquivo arquivo teste await async thread
+Arquivo 388, linha 7: teste thread linha async teste teste contagem
+Arquivo 388, linha 8: thread thread texto async texto contagem await arquivo texto thread thread
+Arquivo 388, linha 9: await async palavra contagem async
+Arquivo 388, linha 10: thread await linha contagem teste arquivo palavra
+Arquivo 388, linha 11: async contagem await thread async palavra contagem linha CSharp
+Arquivo 388, linha 12: await await contagem teste await
+Arquivo 388, linha 13: await await thread texto arquivo texto linha arquivo CSharp contagem linha
+Arquivo 388, linha 14: contagem linha async CSharp contagem palavra palavra

@@ -1,0 +1,14 @@
+=== Arquivo número 445 ===
+Arquivo 445, linha 1: contagem thread await CSharp async texto arquivo teste teste
+Arquivo 445, linha 2: async async await contagem await async
+Arquivo 445, linha 3: palavra thread teste async CSharp arquivo CSharp linha
+Arquivo 445, linha 4: linha texto palavra contagem CSharp teste contagem await texto
+Arquivo 445, linha 5: arquivo teste linha texto await thread async arquivo arquivo texto CSharp async
+Arquivo 445, linha 6: thread async arquivo palavra CSharp linha teste linha contagem contagem
+Arquivo 445, linha 7: CSharp CSharp arquivo linha teste arquivo
+Arquivo 445, linha 8: palavra teste linha await texto palavra
+Arquivo 445, linha 9: arquivo async linha palavra thread teste await
+Arquivo 445, linha 10: async texto palavra arquivo texto texto texto linha teste
+Arquivo 445, linha 11: CSharp contagem teste teste arquivo
+Arquivo 445, linha 12: texto linha arquivo thread await
+Arquivo 445, linha 13: teste texto teste palavra linha arquivo

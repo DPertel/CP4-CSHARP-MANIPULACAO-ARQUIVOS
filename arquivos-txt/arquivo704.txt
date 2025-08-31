@@ -1,0 +1,18 @@
+=== Arquivo número 704 ===
+Arquivo 704, linha 1: teste contagem arquivo await teste linha thread palavra CSharp teste
+Arquivo 704, linha 2: await await linha arquivo arquivo palavra texto linha palavra thread palavra contagem
+Arquivo 704, linha 3: async arquivo texto teste palavra await async await linha async
+Arquivo 704, linha 4: arquivo arquivo texto CSharp texto palavra await CSharp thread
+Arquivo 704, linha 5: teste linha thread palavra texto
+Arquivo 704, linha 6: contagem thread teste thread CSharp palavra teste CSharp thread linha palavra contagem
+Arquivo 704, linha 7: async teste thread await thread thread async texto palavra arquivo
+Arquivo 704, linha 8: texto thread linha thread arquivo linha arquivo await
+Arquivo 704, linha 9: async texto palavra linha contagem contagem thread
+Arquivo 704, linha 10: CSharp texto async thread palavra contagem thread async linha palavra texto
+Arquivo 704, linha 11: teste texto texto await contagem texto contagem async
+Arquivo 704, linha 12: async thread async texto linha async
+Arquivo 704, linha 13: arquivo contagem CSharp async contagem CSharp arquivo contagem thread texto CSharp texto
+Arquivo 704, linha 14: contagem palavra async await contagem teste
+Arquivo 704, linha 15: await texto thread texto CSharp linha thread teste thread texto
+Arquivo 704, linha 16: texto arquivo teste thread linha linha texto async teste texto teste linha
+Arquivo 704, linha 17: contagem texto contagem linha contagem CSharp teste contagem contagem palavra

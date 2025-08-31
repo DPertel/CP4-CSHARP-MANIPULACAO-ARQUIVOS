@@ -1,0 +1,14 @@
+=== Arquivo número 700 ===
+Arquivo 700, linha 1: texto linha texto await arquivo CSharp palavra linha linha linha await
+Arquivo 700, linha 2: contagem async linha linha texto texto
+Arquivo 700, linha 3: texto await arquivo contagem teste texto arquivo async
+Arquivo 700, linha 4: CSharp await palavra texto arquivo CSharp
+Arquivo 700, linha 5: async teste arquivo palavra thread contagem
+Arquivo 700, linha 6: await CSharp async async async contagem texto
+Arquivo 700, linha 7: thread CSharp arquivo contagem teste texto contagem async thread async arquivo palavra
+Arquivo 700, linha 8: arquivo linha thread async texto contagem teste thread teste linha linha contagem
+Arquivo 700, linha 9: async thread await linha await thread thread texto contagem palavra texto
+Arquivo 700, linha 10: linha contagem teste contagem arquivo
+Arquivo 700, linha 11: palavra linha contagem async thread CSharp arquivo async teste CSharp thread
+Arquivo 700, linha 12: async texto linha thread linha linha linha teste
+Arquivo 700, linha 13: await CSharp async thread contagem contagem arquivo

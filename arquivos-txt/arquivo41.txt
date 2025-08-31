@@ -1,0 +1,18 @@
+=== Arquivo número 41 ===
+Arquivo 41, linha 1: linha CSharp texto teste teste CSharp palavra
+Arquivo 41, linha 2: CSharp thread palavra arquivo texto
+Arquivo 41, linha 3: await contagem contagem palavra thread palavra texto async palavra palavra texto
+Arquivo 41, linha 4: texto linha thread contagem CSharp
+Arquivo 41, linha 5: thread async arquivo texto thread palavra async texto arquivo arquivo palavra
+Arquivo 41, linha 6: palavra palavra teste CSharp CSharp arquivo teste contagem
+Arquivo 41, linha 7: thread palavra CSharp CSharp texto arquivo
+Arquivo 41, linha 8: teste texto contagem palavra thread thread linha await teste linha
+Arquivo 41, linha 9: linha contagem texto CSharp CSharp async texto linha
+Arquivo 41, linha 10: await texto texto CSharp async thread teste CSharp
+Arquivo 41, linha 11: teste CSharp arquivo teste CSharp await
+Arquivo 41, linha 12: texto texto arquivo linha palavra
+Arquivo 41, linha 13: arquivo thread arquivo linha CSharp thread
+Arquivo 41, linha 14: contagem CSharp linha linha contagem teste await palavra
+Arquivo 41, linha 15: texto CSharp linha async CSharp
+Arquivo 41, linha 16: CSharp thread async async palavra thread CSharp async texto palavra CSharp contagem
+Arquivo 41, linha 17: linha linha CSharp CSharp thread CSharp linha palavra async

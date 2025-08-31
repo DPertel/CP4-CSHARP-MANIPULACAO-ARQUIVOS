@@ -1,0 +1,18 @@
+=== Arquivo número 747 ===
+Arquivo 747, linha 1: async linha linha teste texto teste teste
+Arquivo 747, linha 2: await await contagem await thread async
+Arquivo 747, linha 3: async await arquivo contagem palavra linha arquivo
+Arquivo 747, linha 4: CSharp teste async palavra teste
+Arquivo 747, linha 5: arquivo await thread texto teste texto thread
+Arquivo 747, linha 6: CSharp contagem arquivo linha CSharp teste linha await teste CSharp contagem
+Arquivo 747, linha 7: teste CSharp thread teste contagem arquivo contagem thread async
+Arquivo 747, linha 8: thread texto await palavra await async linha contagem palavra texto CSharp async
+Arquivo 747, linha 9: async teste arquivo linha contagem
+Arquivo 747, linha 10: await texto linha await teste CSharp contagem
+Arquivo 747, linha 11: texto CSharp arquivo contagem thread palavra texto await async texto async await
+Arquivo 747, linha 12: arquivo async async arquivo teste palavra contagem linha contagem await texto linha
+Arquivo 747, linha 13: arquivo arquivo texto contagem arquivo async arquivo await texto CSharp teste async
+Arquivo 747, linha 14: async CSharp await linha arquivo async teste CSharp async palavra
+Arquivo 747, linha 15: teste linha async texto arquivo linha thread await await thread
+Arquivo 747, linha 16: thread await await arquivo palavra linha
+Arquivo 747, linha 17: arquivo linha linha palavra await arquivo teste palavra thread

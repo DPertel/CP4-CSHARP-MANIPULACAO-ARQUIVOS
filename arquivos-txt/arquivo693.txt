@@ -1,0 +1,12 @@
+=== Arquivo número 693 ===
+Arquivo 693, linha 1: linha contagem await linha contagem thread CSharp linha teste contagem CSharp
+Arquivo 693, linha 2: linha teste async await CSharp arquivo await
+Arquivo 693, linha 3: arquivo palavra thread contagem async
+Arquivo 693, linha 4: CSharp arquivo texto linha teste teste teste thread contagem contagem arquivo palavra
+Arquivo 693, linha 5: thread thread texto palavra thread async
+Arquivo 693, linha 6: linha texto await await linha thread teste CSharp arquivo
+Arquivo 693, linha 7: CSharp linha arquivo await thread CSharp linha contagem
+Arquivo 693, linha 8: texto thread linha linha arquivo await thread arquivo
+Arquivo 693, linha 9: linha thread contagem arquivo teste CSharp arquivo texto
+Arquivo 693, linha 10: thread palavra texto linha arquivo arquivo
+Arquivo 693, linha 11: contagem palavra contagem async linha linha CSharp arquivo

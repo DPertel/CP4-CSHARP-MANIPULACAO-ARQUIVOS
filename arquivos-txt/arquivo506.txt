@@ -1,0 +1,18 @@
+=== Arquivo número 506 ===
+Arquivo 506, linha 1: await palavra palavra thread linha arquivo teste
+Arquivo 506, linha 2: async async contagem thread await linha async arquivo teste async CSharp thread
+Arquivo 506, linha 3: await thread thread arquivo contagem CSharp thread palavra arquivo palavra texto linha
+Arquivo 506, linha 4: palavra await palavra CSharp teste palavra linha texto linha texto arquivo
+Arquivo 506, linha 5: palavra thread CSharp await teste linha CSharp
+Arquivo 506, linha 6: linha palavra CSharp linha contagem CSharp CSharp CSharp contagem await teste texto
+Arquivo 506, linha 7: CSharp palavra teste arquivo thread linha linha linha contagem
+Arquivo 506, linha 8: teste thread contagem arquivo teste contagem
+Arquivo 506, linha 9: arquivo teste texto palavra palavra
+Arquivo 506, linha 10: thread arquivo palavra arquivo async
+Arquivo 506, linha 11: contagem arquivo arquivo arquivo async teste texto arquivo contagem texto texto texto
+Arquivo 506, linha 12: texto linha linha teste await await
+Arquivo 506, linha 13: arquivo linha linha contagem palavra CSharp teste texto palavra contagem teste
+Arquivo 506, linha 14: texto linha texto async await
+Arquivo 506, linha 15: arquivo CSharp thread thread contagem texto
+Arquivo 506, linha 16: teste CSharp texto async thread CSharp arquivo contagem
+Arquivo 506, linha 17: await await CSharp contagem palavra teste arquivo arquivo palavra linha texto

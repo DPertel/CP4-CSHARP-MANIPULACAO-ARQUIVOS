@@ -1,0 +1,19 @@
+=== Arquivo número 312 ===
+Arquivo 312, linha 1: await linha palavra linha arquivo texto CSharp
+Arquivo 312, linha 2: CSharp await await palavra linha teste async linha
+Arquivo 312, linha 3: contagem teste palavra arquivo async
+Arquivo 312, linha 4: async teste palavra async linha texto await palavra await texto async
+Arquivo 312, linha 5: contagem texto await thread arquivo contagem teste texto CSharp await
+Arquivo 312, linha 6: async texto contagem texto CSharp await async palavra async
+Arquivo 312, linha 7: await arquivo contagem arquivo linha thread contagem
+Arquivo 312, linha 8: teste palavra await await thread CSharp await linha CSharp linha
+Arquivo 312, linha 9: thread CSharp await CSharp linha palavra linha texto texto
+Arquivo 312, linha 10: thread await teste CSharp teste async
+Arquivo 312, linha 11: palavra linha arquivo linha teste palavra
+Arquivo 312, linha 12: arquivo async CSharp teste teste await arquivo async CSharp palavra CSharp texto
+Arquivo 312, linha 13: CSharp linha texto arquivo palavra await
+Arquivo 312, linha 14: teste async CSharp teste linha arquivo palavra thread arquivo teste
+Arquivo 312, linha 15: contagem palavra linha await teste texto texto teste texto thread CSharp
+Arquivo 312, linha 16: thread teste CSharp texto arquivo async thread linha CSharp arquivo palavra contagem
+Arquivo 312, linha 17: async contagem palavra texto texto async texto CSharp arquivo async texto
+Arquivo 312, linha 18: linha arquivo palavra teste texto async palavra arquivo contagem CSharp contagem

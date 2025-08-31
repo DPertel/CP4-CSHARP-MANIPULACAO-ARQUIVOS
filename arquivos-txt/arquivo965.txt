@@ -1,0 +1,20 @@
+=== Arquivo número 965 ===
+Arquivo 965, linha 1: palavra CSharp linha palavra palavra linha CSharp arquivo contagem await
+Arquivo 965, linha 2: linha await arquivo await palavra arquivo CSharp contagem contagem arquivo linha linha
+Arquivo 965, linha 3: texto linha contagem arquivo linha await arquivo palavra await
+Arquivo 965, linha 4: CSharp async teste arquivo palavra thread palavra arquivo arquivo
+Arquivo 965, linha 5: linha await thread linha await arquivo teste contagem texto texto texto
+Arquivo 965, linha 6: teste texto async async CSharp CSharp linha teste
+Arquivo 965, linha 7: contagem linha palavra async texto palavra linha await linha
+Arquivo 965, linha 8: arquivo palavra texto arquivo await
+Arquivo 965, linha 9: thread async teste await palavra await async texto
+Arquivo 965, linha 10: texto palavra async texto texto CSharp arquivo contagem
+Arquivo 965, linha 11: arquivo texto linha palavra await
+Arquivo 965, linha 12: palavra arquivo await teste texto contagem arquivo arquivo teste palavra
+Arquivo 965, linha 13: texto linha CSharp arquivo arquivo arquivo
+Arquivo 965, linha 14: contagem palavra thread arquivo async await linha teste
+Arquivo 965, linha 15: contagem contagem linha async arquivo
+Arquivo 965, linha 16: linha linha async thread linha CSharp thread
+Arquivo 965, linha 17: contagem palavra arquivo linha thread linha arquivo palavra CSharp linha teste arquivo
+Arquivo 965, linha 18: async contagem async texto palavra await await thread await teste thread
+Arquivo 965, linha 19: linha palavra await texto arquivo teste thread CSharp palavra teste

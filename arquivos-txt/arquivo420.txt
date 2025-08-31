@@ -1,0 +1,12 @@
+=== Arquivo número 420 ===
+Arquivo 420, linha 1: async await palavra thread thread palavra
+Arquivo 420, linha 2: arquivo async contagem palavra thread await
+Arquivo 420, linha 3: texto arquivo CSharp arquivo arquivo thread linha texto thread
+Arquivo 420, linha 4: linha async await contagem arquivo teste linha linha contagem thread contagem
+Arquivo 420, linha 5: palavra palavra palavra texto await texto async teste thread linha texto await
+Arquivo 420, linha 6: palavra texto await teste arquivo teste contagem linha arquivo palavra arquivo
+Arquivo 420, linha 7: linha await async teste contagem contagem CSharp async async arquivo palavra contagem
+Arquivo 420, linha 8: texto palavra palavra linha linha thread linha await CSharp contagem async async
+Arquivo 420, linha 9: await texto thread palavra await teste arquivo thread await CSharp teste arquivo
+Arquivo 420, linha 10: arquivo contagem palavra contagem arquivo texto texto
+Arquivo 420, linha 11: thread texto arquivo thread palavra thread async arquivo await await

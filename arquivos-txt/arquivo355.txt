@@ -1,0 +1,17 @@
+=== Arquivo número 355 ===
+Arquivo 355, linha 1: texto CSharp thread palavra contagem linha await thread
+Arquivo 355, linha 2: texto linha contagem palavra contagem CSharp palavra thread linha teste texto linha
+Arquivo 355, linha 3: texto teste texto texto texto contagem arquivo await arquivo async
+Arquivo 355, linha 4: contagem arquivo linha teste contagem CSharp contagem
+Arquivo 355, linha 5: await palavra await CSharp linha arquivo linha
+Arquivo 355, linha 6: arquivo teste CSharp texto teste thread
+Arquivo 355, linha 7: async arquivo await palavra texto contagem
+Arquivo 355, linha 8: linha palavra CSharp texto CSharp await contagem teste async
+Arquivo 355, linha 9: teste contagem teste await teste teste CSharp contagem
+Arquivo 355, linha 10: await palavra palavra arquivo linha palavra linha CSharp texto linha
+Arquivo 355, linha 11: linha arquivo await thread linha
+Arquivo 355, linha 12: CSharp palavra texto texto CSharp texto
+Arquivo 355, linha 13: linha arquivo linha await teste texto texto thread thread CSharp
+Arquivo 355, linha 14: contagem texto texto linha texto
+Arquivo 355, linha 15: async CSharp async arquivo async arquivo teste arquivo
+Arquivo 355, linha 16: await teste palavra texto thread await palavra async palavra palavra texto texto

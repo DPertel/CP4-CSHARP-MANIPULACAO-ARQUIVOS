@@ -1,0 +1,5 @@
+=== Arquivo número 706 ===
+Arquivo 706, linha 1: CSharp CSharp palavra CSharp arquivo thread contagem arquivo await await palavra
+Arquivo 706, linha 2: linha palavra palavra await CSharp contagem contagem arquivo async
+Arquivo 706, linha 3: teste async linha contagem palavra texto arquivo texto texto thread await
+Arquivo 706, linha 4: arquivo palavra teste palavra texto async contagem

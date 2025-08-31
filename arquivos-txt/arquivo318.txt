@@ -1,0 +1,7 @@
+=== Arquivo número 318 ===
+Arquivo 318, linha 1: CSharp CSharp CSharp thread contagem thread teste thread contagem CSharp
+Arquivo 318, linha 2: contagem texto palavra CSharp CSharp palavra
+Arquivo 318, linha 3: arquivo thread async async texto CSharp
+Arquivo 318, linha 4: CSharp thread thread CSharp thread linha linha teste
+Arquivo 318, linha 5: await contagem async await texto linha
+Arquivo 318, linha 6: teste linha CSharp CSharp thread teste async arquivo async async

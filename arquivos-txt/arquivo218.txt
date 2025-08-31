@@ -1,0 +1,19 @@
+=== Arquivo número 218 ===
+Arquivo 218, linha 1: CSharp teste palavra thread teste contagem thread CSharp palavra
+Arquivo 218, linha 2: CSharp palavra async await thread teste await palavra CSharp arquivo async
+Arquivo 218, linha 3: CSharp linha await arquivo texto CSharp teste palavra thread linha thread contagem
+Arquivo 218, linha 4: teste arquivo CSharp palavra thread await
+Arquivo 218, linha 5: contagem palavra linha CSharp contagem thread thread arquivo arquivo CSharp async
+Arquivo 218, linha 6: CSharp async CSharp texto await linha CSharp arquivo
+Arquivo 218, linha 7: arquivo await palavra palavra thread linha
+Arquivo 218, linha 8: arquivo teste await contagem palavra contagem teste palavra contagem linha async
+Arquivo 218, linha 9: thread async arquivo arquivo CSharp async palavra teste arquivo async
+Arquivo 218, linha 10: contagem texto thread async palavra contagem linha async teste thread thread palavra
+Arquivo 218, linha 11: palavra contagem contagem texto linha texto CSharp
+Arquivo 218, linha 12: await texto arquivo arquivo teste thread contagem async async teste contagem
+Arquivo 218, linha 13: async CSharp texto palavra thread async linha teste await texto contagem
+Arquivo 218, linha 14: linha texto teste async CSharp CSharp await async arquivo
+Arquivo 218, linha 15: CSharp texto palavra CSharp palavra await contagem contagem
+Arquivo 218, linha 16: linha texto thread teste texto
+Arquivo 218, linha 17: contagem await contagem arquivo CSharp contagem async palavra texto
+Arquivo 218, linha 18: await contagem arquivo linha linha palavra await async await arquivo teste

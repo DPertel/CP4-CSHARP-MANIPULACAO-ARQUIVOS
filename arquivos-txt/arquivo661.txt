@@ -1,0 +1,10 @@
+=== Arquivo número 661 ===
+Arquivo 661, linha 1: async CSharp teste await async teste CSharp
+Arquivo 661, linha 2: palavra thread palavra palavra arquivo thread linha
+Arquivo 661, linha 3: CSharp linha palavra await await async thread texto
+Arquivo 661, linha 4: thread contagem palavra contagem CSharp contagem contagem thread thread
+Arquivo 661, linha 5: arquivo CSharp arquivo thread arquivo contagem CSharp
+Arquivo 661, linha 6: palavra async arquivo CSharp teste thread CSharp
+Arquivo 661, linha 7: thread teste linha CSharp CSharp async thread
+Arquivo 661, linha 8: await await CSharp thread texto palavra teste palavra linha contagem
+Arquivo 661, linha 9: texto palavra async CSharp arquivo CSharp

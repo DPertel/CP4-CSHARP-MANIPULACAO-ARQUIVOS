@@ -1,0 +1,18 @@
+=== Arquivo número 31 ===
+Arquivo 31, linha 1: CSharp teste palavra await await await texto await
+Arquivo 31, linha 2: texto contagem contagem await teste async
+Arquivo 31, linha 3: thread palavra thread palavra CSharp
+Arquivo 31, linha 4: arquivo linha async palavra arquivo teste arquivo contagem async thread linha await
+Arquivo 31, linha 5: contagem linha arquivo contagem arquivo CSharp
+Arquivo 31, linha 6: texto linha async await arquivo async contagem contagem CSharp palavra
+Arquivo 31, linha 7: CSharp teste teste contagem linha texto teste teste palavra palavra CSharp async
+Arquivo 31, linha 8: palavra CSharp linha teste palavra await CSharp texto palavra linha async contagem
+Arquivo 31, linha 9: async texto await texto thread linha texto
+Arquivo 31, linha 10: teste async texto teste async thread await
+Arquivo 31, linha 11: thread async async linha texto
+Arquivo 31, linha 12: linha texto linha linha await async contagem thread texto
+Arquivo 31, linha 13: texto arquivo linha CSharp arquivo linha
+Arquivo 31, linha 14: CSharp contagem arquivo arquivo teste palavra await
+Arquivo 31, linha 15: contagem thread contagem await await await CSharp palavra
+Arquivo 31, linha 16: palavra palavra thread teste contagem teste
+Arquivo 31, linha 17: thread palavra CSharp async arquivo

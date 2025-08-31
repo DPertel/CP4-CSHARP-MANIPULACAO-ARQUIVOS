@@ -1,0 +1,7 @@
+=== Arquivo número 234 ===
+Arquivo 234, linha 1: CSharp async contagem await teste
+Arquivo 234, linha 2: CSharp CSharp linha contagem contagem CSharp
+Arquivo 234, linha 3: palavra CSharp texto async arquivo async contagem palavra CSharp
+Arquivo 234, linha 4: thread async arquivo texto thread contagem teste contagem await await contagem texto
+Arquivo 234, linha 5: contagem teste contagem linha texto await CSharp linha palavra contagem linha
+Arquivo 234, linha 6: arquivo await CSharp thread await await thread thread CSharp arquivo

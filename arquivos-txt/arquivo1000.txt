@@ -1,0 +1,14 @@
+=== Arquivo número 1000 ===
+Arquivo 1000, linha 1: await linha linha texto linha linha async texto thread palavra async
+Arquivo 1000, linha 2: async async contagem contagem palavra
+Arquivo 1000, linha 3: palavra teste thread teste linha linha arquivo await async thread
+Arquivo 1000, linha 4: teste thread contagem contagem CSharp async teste
+Arquivo 1000, linha 5: thread contagem thread teste thread contagem contagem palavra async arquivo contagem teste
+Arquivo 1000, linha 6: arquivo CSharp palavra contagem linha async CSharp await teste contagem
+Arquivo 1000, linha 7: texto contagem teste CSharp async thread thread await linha await
+Arquivo 1000, linha 8: await linha thread async async CSharp arquivo palavra arquivo await async
+Arquivo 1000, linha 9: contagem texto arquivo texto async thread async teste
+Arquivo 1000, linha 10: linha linha thread async await CSharp CSharp
+Arquivo 1000, linha 11: teste texto arquivo CSharp async thread thread async CSharp async linha
+Arquivo 1000, linha 12: async palavra thread texto thread contagem async CSharp palavra await CSharp
+Arquivo 1000, linha 13: CSharp teste linha arquivo teste linha

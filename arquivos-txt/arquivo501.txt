@@ -1,0 +1,8 @@
+=== Arquivo número 501 ===
+Arquivo 501, linha 1: teste thread thread async linha contagem palavra
+Arquivo 501, linha 2: texto linha teste palavra palavra async linha linha thread teste linha texto
+Arquivo 501, linha 3: CSharp CSharp await thread thread CSharp palavra arquivo palavra arquivo arquivo arquivo
+Arquivo 501, linha 4: thread arquivo await thread texto contagem async
+Arquivo 501, linha 5: arquivo teste teste contagem teste palavra async texto
+Arquivo 501, linha 6: await palavra CSharp thread arquivo texto arquivo
+Arquivo 501, linha 7: thread thread await async texto

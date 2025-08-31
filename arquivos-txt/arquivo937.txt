@@ -1,0 +1,13 @@
+=== Arquivo número 937 ===
+Arquivo 937, linha 1: palavra palavra texto linha contagem linha texto arquivo CSharp teste
+Arquivo 937, linha 2: async contagem arquivo await await CSharp
+Arquivo 937, linha 3: async arquivo await CSharp thread CSharp texto linha
+Arquivo 937, linha 4: CSharp palavra CSharp await teste thread texto await
+Arquivo 937, linha 5: texto async palavra palavra teste texto CSharp CSharp linha thread teste CSharp
+Arquivo 937, linha 6: palavra teste thread thread thread teste arquivo contagem teste await linha
+Arquivo 937, linha 7: await async palavra arquivo thread texto palavra teste linha thread
+Arquivo 937, linha 8: arquivo thread arquivo texto teste palavra thread teste palavra async contagem
+Arquivo 937, linha 9: contagem teste async CSharp teste await
+Arquivo 937, linha 10: texto await async palavra contagem contagem await
+Arquivo 937, linha 11: teste contagem palavra linha async CSharp
+Arquivo 937, linha 12: texto await linha texto linha arquivo thread async

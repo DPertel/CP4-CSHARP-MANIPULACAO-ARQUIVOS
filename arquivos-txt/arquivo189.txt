@@ -1,0 +1,9 @@
+=== Arquivo número 189 ===
+Arquivo 189, linha 1: thread await async arquivo palavra await teste async texto async CSharp palavra
+Arquivo 189, linha 2: thread palavra thread teste contagem await
+Arquivo 189, linha 3: CSharp texto teste teste linha linha arquivo CSharp palavra
+Arquivo 189, linha 4: contagem linha contagem contagem arquivo
+Arquivo 189, linha 5: teste await teste CSharp contagem CSharp thread contagem await linha
+Arquivo 189, linha 6: contagem texto contagem texto async palavra await
+Arquivo 189, linha 7: teste palavra thread CSharp arquivo contagem linha texto thread async contagem
+Arquivo 189, linha 8: teste CSharp contagem texto linha

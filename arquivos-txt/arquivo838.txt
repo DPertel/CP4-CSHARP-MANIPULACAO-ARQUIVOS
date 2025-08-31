@@ -1,0 +1,17 @@
+=== Arquivo número 838 ===
+Arquivo 838, linha 1: thread linha contagem thread linha await async teste arquivo linha await
+Arquivo 838, linha 2: arquivo texto palavra async await linha
+Arquivo 838, linha 3: thread contagem async palavra await contagem async
+Arquivo 838, linha 4: linha palavra thread teste async texto
+Arquivo 838, linha 5: teste thread texto contagem teste linha async palavra async
+Arquivo 838, linha 6: linha palavra async CSharp thread arquivo contagem thread async palavra arquivo linha
+Arquivo 838, linha 7: CSharp CSharp teste arquivo texto linha arquivo await CSharp linha
+Arquivo 838, linha 8: await thread arquivo texto texto thread texto palavra arquivo
+Arquivo 838, linha 9: arquivo arquivo thread CSharp thread palavra async contagem texto thread async
+Arquivo 838, linha 10: await arquivo teste arquivo palavra CSharp palavra async teste contagem arquivo
+Arquivo 838, linha 11: CSharp teste texto CSharp linha teste
+Arquivo 838, linha 12: linha teste arquivo thread async
+Arquivo 838, linha 13: texto palavra palavra await arquivo contagem CSharp contagem
+Arquivo 838, linha 14: contagem await contagem contagem arquivo CSharp thread texto
+Arquivo 838, linha 15: CSharp thread palavra await palavra teste texto await thread thread palavra arquivo
+Arquivo 838, linha 16: CSharp contagem await async async texto teste async arquivo palavra

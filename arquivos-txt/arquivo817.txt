@@ -1,0 +1,8 @@
+=== Arquivo número 817 ===
+Arquivo 817, linha 1: async palavra texto texto await thread await CSharp
+Arquivo 817, linha 2: arquivo texto await await contagem thread CSharp await
+Arquivo 817, linha 3: teste async linha palavra texto palavra CSharp linha texto arquivo
+Arquivo 817, linha 4: teste CSharp teste palavra thread await linha teste arquivo
+Arquivo 817, linha 5: await await contagem CSharp contagem texto linha texto
+Arquivo 817, linha 6: await CSharp texto teste thread texto
+Arquivo 817, linha 7: contagem await async contagem thread arquivo palavra linha thread linha arquivo

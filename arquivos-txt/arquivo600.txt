@@ -1,0 +1,18 @@
+=== Arquivo número 600 ===
+Arquivo 600, linha 1: async async thread async palavra async linha contagem texto arquivo await async
+Arquivo 600, linha 2: arquivo async CSharp palavra async contagem palavra await async arquivo await
+Arquivo 600, linha 3: teste teste await teste palavra arquivo async thread linha thread linha
+Arquivo 600, linha 4: linha texto linha teste CSharp await contagem
+Arquivo 600, linha 5: async teste teste async thread linha
+Arquivo 600, linha 6: contagem linha CSharp CSharp CSharp CSharp
+Arquivo 600, linha 7: arquivo teste arquivo async arquivo texto
+Arquivo 600, linha 8: async contagem contagem CSharp palavra
+Arquivo 600, linha 9: await contagem linha linha thread linha texto teste await thread
+Arquivo 600, linha 10: texto contagem teste linha CSharp CSharp await thread texto linha await async
+Arquivo 600, linha 11: palavra arquivo thread CSharp contagem
+Arquivo 600, linha 12: thread CSharp linha thread arquivo contagem
+Arquivo 600, linha 13: teste linha thread CSharp thread arquivo contagem thread
+Arquivo 600, linha 14: texto linha await arquivo thread CSharp async async await await contagem linha
+Arquivo 600, linha 15: arquivo async texto palavra teste async CSharp texto arquivo thread
+Arquivo 600, linha 16: palavra palavra async contagem linha palavra linha contagem arquivo CSharp contagem texto
+Arquivo 600, linha 17: linha CSharp CSharp arquivo async CSharp texto contagem teste teste palavra

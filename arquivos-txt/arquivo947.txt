@@ -1,0 +1,6 @@
+=== Arquivo número 947 ===
+Arquivo 947, linha 1: await palavra arquivo palavra thread CSharp
+Arquivo 947, linha 2: thread thread arquivo await linha
+Arquivo 947, linha 3: teste async contagem thread contagem palavra linha
+Arquivo 947, linha 4: texto await async teste thread teste thread
+Arquivo 947, linha 5: teste teste linha teste linha teste thread arquivo arquivo teste

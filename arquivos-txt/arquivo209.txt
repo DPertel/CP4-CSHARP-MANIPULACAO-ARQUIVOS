@@ -1,0 +1,13 @@
+=== Arquivo número 209 ===
+Arquivo 209, linha 1: arquivo CSharp texto contagem linha linha
+Arquivo 209, linha 2: palavra linha await teste teste async linha thread linha arquivo arquivo
+Arquivo 209, linha 3: arquivo linha palavra async await texto CSharp async
+Arquivo 209, linha 4: CSharp contagem linha await CSharp linha thread teste arquivo linha await
+Arquivo 209, linha 5: linha thread await teste palavra
+Arquivo 209, linha 6: arquivo CSharp linha teste contagem async teste CSharp contagem texto
+Arquivo 209, linha 7: linha thread texto palavra thread async contagem
+Arquivo 209, linha 8: thread arquivo texto async linha
+Arquivo 209, linha 9: arquivo await async CSharp palavra texto
+Arquivo 209, linha 10: CSharp linha linha arquivo linha await texto thread
+Arquivo 209, linha 11: teste palavra texto thread teste await async linha thread linha
+Arquivo 209, linha 12: texto palavra CSharp arquivo arquivo palavra thread teste await teste async

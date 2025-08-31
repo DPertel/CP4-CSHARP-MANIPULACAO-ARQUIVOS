@@ -1,0 +1,11 @@
+=== Arquivo número 695 ===
+Arquivo 695, linha 1: thread thread arquivo linha teste async contagem texto linha
+Arquivo 695, linha 2: CSharp await CSharp contagem texto await palavra palavra thread arquivo thread
+Arquivo 695, linha 3: arquivo linha arquivo CSharp palavra arquivo
+Arquivo 695, linha 4: arquivo async contagem CSharp contagem arquivo palavra thread thread
+Arquivo 695, linha 5: arquivo arquivo teste linha contagem palavra texto palavra texto linha
+Arquivo 695, linha 6: texto arquivo await palavra contagem teste async teste await texto
+Arquivo 695, linha 7: palavra contagem thread teste async palavra thread palavra palavra async
+Arquivo 695, linha 8: texto arquivo async async arquivo await CSharp thread CSharp texto
+Arquivo 695, linha 9: texto teste contagem teste teste linha teste palavra
+Arquivo 695, linha 10: CSharp teste palavra linha thread await await

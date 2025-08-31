@@ -1,0 +1,17 @@
+=== Arquivo número 386 ===
+Arquivo 386, linha 1: arquivo CSharp contagem async thread palavra
+Arquivo 386, linha 2: contagem await CSharp linha palavra
+Arquivo 386, linha 3: async teste await palavra palavra linha
+Arquivo 386, linha 4: thread async palavra contagem await contagem linha
+Arquivo 386, linha 5: CSharp await await palavra palavra
+Arquivo 386, linha 6: contagem contagem async await teste palavra await
+Arquivo 386, linha 7: CSharp await await linha linha async palavra
+Arquivo 386, linha 8: texto contagem arquivo texto arquivo arquivo async texto palavra thread
+Arquivo 386, linha 9: contagem linha teste linha thread texto
+Arquivo 386, linha 10: texto teste contagem arquivo palavra texto
+Arquivo 386, linha 11: arquivo await texto arquivo CSharp
+Arquivo 386, linha 12: linha palavra texto CSharp teste
+Arquivo 386, linha 13: await contagem CSharp CSharp contagem contagem linha linha
+Arquivo 386, linha 14: await linha linha arquivo arquivo teste CSharp
+Arquivo 386, linha 15: texto thread await thread await teste async thread palavra arquivo contagem
+Arquivo 386, linha 16: async texto thread linha arquivo palavra

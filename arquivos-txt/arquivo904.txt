@@ -1,0 +1,7 @@
+=== Arquivo número 904 ===
+Arquivo 904, linha 1: contagem thread contagem await CSharp teste texto texto linha async
+Arquivo 904, linha 2: CSharp await linha texto palavra thread arquivo teste async async async
+Arquivo 904, linha 3: linha CSharp await thread async
+Arquivo 904, linha 4: async await async texto await await async CSharp palavra await
+Arquivo 904, linha 5: async teste contagem texto thread linha arquivo palavra texto
+Arquivo 904, linha 6: teste arquivo thread await linha thread async texto teste texto texto

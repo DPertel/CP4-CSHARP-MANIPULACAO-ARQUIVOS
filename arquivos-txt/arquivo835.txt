@@ -1,0 +1,5 @@
+=== Arquivo número 835 ===
+Arquivo 835, linha 1: contagem await contagem arquivo async thread palavra
+Arquivo 835, linha 2: thread await teste texto CSharp arquivo thread await async async palavra
+Arquivo 835, linha 3: CSharp teste contagem palavra contagem teste contagem
+Arquivo 835, linha 4: palavra arquivo contagem arquivo await contagem await texto teste

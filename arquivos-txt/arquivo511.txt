@@ -1,0 +1,6 @@
+=== Arquivo número 511 ===
+Arquivo 511, linha 1: CSharp CSharp teste contagem teste await palavra texto palavra async
+Arquivo 511, linha 2: texto teste async teste arquivo CSharp await await palavra teste
+Arquivo 511, linha 3: arquivo async palavra arquivo texto CSharp teste thread palavra
+Arquivo 511, linha 4: CSharp texto await await await
+Arquivo 511, linha 5: async teste texto async arquivo

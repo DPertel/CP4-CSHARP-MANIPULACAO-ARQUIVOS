@@ -1,0 +1,5 @@
+=== Arquivo número 901 ===
+Arquivo 901, linha 1: await texto teste linha async teste thread linha palavra await arquivo
+Arquivo 901, linha 2: linha linha arquivo palavra texto texto CSharp thread async contagem arquivo teste
+Arquivo 901, linha 3: arquivo linha linha linha CSharp thread texto await linha
+Arquivo 901, linha 4: texto await CSharp arquivo palavra teste contagem arquivo

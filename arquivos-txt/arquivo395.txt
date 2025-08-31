@@ -1,0 +1,20 @@
+=== Arquivo número 395 ===
+Arquivo 395, linha 1: linha await thread async await teste texto teste
+Arquivo 395, linha 2: palavra linha await await await await contagem await thread
+Arquivo 395, linha 3: arquivo palavra await teste palavra async async CSharp teste
+Arquivo 395, linha 4: CSharp contagem texto async CSharp contagem thread contagem texto async linha
+Arquivo 395, linha 5: await texto texto async linha async CSharp arquivo contagem texto teste
+Arquivo 395, linha 6: teste CSharp teste async contagem linha teste CSharp
+Arquivo 395, linha 7: arquivo texto linha thread linha arquivo contagem linha async
+Arquivo 395, linha 8: palavra linha arquivo texto thread CSharp
+Arquivo 395, linha 9: CSharp await contagem thread contagem await await arquivo
+Arquivo 395, linha 10: palavra contagem contagem async linha arquivo texto texto arquivo thread
+Arquivo 395, linha 11: teste await CSharp thread CSharp palavra texto CSharp thread teste texto arquivo
+Arquivo 395, linha 12: teste async contagem thread texto async CSharp async thread async thread linha
+Arquivo 395, linha 13: thread await arquivo contagem linha linha teste CSharp linha
+Arquivo 395, linha 14: linha arquivo await texto CSharp CSharp thread thread
+Arquivo 395, linha 15: teste await async linha CSharp
+Arquivo 395, linha 16: arquivo linha linha contagem teste linha CSharp
+Arquivo 395, linha 17: texto thread await async teste CSharp thread teste texto texto async
+Arquivo 395, linha 18: thread arquivo await linha texto
+Arquivo 395, linha 19: contagem arquivo texto thread await await palavra texto arquivo async thread async

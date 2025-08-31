@@ -1,0 +1,5 @@
+=== Arquivo número 790 ===
+Arquivo 790, linha 1: contagem await thread arquivo await palavra thread teste
+Arquivo 790, linha 2: palavra await thread contagem async arquivo async async thread teste CSharp
+Arquivo 790, linha 3: arquivo thread thread teste linha
+Arquivo 790, linha 4: teste linha linha palavra CSharp texto linha arquivo linha

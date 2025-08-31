@@ -1,0 +1,5 @@
+=== Arquivo número 571 ===
+Arquivo 571, linha 1: contagem palavra teste arquivo thread
+Arquivo 571, linha 2: thread contagem arquivo await contagem
+Arquivo 571, linha 3: linha async CSharp arquivo teste async async thread await teste teste
+Arquivo 571, linha 4: palavra palavra arquivo CSharp palavra CSharp arquivo await texto linha

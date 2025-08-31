@@ -1,0 +1,18 @@
+=== Arquivo número 374 ===
+Arquivo 374, linha 1: arquivo contagem await CSharp arquivo texto contagem palavra texto palavra
+Arquivo 374, linha 2: await teste arquivo palavra CSharp texto texto CSharp linha thread linha linha
+Arquivo 374, linha 3: await thread await contagem texto linha thread texto arquivo async await CSharp
+Arquivo 374, linha 4: arquivo linha palavra thread teste CSharp texto texto arquivo
+Arquivo 374, linha 5: CSharp arquivo contagem texto thread async teste arquivo palavra async thread
+Arquivo 374, linha 6: async arquivo async CSharp async await teste linha teste await texto
+Arquivo 374, linha 7: palavra palavra palavra await thread palavra linha texto CSharp
+Arquivo 374, linha 8: await arquivo async texto thread
+Arquivo 374, linha 9: async CSharp linha async async contagem linha palavra teste linha texto
+Arquivo 374, linha 10: await arquivo texto texto thread teste linha arquivo thread arquivo CSharp
+Arquivo 374, linha 11: arquivo arquivo thread teste teste
+Arquivo 374, linha 12: palavra texto linha teste CSharp CSharp arquivo arquivo CSharp await
+Arquivo 374, linha 13: thread contagem CSharp contagem await texto texto CSharp CSharp await
+Arquivo 374, linha 14: linha palavra await CSharp linha thread linha contagem
+Arquivo 374, linha 15: thread async CSharp CSharp teste texto linha
+Arquivo 374, linha 16: arquivo palavra arquivo palavra contagem
+Arquivo 374, linha 17: CSharp contagem CSharp CSharp await contagem CSharp linha

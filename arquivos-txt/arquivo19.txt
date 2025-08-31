@@ -1,0 +1,18 @@
+=== Arquivo número 19 ===
+Arquivo 19, linha 1: linha texto linha contagem CSharp teste thread async linha
+Arquivo 19, linha 2: await linha linha thread teste thread async async
+Arquivo 19, linha 3: async thread await arquivo texto teste CSharp palavra thread palavra async
+Arquivo 19, linha 4: palavra CSharp linha palavra async async CSharp palavra texto arquivo await texto
+Arquivo 19, linha 5: await texto async arquivo linha await
+Arquivo 19, linha 6: async texto arquivo teste texto await contagem
+Arquivo 19, linha 7: thread CSharp thread palavra palavra CSharp async CSharp texto arquivo await
+Arquivo 19, linha 8: CSharp CSharp await thread linha await contagem contagem
+Arquivo 19, linha 9: linha thread contagem linha await texto texto arquivo arquivo arquivo
+Arquivo 19, linha 10: thread await CSharp CSharp arquivo await async linha await arquivo arquivo thread
+Arquivo 19, linha 11: palavra palavra linha linha palavra CSharp arquivo thread await CSharp linha texto
+Arquivo 19, linha 12: thread arquivo CSharp contagem thread await linha CSharp palavra arquivo
+Arquivo 19, linha 13: async thread thread await teste async contagem thread
+Arquivo 19, linha 14: teste await texto await async contagem await teste linha arquivo teste
+Arquivo 19, linha 15: palavra CSharp async contagem thread contagem contagem thread palavra thread arquivo
+Arquivo 19, linha 16: await contagem teste texto linha thread async texto
+Arquivo 19, linha 17: arquivo linha async teste thread CSharp palavra

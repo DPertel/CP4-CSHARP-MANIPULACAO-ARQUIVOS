@@ -1,0 +1,20 @@
+=== Arquivo número 503 ===
+Arquivo 503, linha 1: arquivo texto await palavra palavra await await async async teste await
+Arquivo 503, linha 2: contagem arquivo texto contagem arquivo texto
+Arquivo 503, linha 3: linha async teste async teste contagem thread
+Arquivo 503, linha 4: texto linha linha CSharp linha CSharp thread thread arquivo CSharp async palavra
+Arquivo 503, linha 5: texto arquivo async texto texto contagem
+Arquivo 503, linha 6: await async arquivo contagem contagem
+Arquivo 503, linha 7: linha texto arquivo async contagem teste thread
+Arquivo 503, linha 8: thread arquivo teste teste teste teste CSharp thread thread texto
+Arquivo 503, linha 9: await teste texto CSharp async thread contagem thread CSharp palavra async palavra
+Arquivo 503, linha 10: palavra linha arquivo thread async CSharp CSharp CSharp linha thread thread
+Arquivo 503, linha 11: async palavra await teste thread await CSharp teste palavra
+Arquivo 503, linha 12: CSharp contagem await CSharp texto thread
+Arquivo 503, linha 13: arquivo thread arquivo contagem linha palavra teste palavra contagem contagem
+Arquivo 503, linha 14: arquivo await await CSharp await thread contagem CSharp palavra palavra linha async
+Arquivo 503, linha 15: palavra arquivo await CSharp thread CSharp thread CSharp CSharp thread palavra
+Arquivo 503, linha 16: contagem arquivo contagem CSharp teste thread contagem
+Arquivo 503, linha 17: palavra palavra texto linha texto linha texto thread
+Arquivo 503, linha 18: linha arquivo async arquivo contagem CSharp thread arquivo await
+Arquivo 503, linha 19: palavra palavra arquivo arquivo palavra

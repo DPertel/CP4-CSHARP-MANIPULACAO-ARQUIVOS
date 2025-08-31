@@ -1,0 +1,11 @@
+=== Arquivo número 895 ===
+Arquivo 895, linha 1: contagem thread linha async contagem contagem teste teste await async
+Arquivo 895, linha 2: thread async CSharp arquivo arquivo arquivo
+Arquivo 895, linha 3: linha texto linha linha CSharp async await texto CSharp async CSharp palavra
+Arquivo 895, linha 4: teste texto teste teste async await thread thread contagem arquivo
+Arquivo 895, linha 5: CSharp async async async contagem palavra linha palavra arquivo texto palavra
+Arquivo 895, linha 6: contagem thread palavra palavra linha texto palavra
+Arquivo 895, linha 7: thread await thread CSharp async texto texto CSharp teste arquivo
+Arquivo 895, linha 8: await texto await linha await await async contagem
+Arquivo 895, linha 9: CSharp CSharp async async contagem async
+Arquivo 895, linha 10: texto arquivo arquivo contagem texto

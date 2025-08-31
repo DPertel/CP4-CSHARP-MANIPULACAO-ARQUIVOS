@@ -1,0 +1,9 @@
+=== Arquivo número 843 ===
+Arquivo 843, linha 1: texto palavra contagem async teste teste CSharp thread contagem CSharp thread
+Arquivo 843, linha 2: arquivo arquivo linha palavra arquivo contagem async linha await
+Arquivo 843, linha 3: contagem linha arquivo linha palavra contagem CSharp
+Arquivo 843, linha 4: palavra CSharp palavra thread arquivo palavra contagem thread linha
+Arquivo 843, linha 5: arquivo linha async palavra palavra texto arquivo CSharp arquivo contagem
+Arquivo 843, linha 6: teste texto texto teste CSharp async arquivo CSharp CSharp arquivo await CSharp
+Arquivo 843, linha 7: teste linha arquivo texto teste contagem
+Arquivo 843, linha 8: await thread contagem linha teste contagem texto contagem CSharp CSharp

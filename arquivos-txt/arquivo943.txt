@@ -1,0 +1,19 @@
+=== Arquivo número 943 ===
+Arquivo 943, linha 1: arquivo linha contagem CSharp teste teste linha
+Arquivo 943, linha 2: await async palavra palavra await thread contagem contagem linha
+Arquivo 943, linha 3: texto await teste arquivo thread texto async async contagem teste
+Arquivo 943, linha 4: texto texto contagem arquivo teste texto arquivo
+Arquivo 943, linha 5: linha CSharp texto CSharp CSharp teste teste async arquivo await
+Arquivo 943, linha 6: palavra teste thread texto CSharp linha await thread thread
+Arquivo 943, linha 7: teste thread await thread teste palavra texto thread thread await
+Arquivo 943, linha 8: async thread contagem async arquivo palavra teste texto
+Arquivo 943, linha 9: texto palavra palavra async texto contagem palavra palavra await CSharp
+Arquivo 943, linha 10: palavra linha arquivo palavra await arquivo texto await arquivo palavra palavra thread
+Arquivo 943, linha 11: linha palavra texto CSharp async teste thread
+Arquivo 943, linha 12: arquivo contagem async linha contagem palavra linha teste
+Arquivo 943, linha 13: async contagem palavra linha CSharp texto teste texto contagem
+Arquivo 943, linha 14: palavra contagem contagem teste thread texto texto teste async CSharp async
+Arquivo 943, linha 15: await palavra await CSharp palavra
+Arquivo 943, linha 16: CSharp texto CSharp CSharp CSharp teste palavra linha
+Arquivo 943, linha 17: teste texto texto palavra thread texto contagem arquivo
+Arquivo 943, linha 18: thread arquivo linha thread async

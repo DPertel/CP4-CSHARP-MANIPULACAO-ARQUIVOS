@@ -1,0 +1,6 @@
+=== Arquivo número 905 ===
+Arquivo 905, linha 1: teste teste await CSharp texto thread contagem thread async
+Arquivo 905, linha 2: CSharp arquivo teste teste arquivo thread
+Arquivo 905, linha 3: palavra arquivo async palavra async contagem
+Arquivo 905, linha 4: linha async linha linha CSharp CSharp texto await arquivo
+Arquivo 905, linha 5: CSharp CSharp async contagem texto

@@ -1,0 +1,11 @@
+=== Arquivo número 363 ===
+Arquivo 363, linha 1: palavra texto linha await thread palavra async thread texto
+Arquivo 363, linha 2: teste teste texto texto linha contagem contagem CSharp async await CSharp texto
+Arquivo 363, linha 3: async await contagem texto contagem CSharp async linha
+Arquivo 363, linha 4: teste linha linha CSharp CSharp texto contagem
+Arquivo 363, linha 5: linha async palavra async await texto await linha thread thread await await
+Arquivo 363, linha 6: async await thread contagem teste palavra linha
+Arquivo 363, linha 7: texto teste teste texto CSharp CSharp async async
+Arquivo 363, linha 8: arquivo await texto texto arquivo palavra arquivo async
+Arquivo 363, linha 9: async teste await linha texto async teste await
+Arquivo 363, linha 10: linha contagem arquivo CSharp thread await

@@ -1,0 +1,19 @@
+=== Arquivo número 280 ===
+Arquivo 280, linha 1: texto linha arquivo arquivo palavra
+Arquivo 280, linha 2: await CSharp palavra await linha arquivo
+Arquivo 280, linha 3: palavra thread palavra await teste linha
+Arquivo 280, linha 4: CSharp thread teste thread arquivo texto thread async async thread await
+Arquivo 280, linha 5: async arquivo teste async palavra contagem async CSharp async thread
+Arquivo 280, linha 6: texto async palavra CSharp await
+Arquivo 280, linha 7: contagem teste linha texto contagem async palavra async await CSharp
+Arquivo 280, linha 8: arquivo linha CSharp texto thread texto contagem
+Arquivo 280, linha 9: CSharp thread teste thread CSharp CSharp thread palavra texto CSharp teste CSharp
+Arquivo 280, linha 10: linha palavra async contagem texto palavra async async
+Arquivo 280, linha 11: async arquivo linha await await
+Arquivo 280, linha 12: contagem texto teste await teste await CSharp async arquivo contagem
+Arquivo 280, linha 13: arquivo linha arquivo texto async linha teste contagem
+Arquivo 280, linha 14: palavra CSharp linha linha thread palavra arquivo await await async
+Arquivo 280, linha 15: contagem palavra arquivo contagem thread
+Arquivo 280, linha 16: texto linha await palavra teste palavra arquivo await teste texto await
+Arquivo 280, linha 17: CSharp async palavra contagem texto async thread
+Arquivo 280, linha 18: contagem linha CSharp await arquivo CSharp

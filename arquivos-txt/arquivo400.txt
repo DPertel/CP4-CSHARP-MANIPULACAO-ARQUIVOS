@@ -1,0 +1,18 @@
+=== Arquivo número 400 ===
+Arquivo 400, linha 1: CSharp contagem await arquivo contagem thread
+Arquivo 400, linha 2: contagem texto contagem teste thread linha thread thread
+Arquivo 400, linha 3: texto thread texto contagem palavra texto async CSharp linha teste contagem
+Arquivo 400, linha 4: contagem thread contagem texto arquivo teste texto async linha arquivo CSharp
+Arquivo 400, linha 5: thread CSharp linha contagem linha texto palavra texto thread arquivo CSharp arquivo
+Arquivo 400, linha 6: contagem contagem palavra contagem contagem CSharp contagem texto teste
+Arquivo 400, linha 7: palavra linha async palavra linha arquivo thread texto texto
+Arquivo 400, linha 8: CSharp linha await palavra linha
+Arquivo 400, linha 9: linha arquivo teste palavra linha thread palavra linha async contagem linha thread
+Arquivo 400, linha 10: teste async palavra linha async linha linha contagem async texto
+Arquivo 400, linha 11: contagem texto palavra texto await await linha contagem
+Arquivo 400, linha 12: contagem texto teste contagem linha contagem thread arquivo palavra palavra contagem teste
+Arquivo 400, linha 13: contagem await arquivo async async CSharp arquivo teste async
+Arquivo 400, linha 14: contagem thread linha thread async arquivo thread teste contagem
+Arquivo 400, linha 15: CSharp await async CSharp texto CSharp linha
+Arquivo 400, linha 16: teste async linha contagem contagem teste await async async contagem
+Arquivo 400, linha 17: await async contagem texto arquivo await CSharp linha teste contagem contagem

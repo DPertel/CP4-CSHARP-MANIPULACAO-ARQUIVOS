@@ -1,0 +1,17 @@
+=== Arquivo número 541 ===
+Arquivo 541, linha 1: texto texto CSharp teste arquivo teste
+Arquivo 541, linha 2: thread contagem thread linha palavra texto arquivo thread await await linha
+Arquivo 541, linha 3: linha contagem await async CSharp linha contagem contagem contagem await
+Arquivo 541, linha 4: linha texto async CSharp thread texto linha
+Arquivo 541, linha 5: CSharp palavra teste arquivo arquivo async CSharp async palavra arquivo
+Arquivo 541, linha 6: arquivo palavra async thread async teste arquivo thread thread arquivo teste
+Arquivo 541, linha 7: texto arquivo texto texto async teste teste async
+Arquivo 541, linha 8: arquivo await palavra thread teste palavra teste contagem teste
+Arquivo 541, linha 9: thread arquivo contagem palavra CSharp thread
+Arquivo 541, linha 10: thread arquivo teste linha thread linha texto arquivo CSharp
+Arquivo 541, linha 11: texto CSharp CSharp arquivo CSharp thread
+Arquivo 541, linha 12: teste teste arquivo texto async thread await
+Arquivo 541, linha 13: linha arquivo thread linha teste
+Arquivo 541, linha 14: arquivo texto texto palavra async texto async await
+Arquivo 541, linha 15: await await await palavra async contagem teste CSharp
+Arquivo 541, linha 16: arquivo async linha teste palavra arquivo texto async

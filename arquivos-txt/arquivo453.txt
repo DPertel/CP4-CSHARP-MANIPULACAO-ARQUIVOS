@@ -1,0 +1,18 @@
+=== Arquivo número 453 ===
+Arquivo 453, linha 1: texto thread palavra async texto teste linha thread texto
+Arquivo 453, linha 2: await thread async thread texto
+Arquivo 453, linha 3: CSharp contagem palavra contagem await palavra await palavra
+Arquivo 453, linha 4: async await contagem arquivo texto arquivo linha arquivo palavra
+Arquivo 453, linha 5: async thread CSharp palavra thread arquivo await await palavra await linha contagem
+Arquivo 453, linha 6: linha async thread thread arquivo
+Arquivo 453, linha 7: thread linha linha teste teste await texto
+Arquivo 453, linha 8: thread await contagem texto teste teste CSharp palavra arquivo thread palavra
+Arquivo 453, linha 9: contagem await CSharp palavra await thread linha teste palavra linha
+Arquivo 453, linha 10: palavra contagem arquivo async arquivo thread CSharp
+Arquivo 453, linha 11: await contagem contagem linha contagem contagem await await teste palavra thread
+Arquivo 453, linha 12: arquivo async teste arquivo CSharp await
+Arquivo 453, linha 13: arquivo linha teste teste linha linha async await CSharp
+Arquivo 453, linha 14: arquivo contagem thread teste arquivo contagem await linha thread teste teste arquivo
+Arquivo 453, linha 15: arquivo linha palavra CSharp linha await contagem linha palavra await
+Arquivo 453, linha 16: contagem arquivo texto contagem palavra CSharp
+Arquivo 453, linha 17: texto linha arquivo await async palavra thread

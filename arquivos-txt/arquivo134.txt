@@ -1,0 +1,7 @@
+=== Arquivo número 134 ===
+Arquivo 134, linha 1: arquivo arquivo linha async arquivo linha contagem texto async
+Arquivo 134, linha 2: contagem CSharp texto contagem arquivo CSharp async arquivo
+Arquivo 134, linha 3: palavra teste linha await thread palavra async
+Arquivo 134, linha 4: arquivo await teste contagem arquivo arquivo CSharp arquivo
+Arquivo 134, linha 5: teste thread await linha CSharp linha palavra thread
+Arquivo 134, linha 6: CSharp CSharp contagem linha thread await

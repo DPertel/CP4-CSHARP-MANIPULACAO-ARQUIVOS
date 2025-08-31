@@ -1,0 +1,12 @@
+=== Arquivo número 480 ===
+Arquivo 480, linha 1: texto linha CSharp await texto CSharp texto palavra palavra texto
+Arquivo 480, linha 2: contagem async arquivo await await async contagem await
+Arquivo 480, linha 3: texto teste CSharp linha await await CSharp thread palavra palavra arquivo thread
+Arquivo 480, linha 4: teste arquivo thread teste texto async teste palavra arquivo arquivo
+Arquivo 480, linha 5: teste arquivo await linha thread async thread texto texto texto
+Arquivo 480, linha 6: CSharp palavra CSharp contagem palavra texto await palavra teste teste teste texto
+Arquivo 480, linha 7: linha thread CSharp contagem CSharp contagem CSharp
+Arquivo 480, linha 8: CSharp thread await linha contagem thread
+Arquivo 480, linha 9: arquivo async palavra async await arquivo teste
+Arquivo 480, linha 10: linha teste CSharp CSharp thread CSharp arquivo await thread arquivo palavra linha
+Arquivo 480, linha 11: palavra contagem teste palavra texto

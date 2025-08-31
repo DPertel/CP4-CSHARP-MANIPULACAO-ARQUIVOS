@@ -1,0 +1,7 @@
+=== Arquivo número 802 ===
+Arquivo 802, linha 1: linha contagem thread teste palavra teste texto arquivo palavra palavra
+Arquivo 802, linha 2: palavra await palavra linha CSharp contagem await linha async thread texto
+Arquivo 802, linha 3: async arquivo teste await arquivo palavra arquivo teste teste texto arquivo thread
+Arquivo 802, linha 4: teste palavra thread teste teste palavra texto
+Arquivo 802, linha 5: texto arquivo contagem contagem linha await await
+Arquivo 802, linha 6: linha await async async arquivo thread thread arquivo

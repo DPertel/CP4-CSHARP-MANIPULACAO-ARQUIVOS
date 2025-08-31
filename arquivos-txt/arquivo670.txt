@@ -1,0 +1,14 @@
+=== Arquivo número 670 ===
+Arquivo 670, linha 1: await teste thread texto arquivo await
+Arquivo 670, linha 2: arquivo teste teste CSharp contagem texto CSharp async async thread arquivo arquivo
+Arquivo 670, linha 3: await thread contagem await linha texto await arquivo teste thread await CSharp
+Arquivo 670, linha 4: palavra palavra thread async thread linha
+Arquivo 670, linha 5: palavra thread texto linha await
+Arquivo 670, linha 6: CSharp async contagem teste arquivo teste thread texto arquivo linha
+Arquivo 670, linha 7: await CSharp CSharp teste CSharp texto thread arquivo arquivo palavra contagem
+Arquivo 670, linha 8: contagem texto arquivo linha texto teste contagem
+Arquivo 670, linha 9: palavra thread linha texto palavra contagem async texto arquivo arquivo async arquivo
+Arquivo 670, linha 10: contagem linha linha CSharp palavra CSharp arquivo async CSharp
+Arquivo 670, linha 11: palavra palavra async async texto texto await
+Arquivo 670, linha 12: teste thread linha thread teste palavra await CSharp arquivo contagem
+Arquivo 670, linha 13: palavra texto teste palavra contagem palavra

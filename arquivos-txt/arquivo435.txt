@@ -1,0 +1,18 @@
+=== Arquivo número 435 ===
+Arquivo 435, linha 1: thread thread linha CSharp palavra CSharp async async arquivo
+Arquivo 435, linha 2: linha await CSharp thread contagem await teste
+Arquivo 435, linha 3: contagem contagem thread async linha thread palavra await linha
+Arquivo 435, linha 4: palavra await contagem teste await
+Arquivo 435, linha 5: thread thread linha CSharp arquivo arquivo CSharp thread texto thread arquivo await
+Arquivo 435, linha 6: arquivo linha contagem thread texto arquivo linha CSharp
+Arquivo 435, linha 7: palavra texto teste thread teste contagem teste async async linha texto await
+Arquivo 435, linha 8: async CSharp contagem thread linha palavra
+Arquivo 435, linha 9: linha await await thread teste linha texto teste teste linha async
+Arquivo 435, linha 10: texto contagem await palavra contagem async linha
+Arquivo 435, linha 11: arquivo thread teste palavra thread await teste teste thread linha
+Arquivo 435, linha 12: async thread texto await thread
+Arquivo 435, linha 13: linha thread contagem palavra CSharp contagem arquivo thread texto
+Arquivo 435, linha 14: await texto contagem linha texto
+Arquivo 435, linha 15: contagem await teste async await texto linha linha
+Arquivo 435, linha 16: texto await palavra texto teste palavra linha
+Arquivo 435, linha 17: arquivo await thread palavra arquivo contagem await async

@@ -1,0 +1,18 @@
+=== Arquivo número 579 ===
+Arquivo 579, linha 1: await arquivo await contagem await contagem contagem palavra
+Arquivo 579, linha 2: thread arquivo await thread async palavra CSharp contagem teste palavra teste
+Arquivo 579, linha 3: arquivo texto thread thread contagem linha
+Arquivo 579, linha 4: thread await await contagem CSharp async
+Arquivo 579, linha 5: thread CSharp arquivo palavra arquivo
+Arquivo 579, linha 6: teste palavra arquivo texto linha contagem
+Arquivo 579, linha 7: arquivo await texto await CSharp
+Arquivo 579, linha 8: teste await thread palavra contagem linha thread teste arquivo texto
+Arquivo 579, linha 9: texto texto teste thread texto thread palavra CSharp arquivo
+Arquivo 579, linha 10: teste palavra contagem texto teste await CSharp await palavra palavra
+Arquivo 579, linha 11: await async contagem linha linha teste
+Arquivo 579, linha 12: linha linha await contagem palavra palavra teste thread thread linha thread texto
+Arquivo 579, linha 13: arquivo contagem palavra palavra await linha teste CSharp await linha
+Arquivo 579, linha 14: linha texto thread palavra teste thread arquivo
+Arquivo 579, linha 15: linha async texto async linha contagem palavra texto
+Arquivo 579, linha 16: thread texto await await async thread linha thread teste linha
+Arquivo 579, linha 17: async texto texto teste contagem await teste await teste thread CSharp

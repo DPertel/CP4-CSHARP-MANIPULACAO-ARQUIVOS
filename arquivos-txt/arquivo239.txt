@@ -1,0 +1,13 @@
+=== Arquivo número 239 ===
+Arquivo 239, linha 1: teste async contagem arquivo teste await thread teste palavra async
+Arquivo 239, linha 2: contagem palavra thread arquivo contagem
+Arquivo 239, linha 3: linha teste contagem texto await
+Arquivo 239, linha 4: await palavra texto async linha linha texto texto contagem
+Arquivo 239, linha 5: palavra arquivo texto teste thread linha arquivo
+Arquivo 239, linha 6: linha CSharp await async contagem palavra contagem contagem palavra
+Arquivo 239, linha 7: teste await palavra await async await texto palavra teste texto
+Arquivo 239, linha 8: thread thread arquivo linha thread palavra
+Arquivo 239, linha 9: thread teste teste palavra thread palavra teste
+Arquivo 239, linha 10: contagem CSharp await arquivo CSharp linha async thread thread texto linha
+Arquivo 239, linha 11: async contagem linha linha async
+Arquivo 239, linha 12: arquivo texto palavra async thread CSharp CSharp teste await arquivo

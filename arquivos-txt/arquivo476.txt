@@ -1,0 +1,10 @@
+=== Arquivo número 476 ===
+Arquivo 476, linha 1: linha texto linha thread thread contagem
+Arquivo 476, linha 2: linha contagem palavra texto async thread texto async contagem
+Arquivo 476, linha 3: texto arquivo CSharp CSharp CSharp
+Arquivo 476, linha 4: CSharp arquivo arquivo async async teste
+Arquivo 476, linha 5: teste teste teste await contagem thread palavra arquivo texto
+Arquivo 476, linha 6: await texto linha teste palavra arquivo teste await async teste async thread
+Arquivo 476, linha 7: arquivo CSharp texto await teste async contagem
+Arquivo 476, linha 8: contagem await arquivo thread linha CSharp CSharp contagem contagem texto async texto
+Arquivo 476, linha 9: teste palavra await async texto teste texto teste

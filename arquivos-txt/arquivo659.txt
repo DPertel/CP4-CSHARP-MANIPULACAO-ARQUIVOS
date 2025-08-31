@@ -1,0 +1,18 @@
+=== Arquivo número 659 ===
+Arquivo 659, linha 1: thread linha await CSharp contagem linha palavra await palavra async async linha
+Arquivo 659, linha 2: texto async palavra contagem thread teste texto palavra linha palavra
+Arquivo 659, linha 3: contagem texto async linha thread CSharp
+Arquivo 659, linha 4: linha contagem texto teste contagem thread teste
+Arquivo 659, linha 5: linha async contagem contagem linha thread
+Arquivo 659, linha 6: palavra teste CSharp async CSharp async linha linha linha
+Arquivo 659, linha 7: teste teste texto CSharp async palavra palavra texto
+Arquivo 659, linha 8: arquivo texto palavra thread arquivo
+Arquivo 659, linha 9: CSharp palavra linha contagem texto async thread texto contagem await
+Arquivo 659, linha 10: linha CSharp linha palavra teste texto async palavra
+Arquivo 659, linha 11: arquivo async teste arquivo thread texto
+Arquivo 659, linha 12: await thread contagem arquivo await teste linha
+Arquivo 659, linha 13: await texto texto await linha texto await texto
+Arquivo 659, linha 14: async arquivo linha palavra arquivo
+Arquivo 659, linha 15: await await texto thread arquivo linha arquivo
+Arquivo 659, linha 16: CSharp async arquivo contagem thread
+Arquivo 659, linha 17: thread CSharp await async arquivo linha linha linha linha texto contagem CSharp

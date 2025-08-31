@@ -1,0 +1,8 @@
+=== Arquivo número 547 ===
+Arquivo 547, linha 1: CSharp palavra contagem arquivo arquivo
+Arquivo 547, linha 2: teste teste texto thread teste teste
+Arquivo 547, linha 3: async async palavra contagem palavra thread thread async async contagem arquivo
+Arquivo 547, linha 4: teste CSharp arquivo texto teste palavra texto contagem linha CSharp arquivo palavra
+Arquivo 547, linha 5: await async await arquivo palavra
+Arquivo 547, linha 6: CSharp thread arquivo CSharp CSharp teste linha
+Arquivo 547, linha 7: await arquivo async texto texto teste

@@ -1,0 +1,15 @@
+=== Arquivo número 441 ===
+Arquivo 441, linha 1: palavra thread palavra await texto await palavra async palavra contagem await linha
+Arquivo 441, linha 2: arquivo await await async CSharp texto linha CSharp CSharp
+Arquivo 441, linha 3: thread thread CSharp palavra arquivo teste thread CSharp await texto thread
+Arquivo 441, linha 4: palavra await contagem texto await linha await thread palavra linha
+Arquivo 441, linha 5: thread palavra linha await thread contagem async texto CSharp
+Arquivo 441, linha 6: contagem palavra texto teste async arquivo
+Arquivo 441, linha 7: palavra linha thread thread async arquivo texto palavra thread CSharp contagem linha
+Arquivo 441, linha 8: await contagem teste CSharp await async
+Arquivo 441, linha 9: palavra async texto async async contagem await arquivo thread texto CSharp
+Arquivo 441, linha 10: await CSharp palavra contagem linha linha CSharp palavra teste arquivo
+Arquivo 441, linha 11: teste contagem linha thread arquivo teste thread CSharp linha await teste await
+Arquivo 441, linha 12: texto arquivo async texto palavra
+Arquivo 441, linha 13: palavra texto await async await
+Arquivo 441, linha 14: arquivo CSharp CSharp texto thread await contagem thread contagem await CSharp

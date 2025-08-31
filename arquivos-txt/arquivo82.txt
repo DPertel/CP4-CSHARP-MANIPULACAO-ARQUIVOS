@@ -1,0 +1,12 @@
+=== Arquivo número 82 ===
+Arquivo 82, linha 1: async async texto arquivo CSharp palavra teste
+Arquivo 82, linha 2: texto teste contagem await texto texto
+Arquivo 82, linha 3: teste await contagem linha thread
+Arquivo 82, linha 4: contagem teste CSharp palavra arquivo async await arquivo contagem async
+Arquivo 82, linha 5: await linha texto CSharp async async arquivo async texto async await linha
+Arquivo 82, linha 6: contagem async arquivo await palavra
+Arquivo 82, linha 7: arquivo await thread contagem CSharp contagem await texto await thread arquivo palavra
+Arquivo 82, linha 8: texto CSharp async teste arquivo linha
+Arquivo 82, linha 9: palavra await arquivo CSharp texto async CSharp contagem teste palavra contagem
+Arquivo 82, linha 10: thread arquivo await teste palavra thread CSharp contagem contagem teste
+Arquivo 82, linha 11: arquivo palavra palavra arquivo await CSharp arquivo

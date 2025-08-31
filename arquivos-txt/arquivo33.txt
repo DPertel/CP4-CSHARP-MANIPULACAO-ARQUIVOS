@@ -1,0 +1,14 @@
+=== Arquivo número 33 ===
+Arquivo 33, linha 1: CSharp arquivo async arquivo async await CSharp palavra teste CSharp
+Arquivo 33, linha 2: async await async teste CSharp thread CSharp arquivo contagem palavra
+Arquivo 33, linha 3: CSharp linha CSharp palavra await teste
+Arquivo 33, linha 4: contagem texto teste texto thread await linha await arquivo texto linha async
+Arquivo 33, linha 5: texto CSharp texto contagem linha linha teste await await palavra CSharp await
+Arquivo 33, linha 6: await palavra async texto CSharp
+Arquivo 33, linha 7: contagem palavra thread CSharp arquivo thread
+Arquivo 33, linha 8: await teste async palavra palavra arquivo await
+Arquivo 33, linha 9: palavra texto contagem texto teste CSharp await arquivo thread
+Arquivo 33, linha 10: palavra CSharp texto await CSharp arquivo async async
+Arquivo 33, linha 11: CSharp texto await linha arquivo palavra contagem async contagem thread await arquivo
+Arquivo 33, linha 12: CSharp linha teste arquivo texto teste thread CSharp thread
+Arquivo 33, linha 13: await linha contagem linha palavra palavra async async arquivo arquivo contagem async

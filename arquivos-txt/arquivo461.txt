@@ -1,0 +1,18 @@
+=== Arquivo número 461 ===
+Arquivo 461, linha 1: contagem thread teste texto thread linha teste contagem await
+Arquivo 461, linha 2: thread arquivo teste arquivo async thread thread linha thread linha contagem
+Arquivo 461, linha 3: async async teste async await async thread CSharp async palavra async
+Arquivo 461, linha 4: arquivo CSharp await contagem texto linha teste await CSharp linha texto texto
+Arquivo 461, linha 5: await await teste CSharp palavra await await async palavra contagem
+Arquivo 461, linha 6: texto thread teste texto texto palavra texto linha palavra contagem
+Arquivo 461, linha 7: async async CSharp async arquivo CSharp palavra arquivo linha texto
+Arquivo 461, linha 8: texto contagem texto linha CSharp texto async
+Arquivo 461, linha 9: CSharp contagem thread arquivo teste linha linha
+Arquivo 461, linha 10: thread thread thread contagem texto texto
+Arquivo 461, linha 11: arquivo texto CSharp contagem teste
+Arquivo 461, linha 12: thread CSharp contagem arquivo arquivo linha contagem await
+Arquivo 461, linha 13: thread contagem CSharp teste thread thread async
+Arquivo 461, linha 14: contagem texto palavra texto thread contagem palavra await contagem texto
+Arquivo 461, linha 15: arquivo contagem palavra linha linha
+Arquivo 461, linha 16: contagem CSharp await await contagem await CSharp palavra async teste arquivo linha
+Arquivo 461, linha 17: arquivo linha contagem teste await

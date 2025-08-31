@@ -1,0 +1,18 @@
+=== Arquivo número 383 ===
+Arquivo 383, linha 1: teste texto contagem palavra linha async palavra contagem arquivo palavra arquivo
+Arquivo 383, linha 2: contagem await async palavra arquivo linha async texto
+Arquivo 383, linha 3: await contagem palavra texto teste async texto
+Arquivo 383, linha 4: thread await thread CSharp async
+Arquivo 383, linha 5: linha thread texto teste async palavra
+Arquivo 383, linha 6: arquivo async linha teste teste async CSharp thread
+Arquivo 383, linha 7: palavra texto arquivo arquivo texto contagem await
+Arquivo 383, linha 8: texto arquivo linha arquivo CSharp async thread palavra CSharp await await async
+Arquivo 383, linha 9: async arquivo teste arquivo palavra palavra async CSharp contagem await linha
+Arquivo 383, linha 10: async arquivo await await texto texto texto linha linha async await async
+Arquivo 383, linha 11: teste CSharp linha await contagem CSharp palavra teste async
+Arquivo 383, linha 12: arquivo async teste async teste contagem linha teste texto thread async CSharp
+Arquivo 383, linha 13: async palavra teste await async thread thread contagem async contagem await
+Arquivo 383, linha 14: async thread teste CSharp linha thread
+Arquivo 383, linha 15: linha teste contagem arquivo texto
+Arquivo 383, linha 16: async arquivo contagem contagem thread texto teste
+Arquivo 383, linha 17: linha CSharp thread async CSharp linha thread CSharp

@@ -1,0 +1,16 @@
+=== Arquivo número 612 ===
+Arquivo 612, linha 1: palavra await arquivo await linha texto arquivo palavra
+Arquivo 612, linha 2: contagem await contagem linha texto thread CSharp contagem linha texto teste
+Arquivo 612, linha 3: palavra contagem async await thread thread async
+Arquivo 612, linha 4: await linha arquivo contagem palavra contagem texto
+Arquivo 612, linha 5: palavra await teste teste await async contagem
+Arquivo 612, linha 6: await arquivo thread teste linha palavra linha thread texto palavra
+Arquivo 612, linha 7: thread await linha CSharp CSharp await async CSharp await thread CSharp
+Arquivo 612, linha 8: arquivo linha await await await await linha thread async thread palavra
+Arquivo 612, linha 9: teste palavra thread await palavra linha
+Arquivo 612, linha 10: teste palavra palavra teste thread arquivo CSharp CSharp texto linha await
+Arquivo 612, linha 11: thread async CSharp texto CSharp teste await
+Arquivo 612, linha 12: await palavra thread texto await CSharp async
+Arquivo 612, linha 13: async CSharp texto palavra CSharp palavra contagem teste
+Arquivo 612, linha 14: teste await CSharp contagem palavra contagem palavra
+Arquivo 612, linha 15: teste CSharp arquivo palavra async thread CSharp palavra contagem arquivo CSharp linha

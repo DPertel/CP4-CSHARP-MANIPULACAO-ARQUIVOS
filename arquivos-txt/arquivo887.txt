@@ -1,0 +1,9 @@
+=== Arquivo número 887 ===
+Arquivo 887, linha 1: arquivo palavra teste teste linha
+Arquivo 887, linha 2: linha CSharp await linha linha palavra palavra palavra async async
+Arquivo 887, linha 3: texto contagem teste CSharp async teste teste arquivo linha contagem palavra linha
+Arquivo 887, linha 4: async palavra palavra await thread thread thread teste contagem
+Arquivo 887, linha 5: arquivo async contagem CSharp async
+Arquivo 887, linha 6: teste CSharp texto palavra texto CSharp contagem CSharp texto
+Arquivo 887, linha 7: arquivo texto thread linha await teste CSharp teste thread await
+Arquivo 887, linha 8: arquivo palavra teste await linha palavra arquivo thread thread texto CSharp

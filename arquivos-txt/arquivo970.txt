@@ -1,0 +1,7 @@
+=== Arquivo número 970 ===
+Arquivo 970, linha 1: teste await async CSharp linha teste teste
+Arquivo 970, linha 2: async async CSharp texto async async palavra texto teste
+Arquivo 970, linha 3: contagem teste thread palavra linha CSharp texto await
+Arquivo 970, linha 4: teste texto teste arquivo palavra await
+Arquivo 970, linha 5: teste CSharp palavra linha thread arquivo arquivo arquivo async CSharp CSharp contagem
+Arquivo 970, linha 6: texto await CSharp texto CSharp texto linha

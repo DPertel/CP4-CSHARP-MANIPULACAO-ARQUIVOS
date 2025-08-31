@@ -1,0 +1,5 @@
+=== Arquivo número 413 ===
+Arquivo 413, linha 1: linha linha arquivo palavra contagem palavra palavra palavra palavra arquivo arquivo linha
+Arquivo 413, linha 2: teste await palavra texto await CSharp palavra palavra
+Arquivo 413, linha 3: CSharp texto linha linha teste
+Arquivo 413, linha 4: async async teste palavra CSharp palavra

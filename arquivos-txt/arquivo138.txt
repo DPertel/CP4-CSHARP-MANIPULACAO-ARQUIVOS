@@ -1,0 +1,9 @@
+=== Arquivo número 138 ===
+Arquivo 138, linha 1: thread teste await texto palavra async contagem texto
+Arquivo 138, linha 2: texto teste await contagem contagem palavra
+Arquivo 138, linha 3: texto texto async thread contagem linha linha
+Arquivo 138, linha 4: contagem palavra await linha texto linha
+Arquivo 138, linha 5: teste texto linha linha palavra thread CSharp teste thread
+Arquivo 138, linha 6: contagem linha texto texto linha linha teste palavra
+Arquivo 138, linha 7: CSharp palavra palavra arquivo texto
+Arquivo 138, linha 8: await arquivo contagem CSharp teste await palavra await linha linha thread thread

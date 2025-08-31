@@ -1,0 +1,18 @@
+=== Arquivo número 714 ===
+Arquivo 714, linha 1: thread CSharp palavra teste palavra async linha contagem thread async CSharp await
+Arquivo 714, linha 2: arquivo thread thread CSharp async arquivo linha CSharp teste palavra texto
+Arquivo 714, linha 3: contagem arquivo texto CSharp linha linha teste CSharp
+Arquivo 714, linha 4: arquivo linha arquivo linha arquivo arquivo texto palavra arquivo await
+Arquivo 714, linha 5: CSharp contagem teste palavra arquivo async arquivo CSharp async async
+Arquivo 714, linha 6: thread thread palavra await arquivo contagem
+Arquivo 714, linha 7: thread arquivo texto texto linha await CSharp thread CSharp
+Arquivo 714, linha 8: texto palavra await texto async thread arquivo
+Arquivo 714, linha 9: thread thread contagem async contagem async arquivo teste texto palavra palavra
+Arquivo 714, linha 10: teste CSharp linha contagem texto thread arquivo
+Arquivo 714, linha 11: teste palavra await CSharp teste teste teste await
+Arquivo 714, linha 12: await palavra palavra CSharp teste palavra CSharp thread arquivo arquivo
+Arquivo 714, linha 13: teste await arquivo teste linha texto
+Arquivo 714, linha 14: teste texto arquivo arquivo async linha CSharp palavra contagem thread thread
+Arquivo 714, linha 15: linha palavra teste CSharp texto texto arquivo CSharp
+Arquivo 714, linha 16: texto teste contagem CSharp await
+Arquivo 714, linha 17: await texto async palavra contagem arquivo arquivo arquivo arquivo linha

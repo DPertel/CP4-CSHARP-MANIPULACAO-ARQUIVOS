@@ -1,0 +1,17 @@
+=== Arquivo número 229 ===
+Arquivo 229, linha 1: contagem thread palavra await await await thread async
+Arquivo 229, linha 2: arquivo arquivo contagem arquivo arquivo contagem linha CSharp CSharp teste teste palavra
+Arquivo 229, linha 3: thread texto CSharp linha palavra async CSharp
+Arquivo 229, linha 4: thread thread linha async texto async CSharp contagem async
+Arquivo 229, linha 5: teste arquivo await await thread thread
+Arquivo 229, linha 6: arquivo contagem linha CSharp contagem CSharp
+Arquivo 229, linha 7: linha async async texto teste async
+Arquivo 229, linha 8: palavra texto contagem contagem async arquivo async
+Arquivo 229, linha 9: CSharp async arquivo contagem teste palavra contagem texto texto CSharp CSharp async
+Arquivo 229, linha 10: contagem thread teste CSharp arquivo async teste thread linha arquivo palavra thread
+Arquivo 229, linha 11: teste CSharp contagem thread CSharp
+Arquivo 229, linha 12: arquivo contagem await teste palavra teste contagem await CSharp palavra arquivo
+Arquivo 229, linha 13: thread texto CSharp palavra texto texto thread texto CSharp async async linha
+Arquivo 229, linha 14: async arquivo contagem teste contagem linha palavra thread arquivo
+Arquivo 229, linha 15: thread teste palavra thread arquivo await contagem
+Arquivo 229, linha 16: palavra async teste thread linha

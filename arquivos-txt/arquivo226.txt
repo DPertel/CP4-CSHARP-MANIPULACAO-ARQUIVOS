@@ -1,0 +1,18 @@
+=== Arquivo número 226 ===
+Arquivo 226, linha 1: async linha linha linha async
+Arquivo 226, linha 2: CSharp palavra palavra arquivo arquivo teste thread thread
+Arquivo 226, linha 3: contagem await await arquivo await CSharp CSharp contagem teste thread texto thread
+Arquivo 226, linha 4: texto await teste contagem await
+Arquivo 226, linha 5: thread contagem teste palavra await CSharp contagem
+Arquivo 226, linha 6: texto teste texto teste async async contagem texto palavra teste async contagem
+Arquivo 226, linha 7: palavra teste await thread contagem thread async async texto
+Arquivo 226, linha 8: await contagem CSharp linha await thread CSharp palavra CSharp texto
+Arquivo 226, linha 9: contagem await async contagem CSharp async async texto async CSharp
+Arquivo 226, linha 10: async arquivo contagem contagem palavra texto thread CSharp
+Arquivo 226, linha 11: teste contagem palavra arquivo teste async async CSharp
+Arquivo 226, linha 12: contagem thread arquivo palavra arquivo
+Arquivo 226, linha 13: async texto await palavra teste linha
+Arquivo 226, linha 14: linha await palavra arquivo contagem palavra linha
+Arquivo 226, linha 15: thread await texto linha palavra arquivo contagem palavra contagem
+Arquivo 226, linha 16: linha thread palavra await await await thread
+Arquivo 226, linha 17: contagem palavra CSharp palavra teste thread palavra teste

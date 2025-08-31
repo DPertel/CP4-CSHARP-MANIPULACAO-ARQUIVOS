@@ -1,0 +1,11 @@
+=== Arquivo número 652 ===
+Arquivo 652, linha 1: async CSharp palavra thread teste palavra arquivo thread palavra
+Arquivo 652, linha 2: async thread CSharp await thread teste arquivo
+Arquivo 652, linha 3: arquivo async linha linha palavra CSharp texto
+Arquivo 652, linha 4: async await palavra async await await
+Arquivo 652, linha 5: await await arquivo async await teste texto async arquivo await
+Arquivo 652, linha 6: palavra texto async texto await thread texto arquivo async async teste teste
+Arquivo 652, linha 7: linha linha CSharp palavra linha contagem palavra
+Arquivo 652, linha 8: thread arquivo async linha texto await
+Arquivo 652, linha 9: await async await CSharp teste palavra texto linha
+Arquivo 652, linha 10: CSharp thread palavra contagem async

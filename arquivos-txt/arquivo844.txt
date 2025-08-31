@@ -1,0 +1,8 @@
+=== Arquivo número 844 ===
+Arquivo 844, linha 1: contagem palavra contagem palavra texto thread texto palavra thread CSharp
+Arquivo 844, linha 2: CSharp linha async teste linha async teste texto texto
+Arquivo 844, linha 3: arquivo teste CSharp thread contagem contagem
+Arquivo 844, linha 4: arquivo palavra CSharp contagem thread arquivo contagem linha thread
+Arquivo 844, linha 5: thread palavra teste thread arquivo arquivo async linha palavra CSharp palavra
+Arquivo 844, linha 6: contagem await CSharp CSharp thread thread arquivo palavra
+Arquivo 844, linha 7: arquivo texto contagem palavra contagem

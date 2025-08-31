@@ -1,0 +1,15 @@
+=== Arquivo número 882 ===
+Arquivo 882, linha 1: teste async CSharp arquivo await thread
+Arquivo 882, linha 2: texto async CSharp thread await CSharp async contagem
+Arquivo 882, linha 3: teste thread teste thread arquivo contagem palavra arquivo texto
+Arquivo 882, linha 4: texto arquivo await palavra async palavra arquivo contagem palavra thread linha arquivo
+Arquivo 882, linha 5: teste thread teste palavra contagem linha linha await palavra async teste
+Arquivo 882, linha 6: CSharp arquivo await async arquivo thread async arquivo
+Arquivo 882, linha 7: texto palavra arquivo async teste teste texto teste arquivo
+Arquivo 882, linha 8: async thread arquivo teste texto texto linha
+Arquivo 882, linha 9: contagem arquivo palavra teste palavra async async
+Arquivo 882, linha 10: contagem async contagem async await arquivo arquivo thread
+Arquivo 882, linha 11: palavra contagem arquivo await CSharp arquivo CSharp palavra
+Arquivo 882, linha 12: CSharp linha teste async linha
+Arquivo 882, linha 13: arquivo linha linha texto linha linha teste CSharp linha teste contagem teste
+Arquivo 882, linha 14: CSharp texto teste CSharp teste texto thread

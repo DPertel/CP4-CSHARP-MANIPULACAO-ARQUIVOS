@@ -1,0 +1,5 @@
+=== Arquivo número 30 ===
+Arquivo 30, linha 1: texto contagem texto CSharp await arquivo
+Arquivo 30, linha 2: teste linha contagem linha thread contagem linha async arquivo
+Arquivo 30, linha 3: texto await arquivo linha palavra thread palavra await arquivo palavra
+Arquivo 30, linha 4: await contagem thread arquivo arquivo palavra

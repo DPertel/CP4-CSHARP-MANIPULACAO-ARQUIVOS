@@ -1,0 +1,12 @@
+=== Arquivo número 89 ===
+Arquivo 89, linha 1: async await teste teste thread async CSharp linha
+Arquivo 89, linha 2: await linha teste linha thread CSharp
+Arquivo 89, linha 3: arquivo thread CSharp linha linha thread teste CSharp linha palavra teste CSharp
+Arquivo 89, linha 4: arquivo arquivo linha thread palavra texto thread CSharp await CSharp async linha
+Arquivo 89, linha 5: texto arquivo thread await await contagem palavra await
+Arquivo 89, linha 6: async async CSharp thread thread texto arquivo await
+Arquivo 89, linha 7: CSharp texto contagem texto await await texto contagem arquivo thread teste linha
+Arquivo 89, linha 8: CSharp linha teste teste contagem async linha arquivo linha teste
+Arquivo 89, linha 9: await teste teste palavra teste thread
+Arquivo 89, linha 10: CSharp thread contagem teste arquivo teste palavra contagem arquivo await linha palavra
+Arquivo 89, linha 11: linha CSharp thread linha await CSharp await arquivo contagem texto contagem

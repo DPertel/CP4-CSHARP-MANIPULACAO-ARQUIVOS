@@ -1,0 +1,13 @@
+=== Arquivo número 108 ===
+Arquivo 108, linha 1: teste contagem await contagem linha CSharp thread arquivo thread linha CSharp CSharp
+Arquivo 108, linha 2: teste teste texto linha await arquivo
+Arquivo 108, linha 3: linha contagem async palavra teste contagem teste linha
+Arquivo 108, linha 4: palavra teste arquivo texto await texto arquivo arquivo linha await CSharp
+Arquivo 108, linha 5: thread contagem CSharp arquivo await await linha linha linha
+Arquivo 108, linha 6: await async thread await texto teste CSharp thread thread palavra
+Arquivo 108, linha 7: CSharp teste palavra thread palavra await linha texto teste await await async
+Arquivo 108, linha 8: arquivo palavra CSharp contagem await linha async CSharp texto teste CSharp
+Arquivo 108, linha 9: contagem contagem texto texto thread arquivo linha linha
+Arquivo 108, linha 10: teste async await thread await async await teste thread palavra texto
+Arquivo 108, linha 11: linha async await async linha linha linha texto arquivo arquivo CSharp
+Arquivo 108, linha 12: async teste linha thread linha linha palavra contagem arquivo await contagem

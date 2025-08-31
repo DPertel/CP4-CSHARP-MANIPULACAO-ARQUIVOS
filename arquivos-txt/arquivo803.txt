@@ -1,0 +1,12 @@
+=== Arquivo número 803 ===
+Arquivo 803, linha 1: teste thread palavra CSharp linha arquivo palavra async palavra linha arquivo teste
+Arquivo 803, linha 2: linha teste thread contagem teste async teste texto thread
+Arquivo 803, linha 3: CSharp await teste contagem contagem teste await
+Arquivo 803, linha 4: texto palavra async palavra teste contagem linha teste async CSharp linha
+Arquivo 803, linha 5: palavra CSharp contagem linha teste texto
+Arquivo 803, linha 6: thread palavra contagem teste CSharp thread linha linha thread arquivo contagem
+Arquivo 803, linha 7: arquivo async palavra async palavra arquivo async palavra texto palavra
+Arquivo 803, linha 8: linha CSharp palavra thread linha
+Arquivo 803, linha 9: palavra CSharp texto contagem thread
+Arquivo 803, linha 10: arquivo texto thread contagem teste await texto
+Arquivo 803, linha 11: palavra async await palavra teste thread linha teste await contagem arquivo

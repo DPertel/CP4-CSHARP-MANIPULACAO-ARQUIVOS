@@ -1,0 +1,14 @@
+=== Arquivo número 470 ===
+Arquivo 470, linha 1: texto async teste CSharp teste arquivo arquivo palavra CSharp async CSharp
+Arquivo 470, linha 2: await texto await palavra teste thread palavra palavra teste CSharp
+Arquivo 470, linha 3: async CSharp async await palavra palavra
+Arquivo 470, linha 4: palavra teste linha thread teste palavra texto arquivo
+Arquivo 470, linha 5: contagem teste teste CSharp palavra
+Arquivo 470, linha 6: thread CSharp teste texto async async palavra
+Arquivo 470, linha 7: palavra async palavra texto texto linha
+Arquivo 470, linha 8: CSharp palavra palavra contagem palavra linha await CSharp
+Arquivo 470, linha 9: CSharp linha palavra async teste palavra linha palavra async thread palavra arquivo
+Arquivo 470, linha 10: await palavra linha await linha texto await contagem linha texto contagem thread
+Arquivo 470, linha 11: teste texto teste await contagem arquivo linha await
+Arquivo 470, linha 12: contagem async teste thread palavra CSharp await arquivo
+Arquivo 470, linha 13: palavra async arquivo arquivo CSharp

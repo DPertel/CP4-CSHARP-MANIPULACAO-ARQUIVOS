@@ -1,0 +1,8 @@
+=== Arquivo número 357 ===
+Arquivo 357, linha 1: linha contagem await palavra texto teste texto texto CSharp thread CSharp
+Arquivo 357, linha 2: await teste arquivo texto palavra palavra async texto async arquivo
+Arquivo 357, linha 3: teste linha teste palavra texto await
+Arquivo 357, linha 4: palavra contagem CSharp teste palavra arquivo thread arquivo CSharp texto arquivo
+Arquivo 357, linha 5: await thread linha linha arquivo CSharp teste await
+Arquivo 357, linha 6: palavra thread linha async palavra thread thread teste async async teste arquivo
+Arquivo 357, linha 7: CSharp CSharp texto thread thread teste CSharp

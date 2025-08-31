@@ -1,0 +1,10 @@
+=== Arquivo número 113 ===
+Arquivo 113, linha 1: thread arquivo thread thread texto CSharp palavra thread async async await
+Arquivo 113, linha 2: await CSharp arquivo arquivo contagem CSharp contagem palavra contagem async thread
+Arquivo 113, linha 3: thread linha thread thread contagem await palavra contagem texto
+Arquivo 113, linha 4: contagem linha arquivo palavra await palavra await CSharp
+Arquivo 113, linha 5: texto palavra texto async arquivo arquivo CSharp linha thread CSharp
+Arquivo 113, linha 6: linha await thread texto async async arquivo contagem async await linha palavra
+Arquivo 113, linha 7: CSharp arquivo texto linha CSharp teste teste thread teste thread teste async
+Arquivo 113, linha 8: async linha teste linha teste palavra CSharp contagem linha contagem
+Arquivo 113, linha 9: await texto thread arquivo contagem async CSharp arquivo linha CSharp arquivo

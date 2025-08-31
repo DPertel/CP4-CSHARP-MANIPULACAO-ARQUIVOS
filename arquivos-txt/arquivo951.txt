@@ -1,0 +1,17 @@
+=== Arquivo número 951 ===
+Arquivo 951, linha 1: arquivo texto async texto async arquivo linha CSharp await CSharp CSharp CSharp
+Arquivo 951, linha 2: arquivo texto texto CSharp teste teste linha arquivo await contagem await palavra
+Arquivo 951, linha 3: async await palavra linha CSharp thread palavra linha linha CSharp
+Arquivo 951, linha 4: await CSharp texto linha linha thread async contagem
+Arquivo 951, linha 5: async texto texto teste CSharp teste texto async teste async linha palavra
+Arquivo 951, linha 6: texto teste thread palavra texto await await arquivo arquivo teste CSharp
+Arquivo 951, linha 7: contagem teste CSharp palavra teste
+Arquivo 951, linha 8: await CSharp texto await teste linha
+Arquivo 951, linha 9: contagem palavra CSharp teste linha palavra linha await await await palavra
+Arquivo 951, linha 10: CSharp teste linha await CSharp CSharp async linha await palavra thread
+Arquivo 951, linha 11: linha linha CSharp texto CSharp thread teste
+Arquivo 951, linha 12: await contagem teste contagem async linha contagem linha thread teste texto palavra
+Arquivo 951, linha 13: thread contagem async palavra await async await
+Arquivo 951, linha 14: teste linha palavra texto texto await arquivo contagem arquivo palavra CSharp async
+Arquivo 951, linha 15: linha await await arquivo thread palavra linha CSharp
+Arquivo 951, linha 16: CSharp arquivo arquivo contagem await CSharp linha CSharp await CSharp await

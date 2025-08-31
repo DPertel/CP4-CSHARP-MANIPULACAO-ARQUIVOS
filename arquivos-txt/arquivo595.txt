@@ -1,0 +1,5 @@
+=== Arquivo número 595 ===
+Arquivo 595, linha 1: palavra arquivo texto thread async palavra linha contagem async arquivo palavra
+Arquivo 595, linha 2: async CSharp teste async palavra async palavra texto
+Arquivo 595, linha 3: CSharp thread CSharp contagem arquivo CSharp
+Arquivo 595, linha 4: CSharp arquivo palavra async await thread await arquivo

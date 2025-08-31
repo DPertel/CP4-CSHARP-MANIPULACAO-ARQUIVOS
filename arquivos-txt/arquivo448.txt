@@ -1,0 +1,9 @@
+=== Arquivo número 448 ===
+Arquivo 448, linha 1: await contagem linha await thread async linha palavra await
+Arquivo 448, linha 2: arquivo teste texto teste CSharp texto
+Arquivo 448, linha 3: teste texto thread async palavra CSharp contagem teste async linha CSharp teste
+Arquivo 448, linha 4: texto contagem await linha thread arquivo linha async teste thread teste
+Arquivo 448, linha 5: texto await CSharp teste CSharp contagem teste palavra contagem
+Arquivo 448, linha 6: thread thread linha thread contagem palavra
+Arquivo 448, linha 7: async linha palavra CSharp async texto thread await
+Arquivo 448, linha 8: CSharp linha texto texto async

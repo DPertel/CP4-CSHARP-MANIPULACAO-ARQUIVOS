@@ -1,0 +1,7 @@
+=== Arquivo número 185 ===
+Arquivo 185, linha 1: async texto contagem texto await linha
+Arquivo 185, linha 2: palavra CSharp await thread palavra contagem contagem linha arquivo await
+Arquivo 185, linha 3: arquivo thread texto arquivo linha
+Arquivo 185, linha 4: arquivo await CSharp contagem arquivo
+Arquivo 185, linha 5: teste CSharp linha await linha arquivo teste async
+Arquivo 185, linha 6: linha teste CSharp CSharp contagem contagem teste teste

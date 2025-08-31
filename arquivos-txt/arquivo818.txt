@@ -1,0 +1,6 @@
+=== Arquivo número 818 ===
+Arquivo 818, linha 1: async await async await linha
+Arquivo 818, linha 2: teste palavra CSharp thread CSharp await teste async arquivo async texto
+Arquivo 818, linha 3: linha texto teste async contagem await
+Arquivo 818, linha 4: async thread teste linha texto CSharp arquivo async teste arquivo await linha
+Arquivo 818, linha 5: thread palavra linha texto texto teste

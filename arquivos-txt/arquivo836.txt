@@ -1,0 +1,5 @@
+=== Arquivo número 836 ===
+Arquivo 836, linha 1: teste teste arquivo teste teste contagem
+Arquivo 836, linha 2: teste await linha thread arquivo palavra linha linha teste palavra texto
+Arquivo 836, linha 3: palavra palavra palavra await linha teste CSharp contagem contagem CSharp teste CSharp
+Arquivo 836, linha 4: await contagem thread contagem teste contagem arquivo palavra contagem contagem

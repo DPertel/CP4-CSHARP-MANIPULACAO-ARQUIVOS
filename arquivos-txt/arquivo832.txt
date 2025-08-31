@@ -1,0 +1,7 @@
+=== Arquivo número 832 ===
+Arquivo 832, linha 1: await linha arquivo thread await async texto teste thread await contagem arquivo
+Arquivo 832, linha 2: CSharp await contagem await teste
+Arquivo 832, linha 3: palavra await linha await contagem
+Arquivo 832, linha 4: thread texto async thread thread teste palavra await linha thread contagem teste
+Arquivo 832, linha 5: teste CSharp await CSharp linha teste texto teste arquivo
+Arquivo 832, linha 6: contagem palavra texto CSharp thread

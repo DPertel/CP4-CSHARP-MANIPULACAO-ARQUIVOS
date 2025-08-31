@@ -1,0 +1,14 @@
+=== Arquivo número 44 ===
+Arquivo 44, linha 1: CSharp texto texto teste thread
+Arquivo 44, linha 2: linha thread contagem texto texto palavra teste contagem linha teste
+Arquivo 44, linha 3: teste async texto linha linha async
+Arquivo 44, linha 4: contagem texto linha palavra CSharp contagem thread texto
+Arquivo 44, linha 5: palavra teste CSharp arquivo palavra palavra thread contagem thread texto arquivo teste
+Arquivo 44, linha 6: await contagem palavra arquivo contagem teste palavra thread palavra await
+Arquivo 44, linha 7: arquivo teste async teste linha teste contagem thread
+Arquivo 44, linha 8: texto thread linha thread CSharp teste contagem async
+Arquivo 44, linha 9: linha palavra teste texto palavra CSharp CSharp CSharp await async async
+Arquivo 44, linha 10: texto await arquivo thread teste texto teste
+Arquivo 44, linha 11: contagem palavra await thread async texto thread
+Arquivo 44, linha 12: thread thread await arquivo linha CSharp arquivo async await
+Arquivo 44, linha 13: await await thread async CSharp CSharp arquivo async teste contagem

@@ -1,0 +1,18 @@
+=== Arquivo número 805 ===
+Arquivo 805, linha 1: linha async async linha thread linha thread texto texto texto
+Arquivo 805, linha 2: CSharp contagem await CSharp CSharp palavra teste linha palavra
+Arquivo 805, linha 3: texto CSharp await async await
+Arquivo 805, linha 4: CSharp CSharp contagem CSharp await
+Arquivo 805, linha 5: teste texto contagem await CSharp arquivo teste palavra async await
+Arquivo 805, linha 6: thread arquivo arquivo contagem thread await palavra contagem async CSharp contagem
+Arquivo 805, linha 7: texto linha teste linha CSharp CSharp
+Arquivo 805, linha 8: texto await thread arquivo CSharp palavra linha CSharp thread linha linha texto
+Arquivo 805, linha 9: teste CSharp thread contagem arquivo contagem palavra
+Arquivo 805, linha 10: CSharp linha await texto arquivo arquivo await await arquivo contagem
+Arquivo 805, linha 11: texto texto thread teste contagem contagem teste texto teste contagem
+Arquivo 805, linha 12: texto teste contagem thread contagem thread CSharp
+Arquivo 805, linha 13: await async texto linha texto arquivo
+Arquivo 805, linha 14: palavra async palavra arquivo async palavra await linha
+Arquivo 805, linha 15: texto await palavra arquivo contagem teste teste arquivo palavra linha contagem teste
+Arquivo 805, linha 16: await arquivo CSharp contagem linha
+Arquivo 805, linha 17: thread linha palavra contagem thread texto

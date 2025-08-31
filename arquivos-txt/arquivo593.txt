@@ -1,0 +1,13 @@
+=== Arquivo número 593 ===
+Arquivo 593, linha 1: thread thread palavra linha await CSharp arquivo contagem async
+Arquivo 593, linha 2: async contagem contagem async contagem thread arquivo linha
+Arquivo 593, linha 3: arquivo texto teste palavra CSharp texto contagem thread linha await
+Arquivo 593, linha 4: contagem arquivo thread async thread
+Arquivo 593, linha 5: palavra contagem teste contagem arquivo texto texto contagem texto texto
+Arquivo 593, linha 6: linha arquivo async async linha async async
+Arquivo 593, linha 7: contagem texto palavra teste await contagem async texto
+Arquivo 593, linha 8: arquivo thread teste linha thread arquivo arquivo async await async
+Arquivo 593, linha 9: palavra contagem await linha palavra
+Arquivo 593, linha 10: teste async linha palavra arquivo async async arquivo contagem thread texto
+Arquivo 593, linha 11: async arquivo async CSharp CSharp async contagem palavra texto CSharp
+Arquivo 593, linha 12: arquivo contagem teste contagem thread CSharp texto texto teste arquivo

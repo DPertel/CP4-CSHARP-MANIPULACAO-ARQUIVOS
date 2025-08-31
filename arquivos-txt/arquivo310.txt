@@ -1,0 +1,8 @@
+=== Arquivo número 310 ===
+Arquivo 310, linha 1: await teste teste palavra async teste texto texto contagem texto CSharp
+Arquivo 310, linha 2: async thread teste thread thread linha arquivo teste linha arquivo CSharp
+Arquivo 310, linha 3: contagem arquivo linha arquivo texto
+Arquivo 310, linha 4: thread contagem async linha arquivo linha async texto linha async linha palavra
+Arquivo 310, linha 5: teste linha CSharp contagem texto arquivo await arquivo
+Arquivo 310, linha 6: teste palavra CSharp texto await texto CSharp linha texto linha
+Arquivo 310, linha 7: texto contagem arquivo linha contagem async linha await contagem arquivo linha arquivo

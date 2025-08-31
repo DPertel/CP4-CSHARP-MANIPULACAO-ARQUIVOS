@@ -1,0 +1,5 @@
+=== Arquivo número 334 ===
+Arquivo 334, linha 1: teste teste linha palavra thread teste contagem CSharp await CSharp CSharp await
+Arquivo 334, linha 2: contagem await CSharp async CSharp palavra async contagem linha contagem teste texto
+Arquivo 334, linha 3: thread await teste CSharp palavra thread async texto
+Arquivo 334, linha 4: texto CSharp thread CSharp texto arquivo CSharp thread

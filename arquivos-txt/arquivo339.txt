@@ -1,0 +1,14 @@
+=== Arquivo número 339 ===
+Arquivo 339, linha 1: palavra async linha CSharp contagem await contagem CSharp teste
+Arquivo 339, linha 2: linha async linha texto await contagem texto thread texto linha palavra
+Arquivo 339, linha 3: CSharp async await thread thread
+Arquivo 339, linha 4: palavra contagem thread linha palavra palavra async
+Arquivo 339, linha 5: palavra await thread palavra texto teste await
+Arquivo 339, linha 6: thread async linha teste linha arquivo teste teste texto await arquivo arquivo
+Arquivo 339, linha 7: CSharp palavra palavra CSharp CSharp teste palavra thread CSharp
+Arquivo 339, linha 8: arquivo CSharp linha teste palavra linha async async linha
+Arquivo 339, linha 9: thread await arquivo arquivo thread
+Arquivo 339, linha 10: teste CSharp thread thread palavra linha thread CSharp async
+Arquivo 339, linha 11: texto linha async texto async palavra linha texto
+Arquivo 339, linha 12: linha contagem CSharp async teste await async contagem teste texto teste await
+Arquivo 339, linha 13: linha palavra texto palavra CSharp linha texto async

@@ -1,0 +1,14 @@
+=== Arquivo número 277 ===
+Arquivo 277, linha 1: linha linha async palavra teste texto arquivo texto arquivo
+Arquivo 277, linha 2: arquivo texto texto thread texto thread await thread palavra arquivo texto texto
+Arquivo 277, linha 3: palavra await thread CSharp linha async contagem await async
+Arquivo 277, linha 4: CSharp await CSharp texto teste await CSharp arquivo linha
+Arquivo 277, linha 5: await linha texto CSharp thread
+Arquivo 277, linha 6: CSharp teste contagem await teste teste thread await teste arquivo thread
+Arquivo 277, linha 7: texto texto texto linha teste linha contagem texto contagem
+Arquivo 277, linha 8: palavra arquivo arquivo thread CSharp teste async linha
+Arquivo 277, linha 9: arquivo contagem contagem thread linha contagem contagem CSharp teste
+Arquivo 277, linha 10: linha linha palavra linha async texto
+Arquivo 277, linha 11: async contagem CSharp thread await texto contagem texto CSharp thread async thread
+Arquivo 277, linha 12: async arquivo CSharp thread teste CSharp contagem
+Arquivo 277, linha 13: async texto linha linha contagem arquivo contagem CSharp linha

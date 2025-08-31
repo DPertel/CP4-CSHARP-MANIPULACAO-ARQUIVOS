@@ -1,0 +1,10 @@
+=== Arquivo número 560 ===
+Arquivo 560, linha 1: async async CSharp thread async linha CSharp
+Arquivo 560, linha 2: arquivo texto CSharp CSharp CSharp CSharp arquivo async await arquivo
+Arquivo 560, linha 3: CSharp linha thread teste contagem CSharp texto arquivo linha texto
+Arquivo 560, linha 4: await texto teste teste arquivo texto texto await palavra CSharp palavra
+Arquivo 560, linha 5: palavra await linha thread arquivo contagem contagem async palavra teste arquivo async
+Arquivo 560, linha 6: linha linha async linha await teste
+Arquivo 560, linha 7: await thread CSharp linha contagem CSharp CSharp linha async palavra arquivo
+Arquivo 560, linha 8: thread thread linha thread async contagem contagem texto
+Arquivo 560, linha 9: linha thread await arquivo texto CSharp

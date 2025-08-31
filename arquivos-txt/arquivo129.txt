@@ -1,0 +1,11 @@
+=== Arquivo número 129 ===
+Arquivo 129, linha 1: thread thread linha contagem arquivo CSharp await arquivo
+Arquivo 129, linha 2: texto palavra contagem async thread texto palavra thread thread texto
+Arquivo 129, linha 3: contagem contagem linha await texto
+Arquivo 129, linha 4: linha async contagem contagem contagem texto CSharp thread contagem teste CSharp texto
+Arquivo 129, linha 5: thread contagem arquivo arquivo await await async linha texto contagem thread
+Arquivo 129, linha 6: palavra teste thread teste linha contagem
+Arquivo 129, linha 7: CSharp linha linha arquivo texto
+Arquivo 129, linha 8: palavra contagem teste CSharp palavra linha
+Arquivo 129, linha 9: arquivo linha thread contagem texto CSharp contagem palavra arquivo palavra
+Arquivo 129, linha 10: CSharp thread await texto contagem CSharp contagem teste thread

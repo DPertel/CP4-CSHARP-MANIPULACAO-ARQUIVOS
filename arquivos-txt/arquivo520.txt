@@ -1,0 +1,6 @@
+=== Arquivo número 520 ===
+Arquivo 520, linha 1: await CSharp thread linha linha arquivo palavra CSharp teste palavra
+Arquivo 520, linha 2: linha teste palavra teste palavra CSharp linha thread contagem linha teste
+Arquivo 520, linha 3: linha async palavra thread await linha arquivo thread contagem
+Arquivo 520, linha 4: teste thread arquivo contagem palavra thread teste linha texto
+Arquivo 520, linha 5: arquivo teste async linha contagem

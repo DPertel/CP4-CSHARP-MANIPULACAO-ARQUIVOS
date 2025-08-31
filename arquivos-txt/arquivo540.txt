@@ -1,0 +1,10 @@
+=== Arquivo número 540 ===
+Arquivo 540, linha 1: teste texto palavra CSharp teste arquivo
+Arquivo 540, linha 2: CSharp async await thread await await palavra teste CSharp
+Arquivo 540, linha 3: texto teste thread arquivo teste CSharp await linha CSharp teste palavra texto
+Arquivo 540, linha 4: await thread async CSharp texto arquivo
+Arquivo 540, linha 5: CSharp await async async texto texto CSharp await
+Arquivo 540, linha 6: async arquivo await texto async texto
+Arquivo 540, linha 7: teste CSharp thread palavra thread contagem palavra await
+Arquivo 540, linha 8: await linha linha texto contagem thread palavra await texto await
+Arquivo 540, linha 9: thread linha arquivo linha palavra teste CSharp CSharp teste arquivo texto texto

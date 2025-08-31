@@ -1,0 +1,14 @@
+=== Arquivo número 885 ===
+Arquivo 885, linha 1: texto async palavra async teste await linha contagem linha CSharp
+Arquivo 885, linha 2: arquivo async linha contagem arquivo thread
+Arquivo 885, linha 3: linha thread thread arquivo contagem linha texto thread linha
+Arquivo 885, linha 4: linha texto palavra async async arquivo
+Arquivo 885, linha 5: linha CSharp await contagem texto teste async texto
+Arquivo 885, linha 6: palavra texto CSharp contagem async linha
+Arquivo 885, linha 7: await async contagem arquivo palavra texto teste async arquivo arquivo teste async
+Arquivo 885, linha 8: async palavra linha palavra linha teste CSharp async thread contagem linha linha
+Arquivo 885, linha 9: thread thread texto CSharp texto teste texto thread palavra palavra arquivo CSharp
+Arquivo 885, linha 10: teste CSharp contagem CSharp thread texto contagem CSharp palavra
+Arquivo 885, linha 11: linha arquivo thread async await texto thread async CSharp
+Arquivo 885, linha 12: thread teste palavra async await await CSharp texto
+Arquivo 885, linha 13: linha arquivo CSharp thread teste teste async CSharp await palavra CSharp

@@ -1,0 +1,17 @@
+=== Arquivo número 635 ===
+Arquivo 635, linha 1: arquivo CSharp palavra async texto thread teste
+Arquivo 635, linha 2: arquivo palavra linha await teste CSharp texto texto texto
+Arquivo 635, linha 3: CSharp teste arquivo thread thread await
+Arquivo 635, linha 4: arquivo texto thread texto async texto teste async texto texto texto
+Arquivo 635, linha 5: texto CSharp linha linha CSharp arquivo arquivo
+Arquivo 635, linha 6: await texto teste palavra teste arquivo async CSharp CSharp
+Arquivo 635, linha 7: palavra linha texto CSharp await
+Arquivo 635, linha 8: texto linha await CSharp CSharp await
+Arquivo 635, linha 9: thread await await thread linha linha palavra teste
+Arquivo 635, linha 10: async await await await contagem async async teste
+Arquivo 635, linha 11: await teste async thread texto async palavra
+Arquivo 635, linha 12: contagem async linha arquivo async arquivo teste
+Arquivo 635, linha 13: texto CSharp contagem palavra thread contagem teste thread
+Arquivo 635, linha 14: texto linha await teste teste await async teste linha CSharp arquivo texto
+Arquivo 635, linha 15: CSharp contagem contagem arquivo texto linha linha thread arquivo thread
+Arquivo 635, linha 16: arquivo arquivo linha palavra thread linha teste

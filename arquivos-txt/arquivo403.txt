@@ -1,0 +1,16 @@
+=== Arquivo número 403 ===
+Arquivo 403, linha 1: linha async arquivo teste CSharp arquivo teste
+Arquivo 403, linha 2: CSharp async await await arquivo thread CSharp
+Arquivo 403, linha 3: async async await contagem await arquivo palavra CSharp contagem
+Arquivo 403, linha 4: await thread teste contagem teste thread palavra arquivo palavra await async palavra
+Arquivo 403, linha 5: contagem await palavra contagem CSharp palavra thread palavra texto CSharp teste contagem
+Arquivo 403, linha 6: arquivo palavra async teste CSharp teste palavra async await thread thread
+Arquivo 403, linha 7: contagem texto arquivo await async
+Arquivo 403, linha 8: async teste thread thread CSharp teste contagem texto await
+Arquivo 403, linha 9: teste CSharp palavra arquivo thread arquivo async linha arquivo
+Arquivo 403, linha 10: texto await palavra await CSharp texto await
+Arquivo 403, linha 11: contagem async palavra async await texto texto palavra contagem teste CSharp contagem
+Arquivo 403, linha 12: teste await teste palavra async
+Arquivo 403, linha 13: CSharp async teste arquivo arquivo palavra CSharp linha thread texto thread linha
+Arquivo 403, linha 14: arquivo teste CSharp arquivo async async async async CSharp arquivo async
+Arquivo 403, linha 15: thread CSharp thread teste await CSharp

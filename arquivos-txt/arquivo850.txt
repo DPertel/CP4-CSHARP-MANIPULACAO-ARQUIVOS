@@ -1,0 +1,6 @@
+=== Arquivo número 850 ===
+Arquivo 850, linha 1: await texto thread teste texto await
+Arquivo 850, linha 2: thread linha await arquivo contagem linha arquivo async contagem
+Arquivo 850, linha 3: await async palavra async CSharp texto arquivo teste linha contagem teste thread
+Arquivo 850, linha 4: linha linha contagem contagem texto CSharp CSharp contagem
+Arquivo 850, linha 5: CSharp contagem arquivo palavra palavra await palavra teste

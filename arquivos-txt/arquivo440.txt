@@ -1,0 +1,7 @@
+=== Arquivo número 440 ===
+Arquivo 440, linha 1: thread teste palavra linha texto async arquivo teste contagem await thread thread
+Arquivo 440, linha 2: texto await await async teste async CSharp linha arquivo await linha
+Arquivo 440, linha 3: palavra texto teste async palavra async await contagem
+Arquivo 440, linha 4: palavra texto arquivo linha teste contagem CSharp palavra await texto texto await
+Arquivo 440, linha 5: contagem CSharp teste palavra arquivo contagem palavra
+Arquivo 440, linha 6: arquivo contagem teste contagem await palavra palavra palavra arquivo arquivo

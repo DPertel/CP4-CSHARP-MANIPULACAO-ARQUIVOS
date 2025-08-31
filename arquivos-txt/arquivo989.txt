@@ -1,0 +1,18 @@
+=== Arquivo número 989 ===
+Arquivo 989, linha 1: palavra arquivo CSharp contagem contagem await async
+Arquivo 989, linha 2: CSharp texto arquivo teste CSharp CSharp palavra teste teste
+Arquivo 989, linha 3: CSharp teste teste thread texto palavra
+Arquivo 989, linha 4: linha contagem async arquivo linha CSharp CSharp teste CSharp
+Arquivo 989, linha 5: palavra async async thread arquivo await contagem teste await
+Arquivo 989, linha 6: async linha thread palavra async
+Arquivo 989, linha 7: arquivo contagem thread contagem async CSharp thread
+Arquivo 989, linha 8: arquivo teste contagem async texto async palavra teste teste thread linha texto
+Arquivo 989, linha 9: await texto texto thread await teste async thread
+Arquivo 989, linha 10: linha linha teste texto linha texto texto teste contagem
+Arquivo 989, linha 11: linha CSharp texto texto texto
+Arquivo 989, linha 12: palavra async CSharp linha teste CSharp CSharp linha
+Arquivo 989, linha 13: palavra arquivo async thread teste linha contagem palavra async thread texto linha
+Arquivo 989, linha 14: async thread linha linha texto await await arquivo thread
+Arquivo 989, linha 15: linha CSharp thread linha arquivo async texto texto thread await linha texto
+Arquivo 989, linha 16: teste await arquivo await linha async
+Arquivo 989, linha 17: await thread palavra CSharp thread async teste thread await

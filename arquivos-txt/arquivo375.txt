@@ -1,0 +1,19 @@
+=== Arquivo número 375 ===
+Arquivo 375, linha 1: contagem linha teste texto await thread linha linha CSharp linha
+Arquivo 375, linha 2: teste arquivo async linha thread contagem teste CSharp
+Arquivo 375, linha 3: async thread CSharp linha CSharp palavra
+Arquivo 375, linha 4: teste linha async texto thread arquivo texto await thread contagem texto await
+Arquivo 375, linha 5: teste palavra texto await thread texto
+Arquivo 375, linha 6: CSharp CSharp thread palavra async await
+Arquivo 375, linha 7: await teste async await async async teste contagem palavra
+Arquivo 375, linha 8: linha palavra arquivo teste contagem teste palavra texto arquivo CSharp
+Arquivo 375, linha 9: teste CSharp thread palavra contagem linha
+Arquivo 375, linha 10: await linha CSharp await arquivo arquivo contagem
+Arquivo 375, linha 11: await contagem async palavra CSharp CSharp async contagem teste palavra await texto
+Arquivo 375, linha 12: CSharp texto contagem arquivo await texto contagem CSharp
+Arquivo 375, linha 13: arquivo palavra await contagem async CSharp contagem teste await async palavra async
+Arquivo 375, linha 14: CSharp CSharp CSharp texto texto
+Arquivo 375, linha 15: palavra async teste CSharp await
+Arquivo 375, linha 16: CSharp CSharp arquivo contagem teste CSharp CSharp arquivo
+Arquivo 375, linha 17: linha await thread linha await arquivo await CSharp
+Arquivo 375, linha 18: contagem thread palavra palavra teste await await thread linha

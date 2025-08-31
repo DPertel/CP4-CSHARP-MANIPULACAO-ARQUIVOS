@@ -1,0 +1,16 @@
+=== Arquivo número 877 ===
+Arquivo 877, linha 1: await async await arquivo contagem contagem
+Arquivo 877, linha 2: texto linha CSharp async CSharp async teste teste thread teste
+Arquivo 877, linha 3: palavra texto linha texto await async
+Arquivo 877, linha 4: palavra teste CSharp teste CSharp CSharp await contagem palavra async linha teste
+Arquivo 877, linha 5: palavra contagem await palavra await texto arquivo
+Arquivo 877, linha 6: thread palavra linha linha linha await thread
+Arquivo 877, linha 7: CSharp await await palavra teste texto teste
+Arquivo 877, linha 8: thread texto palavra texto arquivo palavra palavra texto contagem contagem await CSharp
+Arquivo 877, linha 9: arquivo linha arquivo async arquivo teste palavra
+Arquivo 877, linha 10: await arquivo teste await await palavra palavra palavra contagem linha thread
+Arquivo 877, linha 11: async thread linha teste teste palavra async thread teste
+Arquivo 877, linha 12: teste palavra texto teste async palavra thread
+Arquivo 877, linha 13: contagem arquivo thread thread await contagem await arquivo contagem
+Arquivo 877, linha 14: texto texto palavra palavra palavra texto linha linha texto palavra
+Arquivo 877, linha 15: linha CSharp CSharp contagem arquivo async contagem contagem contagem

@@ -1,0 +1,10 @@
+=== Arquivo número 314 ===
+Arquivo 314, linha 1: palavra teste await teste palavra async CSharp await await CSharp
+Arquivo 314, linha 2: contagem CSharp texto texto async thread await arquivo async
+Arquivo 314, linha 3: linha async texto await await
+Arquivo 314, linha 4: texto CSharp teste arquivo thread CSharp contagem texto await palavra contagem
+Arquivo 314, linha 5: await await palavra CSharp thread texto
+Arquivo 314, linha 6: arquivo await async teste arquivo thread
+Arquivo 314, linha 7: palavra arquivo CSharp thread thread contagem await arquivo linha teste texto thread
+Arquivo 314, linha 8: await palavra await texto await async palavra linha
+Arquivo 314, linha 9: teste CSharp palavra thread teste CSharp await await texto arquivo texto

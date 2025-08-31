@@ -1,0 +1,7 @@
+=== Arquivo número 775 ===
+Arquivo 775, linha 1: contagem contagem teste async thread thread contagem async
+Arquivo 775, linha 2: async teste teste linha arquivo await CSharp texto palavra await thread thread
+Arquivo 775, linha 3: palavra async texto palavra palavra palavra async teste thread
+Arquivo 775, linha 4: CSharp linha texto texto teste linha
+Arquivo 775, linha 5: palavra texto arquivo teste teste
+Arquivo 775, linha 6: await async linha arquivo palavra texto

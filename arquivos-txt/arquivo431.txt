@@ -1,0 +1,16 @@
+=== Arquivo número 431 ===
+Arquivo 431, linha 1: teste CSharp thread texto texto arquivo async teste linha
+Arquivo 431, linha 2: linha await arquivo linha arquivo linha thread
+Arquivo 431, linha 3: await teste arquivo palavra thread async await thread arquivo CSharp linha
+Arquivo 431, linha 4: teste await async teste async contagem linha
+Arquivo 431, linha 5: await await linha palavra palavra
+Arquivo 431, linha 6: contagem thread CSharp texto async teste arquivo linha arquivo
+Arquivo 431, linha 7: contagem CSharp async async teste linha contagem CSharp texto
+Arquivo 431, linha 8: arquivo await CSharp contagem async thread contagem CSharp thread thread palavra thread
+Arquivo 431, linha 9: texto teste teste CSharp CSharp async arquivo CSharp
+Arquivo 431, linha 10: palavra contagem async await linha palavra async texto arquivo
+Arquivo 431, linha 11: contagem CSharp CSharp CSharp contagem async arquivo
+Arquivo 431, linha 12: linha arquivo texto arquivo async teste CSharp
+Arquivo 431, linha 13: CSharp contagem await CSharp async arquivo thread arquivo palavra
+Arquivo 431, linha 14: await await teste texto thread
+Arquivo 431, linha 15: async palavra palavra palavra await thread

@@ -1,0 +1,5 @@
+=== Arquivo número 200 ===
+Arquivo 200, linha 1: palavra CSharp palavra contagem arquivo teste linha await
+Arquivo 200, linha 2: linha contagem palavra arquivo linha arquivo linha texto
+Arquivo 200, linha 3: async teste linha teste contagem CSharp texto teste palavra
+Arquivo 200, linha 4: await async async linha async async contagem CSharp contagem await

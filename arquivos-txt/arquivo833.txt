@@ -1,0 +1,6 @@
+=== Arquivo número 833 ===
+Arquivo 833, linha 1: linha linha contagem texto await linha palavra palavra await thread contagem teste
+Arquivo 833, linha 2: linha arquivo texto contagem arquivo texto palavra thread teste palavra
+Arquivo 833, linha 3: thread contagem palavra palavra async linha contagem
+Arquivo 833, linha 4: texto contagem palavra thread thread arquivo
+Arquivo 833, linha 5: await palavra async teste thread linha teste palavra texto

@@ -1,0 +1,19 @@
+=== Arquivo número 455 ===
+Arquivo 455, linha 1: texto await await await linha texto
+Arquivo 455, linha 2: arquivo async texto texto CSharp linha
+Arquivo 455, linha 3: palavra thread async await linha contagem texto palavra palavra
+Arquivo 455, linha 4: thread thread contagem async CSharp linha teste texto contagem texto texto
+Arquivo 455, linha 5: async await arquivo linha thread async texto
+Arquivo 455, linha 6: linha CSharp await teste CSharp contagem contagem texto CSharp
+Arquivo 455, linha 7: teste palavra contagem palavra async await async CSharp palavra CSharp
+Arquivo 455, linha 8: await CSharp arquivo thread await teste texto teste palavra texto
+Arquivo 455, linha 9: CSharp CSharp await texto contagem teste
+Arquivo 455, linha 10: palavra arquivo palavra arquivo linha palavra async thread contagem teste contagem arquivo
+Arquivo 455, linha 11: CSharp await texto contagem linha
+Arquivo 455, linha 12: linha palavra await palavra linha teste linha teste CSharp palavra CSharp await
+Arquivo 455, linha 13: texto linha async CSharp async texto CSharp contagem arquivo teste contagem thread
+Arquivo 455, linha 14: arquivo texto thread await thread thread arquivo arquivo arquivo
+Arquivo 455, linha 15: CSharp await async await contagem await contagem arquivo
+Arquivo 455, linha 16: async thread teste async CSharp linha arquivo
+Arquivo 455, linha 17: arquivo await palavra thread await async thread await contagem texto teste texto
+Arquivo 455, linha 18: await texto CSharp contagem texto arquivo

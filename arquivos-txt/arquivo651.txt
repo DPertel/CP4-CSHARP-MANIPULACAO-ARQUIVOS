@@ -1,0 +1,16 @@
+=== Arquivo número 651 ===
+Arquivo 651, linha 1: arquivo texto async thread async palavra linha texto
+Arquivo 651, linha 2: palavra linha linha async thread linha texto await palavra
+Arquivo 651, linha 3: thread await CSharp async await arquivo async contagem thread palavra await
+Arquivo 651, linha 4: await contagem texto async thread texto thread CSharp texto texto linha thread
+Arquivo 651, linha 5: arquivo palavra texto linha teste thread async
+Arquivo 651, linha 6: texto teste CSharp CSharp thread linha texto CSharp await
+Arquivo 651, linha 7: linha await palavra contagem await palavra async await
+Arquivo 651, linha 8: async contagem thread CSharp texto thread await linha texto
+Arquivo 651, linha 9: teste await arquivo contagem async async contagem teste texto thread contagem
+Arquivo 651, linha 10: palavra palavra async CSharp texto await await texto CSharp linha palavra contagem
+Arquivo 651, linha 11: linha async arquivo teste texto await thread CSharp
+Arquivo 651, linha 12: thread texto await teste palavra thread linha linha texto palavra
+Arquivo 651, linha 13: CSharp linha palavra async thread
+Arquivo 651, linha 14: linha CSharp thread async teste async thread contagem palavra
+Arquivo 651, linha 15: linha teste await await texto async thread

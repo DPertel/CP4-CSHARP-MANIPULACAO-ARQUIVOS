@@ -1,0 +1,10 @@
+=== Arquivo número 411 ===
+Arquivo 411, linha 1: thread texto linha teste linha palavra texto
+Arquivo 411, linha 2: texto thread await contagem CSharp
+Arquivo 411, linha 3: linha arquivo thread arquivo async async palavra CSharp palavra
+Arquivo 411, linha 4: async await contagem texto contagem arquivo contagem async texto contagem texto async
+Arquivo 411, linha 5: async arquivo texto palavra async arquivo CSharp contagem arquivo
+Arquivo 411, linha 6: await palavra thread await texto CSharp texto async contagem
+Arquivo 411, linha 7: thread thread palavra texto async
+Arquivo 411, linha 8: texto texto arquivo CSharp teste linha texto palavra CSharp await
+Arquivo 411, linha 9: CSharp palavra teste texto texto arquivo async await texto CSharp teste CSharp

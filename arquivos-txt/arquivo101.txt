@@ -1,0 +1,12 @@
+=== Arquivo número 101 ===
+Arquivo 101, linha 1: palavra palavra thread arquivo palavra arquivo arquivo contagem async arquivo
+Arquivo 101, linha 2: arquivo teste texto arquivo texto texto teste texto linha
+Arquivo 101, linha 3: contagem thread CSharp thread palavra palavra await contagem CSharp linha arquivo palavra
+Arquivo 101, linha 4: await contagem CSharp teste CSharp await texto contagem
+Arquivo 101, linha 5: texto palavra await contagem contagem linha linha async arquivo palavra
+Arquivo 101, linha 6: CSharp teste teste CSharp async contagem thread linha thread CSharp
+Arquivo 101, linha 7: thread texto CSharp texto async async arquivo
+Arquivo 101, linha 8: arquivo CSharp palavra texto await contagem arquivo teste CSharp CSharp async contagem
+Arquivo 101, linha 9: palavra palavra palavra teste thread contagem async palavra thread teste
+Arquivo 101, linha 10: texto await palavra async async await thread
+Arquivo 101, linha 11: await linha texto thread thread linha CSharp

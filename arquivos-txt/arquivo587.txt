@@ -1,0 +1,8 @@
+=== Arquivo número 587 ===
+Arquivo 587, linha 1: contagem linha linha linha arquivo palavra await await contagem teste contagem
+Arquivo 587, linha 2: async thread thread texto CSharp
+Arquivo 587, linha 3: linha teste linha texto CSharp CSharp texto teste
+Arquivo 587, linha 4: thread thread async linha linha CSharp linha palavra
+Arquivo 587, linha 5: CSharp CSharp linha arquivo contagem
+Arquivo 587, linha 6: async texto palavra texto palavra linha texto contagem
+Arquivo 587, linha 7: await texto async contagem thread

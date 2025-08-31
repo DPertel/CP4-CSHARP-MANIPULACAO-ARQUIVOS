@@ -1,0 +1,18 @@
+=== Arquivo número 173 ===
+Arquivo 173, linha 1: contagem await texto async thread palavra await async await thread CSharp
+Arquivo 173, linha 2: CSharp linha async CSharp teste async
+Arquivo 173, linha 3: thread async linha await thread texto teste texto thread
+Arquivo 173, linha 4: linha arquivo teste thread palavra linha palavra async
+Arquivo 173, linha 5: async contagem texto texto teste CSharp CSharp CSharp
+Arquivo 173, linha 6: CSharp contagem async thread contagem CSharp linha linha palavra async async thread
+Arquivo 173, linha 7: CSharp linha linha teste thread arquivo CSharp texto CSharp linha arquivo palavra
+Arquivo 173, linha 8: teste thread CSharp async teste texto thread await CSharp contagem thread arquivo
+Arquivo 173, linha 9: await palavra teste CSharp texto await thread linha teste
+Arquivo 173, linha 10: contagem contagem linha contagem CSharp contagem
+Arquivo 173, linha 11: await CSharp palavra contagem arquivo
+Arquivo 173, linha 12: await teste teste palavra async await teste CSharp
+Arquivo 173, linha 13: palavra linha CSharp texto async thread await CSharp arquivo thread teste CSharp
+Arquivo 173, linha 14: thread CSharp palavra palavra await palavra linha texto palavra contagem linha
+Arquivo 173, linha 15: async thread CSharp teste teste
+Arquivo 173, linha 16: texto thread await teste contagem
+Arquivo 173, linha 17: await linha linha palavra texto teste await teste await

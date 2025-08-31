@@ -1,0 +1,15 @@
+=== Arquivo número 328 ===
+Arquivo 328, linha 1: await linha thread linha async linha await texto teste CSharp teste async
+Arquivo 328, linha 2: linha contagem arquivo contagem palavra teste palavra arquivo thread palavra
+Arquivo 328, linha 3: CSharp async texto contagem thread
+Arquivo 328, linha 4: texto contagem async async CSharp thread async await CSharp thread async texto
+Arquivo 328, linha 5: texto arquivo contagem await await
+Arquivo 328, linha 6: texto contagem texto contagem arquivo linha arquivo await teste async async thread
+Arquivo 328, linha 7: CSharp contagem thread texto teste CSharp palavra teste await arquivo teste
+Arquivo 328, linha 8: CSharp async async teste await texto linha async contagem palavra contagem teste
+Arquivo 328, linha 9: contagem async async CSharp async contagem texto arquivo async async
+Arquivo 328, linha 10: texto arquivo linha CSharp linha async
+Arquivo 328, linha 11: thread CSharp contagem teste texto texto async thread arquivo
+Arquivo 328, linha 12: contagem linha linha arquivo texto
+Arquivo 328, linha 13: thread linha thread linha await CSharp contagem linha
+Arquivo 328, linha 14: async teste texto palavra texto linha texto thread palavra await

@@ -1,0 +1,15 @@
+=== Arquivo número 608 ===
+Arquivo 608, linha 1: async thread CSharp CSharp teste
+Arquivo 608, linha 2: thread texto CSharp palavra thread arquivo
+Arquivo 608, linha 3: arquivo await teste thread arquivo
+Arquivo 608, linha 4: palavra thread thread contagem texto
+Arquivo 608, linha 5: palavra contagem thread texto arquivo
+Arquivo 608, linha 6: thread contagem CSharp CSharp await
+Arquivo 608, linha 7: palavra async arquivo arquivo contagem texto
+Arquivo 608, linha 8: CSharp contagem thread palavra thread arquivo teste contagem arquivo
+Arquivo 608, linha 9: texto CSharp arquivo palavra linha palavra thread await contagem linha
+Arquivo 608, linha 10: palavra linha contagem texto thread texto thread thread linha CSharp texto
+Arquivo 608, linha 11: palavra arquivo arquivo contagem await texto
+Arquivo 608, linha 12: CSharp arquivo contagem thread contagem arquivo
+Arquivo 608, linha 13: contagem arquivo linha contagem contagem linha contagem texto
+Arquivo 608, linha 14: thread async palavra teste teste arquivo texto contagem arquivo texto CSharp texto

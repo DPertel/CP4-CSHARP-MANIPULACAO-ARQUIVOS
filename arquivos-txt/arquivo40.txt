@@ -1,0 +1,6 @@
+=== Arquivo número 40 ===
+Arquivo 40, linha 1: texto texto await contagem linha linha linha linha texto teste await
+Arquivo 40, linha 2: palavra palavra texto async arquivo linha texto linha
+Arquivo 40, linha 3: contagem contagem linha CSharp await palavra await arquivo
+Arquivo 40, linha 4: await CSharp arquivo async thread
+Arquivo 40, linha 5: await contagem palavra contagem CSharp CSharp thread contagem arquivo teste await contagem

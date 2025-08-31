@@ -1,0 +1,9 @@
+=== Arquivo número 437 ===
+Arquivo 437, linha 1: async async contagem palavra teste palavra arquivo
+Arquivo 437, linha 2: arquivo CSharp CSharp async palavra linha palavra thread async
+Arquivo 437, linha 3: contagem linha contagem CSharp contagem contagem arquivo linha async teste contagem teste
+Arquivo 437, linha 4: linha palavra arquivo arquivo texto
+Arquivo 437, linha 5: teste thread teste contagem linha palavra
+Arquivo 437, linha 6: async CSharp arquivo arquivo await
+Arquivo 437, linha 7: await teste contagem linha texto async linha arquivo thread
+Arquivo 437, linha 8: teste await linha teste palavra await teste arquivo thread palavra contagem

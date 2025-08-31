@@ -1,0 +1,6 @@
+=== Arquivo número 956 ===
+Arquivo 956, linha 1: contagem palavra await thread teste
+Arquivo 956, linha 2: linha linha thread arquivo contagem texto CSharp arquivo
+Arquivo 956, linha 3: linha thread CSharp contagem async
+Arquivo 956, linha 4: teste linha CSharp async CSharp palavra teste palavra CSharp
+Arquivo 956, linha 5: CSharp texto texto linha linha

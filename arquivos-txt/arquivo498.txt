@@ -1,0 +1,7 @@
+=== Arquivo número 498 ===
+Arquivo 498, linha 1: async async arquivo thread CSharp
+Arquivo 498, linha 2: teste palavra teste palavra texto palavra palavra
+Arquivo 498, linha 3: contagem async thread arquivo async await thread
+Arquivo 498, linha 4: arquivo arquivo contagem teste CSharp teste teste await
+Arquivo 498, linha 5: linha arquivo linha contagem palavra thread palavra palavra
+Arquivo 498, linha 6: thread contagem texto linha palavra linha teste contagem contagem contagem thread thread

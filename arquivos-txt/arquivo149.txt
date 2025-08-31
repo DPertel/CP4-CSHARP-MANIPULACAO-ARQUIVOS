@@ -1,0 +1,14 @@
+=== Arquivo número 149 ===
+Arquivo 149, linha 1: thread await thread palavra teste thread contagem
+Arquivo 149, linha 2: linha async teste contagem async arquivo async teste texto
+Arquivo 149, linha 3: teste teste CSharp CSharp thread
+Arquivo 149, linha 4: await texto palavra CSharp linha teste linha teste palavra palavra
+Arquivo 149, linha 5: await async teste async contagem CSharp CSharp
+Arquivo 149, linha 6: thread linha texto arquivo linha linha thread
+Arquivo 149, linha 7: texto palavra teste thread async
+Arquivo 149, linha 8: arquivo teste teste arquivo CSharp texto teste
+Arquivo 149, linha 9: arquivo await teste thread thread thread teste linha
+Arquivo 149, linha 10: CSharp linha thread texto await CSharp await CSharp teste async linha arquivo
+Arquivo 149, linha 11: arquivo texto contagem palavra palavra
+Arquivo 149, linha 12: contagem arquivo await palavra await await palavra async thread contagem thread teste
+Arquivo 149, linha 13: contagem contagem thread async palavra teste async arquivo texto texto thread

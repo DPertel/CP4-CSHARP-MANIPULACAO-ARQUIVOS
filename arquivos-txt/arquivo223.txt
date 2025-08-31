@@ -1,0 +1,14 @@
+=== Arquivo número 223 ===
+Arquivo 223, linha 1: CSharp arquivo teste await teste thread
+Arquivo 223, linha 2: await CSharp async CSharp contagem palavra
+Arquivo 223, linha 3: async arquivo texto arquivo CSharp thread contagem await linha await CSharp arquivo
+Arquivo 223, linha 4: palavra CSharp teste contagem palavra arquivo arquivo arquivo CSharp palavra thread
+Arquivo 223, linha 5: await CSharp texto linha await
+Arquivo 223, linha 6: linha palavra async linha contagem
+Arquivo 223, linha 7: contagem CSharp palavra palavra palavra
+Arquivo 223, linha 8: arquivo contagem await texto teste thread contagem thread await palavra linha async
+Arquivo 223, linha 9: teste await arquivo texto teste palavra CSharp
+Arquivo 223, linha 10: thread await thread CSharp await CSharp
+Arquivo 223, linha 11: contagem CSharp arquivo arquivo thread texto await async thread arquivo
+Arquivo 223, linha 12: await palavra contagem CSharp await thread
+Arquivo 223, linha 13: palavra arquivo linha CSharp palavra teste arquivo palavra

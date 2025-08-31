@@ -1,0 +1,8 @@
+=== Arquivo número 99 ===
+Arquivo 99, linha 1: async async linha teste contagem
+Arquivo 99, linha 2: texto await palavra teste contagem palavra async
+Arquivo 99, linha 3: teste await arquivo async linha await
+Arquivo 99, linha 4: await CSharp async contagem CSharp linha
+Arquivo 99, linha 5: contagem await texto linha CSharp texto contagem thread await CSharp async arquivo
+Arquivo 99, linha 6: await CSharp texto thread contagem texto CSharp texto
+Arquivo 99, linha 7: linha palavra contagem palavra linha contagem async teste await palavra

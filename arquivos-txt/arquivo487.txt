@@ -1,0 +1,6 @@
+=== Arquivo número 487 ===
+Arquivo 487, linha 1: async thread CSharp linha arquivo CSharp texto palavra CSharp
+Arquivo 487, linha 2: teste await arquivo CSharp CSharp thread thread
+Arquivo 487, linha 3: contagem linha contagem palavra teste linha contagem arquivo async await async
+Arquivo 487, linha 4: teste palavra await thread contagem
+Arquivo 487, linha 5: CSharp teste texto async contagem palavra async teste CSharp

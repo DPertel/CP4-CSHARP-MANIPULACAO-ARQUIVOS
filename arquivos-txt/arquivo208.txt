@@ -1,0 +1,19 @@
+=== Arquivo número 208 ===
+Arquivo 208, linha 1: linha CSharp arquivo texto await palavra
+Arquivo 208, linha 2: await linha texto contagem teste await
+Arquivo 208, linha 3: CSharp contagem arquivo async contagem await
+Arquivo 208, linha 4: thread await contagem linha contagem linha CSharp async
+Arquivo 208, linha 5: contagem teste texto await teste linha async linha await
+Arquivo 208, linha 6: palavra thread thread arquivo contagem CSharp
+Arquivo 208, linha 7: teste texto arquivo texto linha palavra await linha await
+Arquivo 208, linha 8: await teste linha thread palavra async arquivo thread linha
+Arquivo 208, linha 9: contagem thread texto thread contagem linha async async CSharp palavra async
+Arquivo 208, linha 10: await teste CSharp texto texto palavra thread linha await
+Arquivo 208, linha 11: teste linha palavra arquivo texto CSharp thread
+Arquivo 208, linha 12: palavra texto CSharp arquivo linha
+Arquivo 208, linha 13: async palavra teste thread await teste
+Arquivo 208, linha 14: await teste await texto teste thread palavra
+Arquivo 208, linha 15: contagem thread thread arquivo arquivo thread arquivo
+Arquivo 208, linha 16: teste palavra linha contagem teste texto thread linha
+Arquivo 208, linha 17: teste async thread linha linha await contagem teste
+Arquivo 208, linha 18: texto teste CSharp contagem thread arquivo texto CSharp await teste palavra CSharp

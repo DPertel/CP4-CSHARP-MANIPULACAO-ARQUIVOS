@@ -1,0 +1,10 @@
+=== Arquivo número 299 ===
+Arquivo 299, linha 1: thread CSharp async linha contagem linha texto arquivo texto
+Arquivo 299, linha 2: contagem palavra thread contagem async async teste contagem
+Arquivo 299, linha 3: linha async thread thread contagem CSharp async linha texto
+Arquivo 299, linha 4: palavra teste async async CSharp linha
+Arquivo 299, linha 5: arquivo teste async async teste async
+Arquivo 299, linha 6: palavra thread await arquivo linha async teste
+Arquivo 299, linha 7: teste CSharp await teste thread
+Arquivo 299, linha 8: teste linha thread linha linha contagem texto
+Arquivo 299, linha 9: texto CSharp palavra await thread arquivo linha palavra async arquivo async linha

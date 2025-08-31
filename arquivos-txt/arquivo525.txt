@@ -1,0 +1,17 @@
+=== Arquivo número 525 ===
+Arquivo 525, linha 1: arquivo thread palavra thread CSharp teste contagem
+Arquivo 525, linha 2: CSharp texto palavra palavra CSharp texto
+Arquivo 525, linha 3: linha await palavra async teste
+Arquivo 525, linha 4: texto thread contagem linha texto palavra palavra texto async async teste contagem
+Arquivo 525, linha 5: CSharp palavra arquivo CSharp teste thread await thread arquivo palavra
+Arquivo 525, linha 6: contagem await texto CSharp async teste contagem
+Arquivo 525, linha 7: thread contagem linha async await
+Arquivo 525, linha 8: linha arquivo palavra texto texto
+Arquivo 525, linha 9: thread palavra palavra linha arquivo arquivo texto texto contagem thread contagem arquivo
+Arquivo 525, linha 10: async linha async palavra arquivo contagem await async linha
+Arquivo 525, linha 11: thread CSharp async texto async arquivo thread teste contagem texto
+Arquivo 525, linha 12: linha arquivo teste async linha linha CSharp await async async texto contagem
+Arquivo 525, linha 13: palavra texto texto await contagem thread texto thread
+Arquivo 525, linha 14: arquivo arquivo linha palavra async await teste palavra
+Arquivo 525, linha 15: teste CSharp thread texto palavra CSharp linha linha thread
+Arquivo 525, linha 16: texto teste teste linha contagem linha async contagem palavra thread teste thread

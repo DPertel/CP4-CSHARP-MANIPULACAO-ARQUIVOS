@@ -1,0 +1,17 @@
+=== Arquivo número 953 ===
+Arquivo 953, linha 1: CSharp contagem texto CSharp arquivo await thread palavra await
+Arquivo 953, linha 2: thread contagem arquivo await linha arquivo CSharp
+Arquivo 953, linha 3: texto arquivo texto teste thread contagem contagem CSharp
+Arquivo 953, linha 4: teste async palavra contagem linha teste contagem await teste await linha
+Arquivo 953, linha 5: contagem await texto contagem contagem contagem
+Arquivo 953, linha 6: await CSharp async await teste contagem texto await await linha palavra
+Arquivo 953, linha 7: await palavra CSharp await arquivo texto linha
+Arquivo 953, linha 8: thread async teste linha teste palavra arquivo linha teste teste
+Arquivo 953, linha 9: thread CSharp palavra async teste async thread
+Arquivo 953, linha 10: linha CSharp thread teste texto palavra linha arquivo
+Arquivo 953, linha 11: async async teste thread arquivo teste
+Arquivo 953, linha 12: teste thread texto linha CSharp CSharp await teste async
+Arquivo 953, linha 13: teste arquivo arquivo teste arquivo linha async contagem
+Arquivo 953, linha 14: CSharp await teste arquivo linha arquivo texto contagem teste arquivo async linha
+Arquivo 953, linha 15: CSharp contagem palavra linha teste async thread teste arquivo
+Arquivo 953, linha 16: contagem arquivo teste texto contagem texto async await linha linha

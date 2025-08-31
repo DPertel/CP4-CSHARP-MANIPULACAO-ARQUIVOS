@@ -1,0 +1,13 @@
+=== Arquivo número 762 ===
+Arquivo 762, linha 1: teste teste async contagem contagem thread teste async
+Arquivo 762, linha 2: CSharp teste texto arquivo teste texto texto teste linha contagem teste CSharp
+Arquivo 762, linha 3: texto thread contagem teste linha
+Arquivo 762, linha 4: await contagem palavra linha async thread palavra teste teste CSharp teste linha
+Arquivo 762, linha 5: CSharp teste CSharp texto contagem async CSharp
+Arquivo 762, linha 6: async contagem thread async teste palavra CSharp await texto
+Arquivo 762, linha 7: contagem arquivo async linha texto await palavra texto CSharp
+Arquivo 762, linha 8: thread palavra linha teste await
+Arquivo 762, linha 9: teste thread palavra palavra teste thread texto arquivo thread
+Arquivo 762, linha 10: arquivo await async palavra palavra CSharp thread contagem
+Arquivo 762, linha 11: texto await palavra texto linha thread linha teste linha
+Arquivo 762, linha 12: async CSharp teste thread await contagem contagem

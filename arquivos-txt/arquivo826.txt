@@ -1,0 +1,16 @@
+=== Arquivo número 826 ===
+Arquivo 826, linha 1: arquivo linha linha await teste
+Arquivo 826, linha 2: teste palavra texto async thread
+Arquivo 826, linha 3: teste linha arquivo teste contagem await CSharp texto palavra async await await
+Arquivo 826, linha 4: contagem texto await arquivo await await contagem teste arquivo
+Arquivo 826, linha 5: await palavra palavra CSharp contagem thread thread arquivo palavra CSharp
+Arquivo 826, linha 6: async palavra thread contagem arquivo teste texto teste async async palavra palavra
+Arquivo 826, linha 7: linha linha palavra CSharp texto thread teste contagem thread
+Arquivo 826, linha 8: palavra teste CSharp teste texto arquivo thread await thread palavra CSharp contagem
+Arquivo 826, linha 9: arquivo await palavra CSharp teste arquivo texto async palavra contagem
+Arquivo 826, linha 10: contagem await texto contagem async texto
+Arquivo 826, linha 11: contagem linha async contagem CSharp linha thread
+Arquivo 826, linha 12: async teste contagem linha arquivo async contagem contagem teste linha teste contagem
+Arquivo 826, linha 13: async async thread await CSharp arquivo async async
+Arquivo 826, linha 14: teste teste arquivo await async async thread teste
+Arquivo 826, linha 15: CSharp await arquivo palavra texto palavra thread await thread

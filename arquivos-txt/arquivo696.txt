@@ -1,0 +1,7 @@
+=== Arquivo número 696 ===
+Arquivo 696, linha 1: linha texto texto texto await thread
+Arquivo 696, linha 2: linha async arquivo async contagem
+Arquivo 696, linha 3: texto await thread thread await linha texto arquivo thread texto thread
+Arquivo 696, linha 4: contagem texto thread arquivo palavra arquivo linha
+Arquivo 696, linha 5: arquivo texto contagem thread palavra contagem async teste
+Arquivo 696, linha 6: async texto teste CSharp thread thread teste

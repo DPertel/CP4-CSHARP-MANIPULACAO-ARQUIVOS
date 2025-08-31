@@ -1,0 +1,12 @@
+=== Arquivo número 709 ===
+Arquivo 709, linha 1: palavra await palavra teste thread async linha palavra async CSharp
+Arquivo 709, linha 2: await await arquivo teste palavra linha palavra async palavra thread texto contagem
+Arquivo 709, linha 3: linha teste teste arquivo async linha arquivo
+Arquivo 709, linha 4: CSharp thread teste texto teste await texto teste
+Arquivo 709, linha 5: teste CSharp CSharp linha arquivo contagem CSharp
+Arquivo 709, linha 6: await linha arquivo await texto CSharp thread
+Arquivo 709, linha 7: arquivo palavra CSharp teste texto linha CSharp arquivo CSharp async
+Arquivo 709, linha 8: texto async CSharp arquivo contagem await CSharp teste
+Arquivo 709, linha 9: teste teste CSharp palavra palavra thread await texto palavra texto teste teste
+Arquivo 709, linha 10: thread teste thread await thread thread linha await linha arquivo palavra
+Arquivo 709, linha 11: await CSharp await texto thread

@@ -1,0 +1,13 @@
+=== Arquivo número 944 ===
+Arquivo 944, linha 1: contagem contagem CSharp linha await
+Arquivo 944, linha 2: linha arquivo teste async palavra palavra teste teste palavra CSharp
+Arquivo 944, linha 3: teste CSharp linha linha contagem contagem teste arquivo arquivo texto contagem palavra
+Arquivo 944, linha 4: teste thread teste teste async contagem
+Arquivo 944, linha 5: texto teste CSharp await palavra palavra thread
+Arquivo 944, linha 6: await arquivo async contagem await contagem thread arquivo
+Arquivo 944, linha 7: texto arquivo contagem contagem texto linha arquivo arquivo thread contagem
+Arquivo 944, linha 8: thread async contagem async arquivo linha async
+Arquivo 944, linha 9: palavra CSharp palavra thread await thread texto thread thread
+Arquivo 944, linha 10: thread contagem texto thread texto
+Arquivo 944, linha 11: async arquivo texto async await teste arquivo palavra async palavra thread palavra
+Arquivo 944, linha 12: await linha texto palavra async async thread palavra linha

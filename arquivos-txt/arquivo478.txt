@@ -1,0 +1,12 @@
+=== Arquivo número 478 ===
+Arquivo 478, linha 1: await CSharp async thread CSharp arquivo async contagem thread thread
+Arquivo 478, linha 2: thread contagem await CSharp teste palavra contagem arquivo arquivo contagem
+Arquivo 478, linha 3: contagem linha linha await thread
+Arquivo 478, linha 4: await async contagem contagem async linha contagem
+Arquivo 478, linha 5: linha linha palavra async await async CSharp contagem teste CSharp
+Arquivo 478, linha 6: teste async contagem texto await thread async
+Arquivo 478, linha 7: arquivo CSharp thread thread texto contagem thread palavra
+Arquivo 478, linha 8: contagem teste arquivo arquivo texto arquivo texto async teste async arquivo CSharp
+Arquivo 478, linha 9: thread palavra async thread texto palavra arquivo
+Arquivo 478, linha 10: thread texto thread contagem contagem contagem texto texto linha palavra linha contagem
+Arquivo 478, linha 11: teste contagem await contagem contagem thread async linha texto

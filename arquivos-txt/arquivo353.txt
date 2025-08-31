@@ -1,0 +1,9 @@
+=== Arquivo número 353 ===
+Arquivo 353, linha 1: teste linha texto thread palavra contagem
+Arquivo 353, linha 2: CSharp CSharp arquivo thread teste contagem CSharp CSharp
+Arquivo 353, linha 3: texto thread async contagem CSharp async texto await
+Arquivo 353, linha 4: teste async CSharp CSharp thread await palavra
+Arquivo 353, linha 5: teste texto await texto linha await contagem contagem async linha contagem CSharp
+Arquivo 353, linha 6: await texto teste contagem async
+Arquivo 353, linha 7: teste linha CSharp thread contagem linha async texto await
+Arquivo 353, linha 8: contagem await await texto arquivo async linha contagem

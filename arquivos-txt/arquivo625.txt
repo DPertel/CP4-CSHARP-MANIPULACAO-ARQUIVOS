@@ -1,0 +1,9 @@
+=== Arquivo número 625 ===
+Arquivo 625, linha 1: arquivo teste await CSharp CSharp async texto teste texto
+Arquivo 625, linha 2: palavra contagem texto await palavra linha thread contagem texto CSharp
+Arquivo 625, linha 3: teste palavra await thread palavra async async linha
+Arquivo 625, linha 4: teste arquivo await arquivo thread await contagem palavra linha await thread teste
+Arquivo 625, linha 5: async palavra teste thread contagem palavra CSharp teste palavra await contagem
+Arquivo 625, linha 6: contagem palavra texto linha arquivo
+Arquivo 625, linha 7: thread await async arquivo teste arquivo contagem
+Arquivo 625, linha 8: arquivo linha await thread CSharp arquivo thread arquivo thread

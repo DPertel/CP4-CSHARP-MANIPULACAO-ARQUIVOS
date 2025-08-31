@@ -1,0 +1,7 @@
+=== Arquivo número 851 ===
+Arquivo 851, linha 1: linha palavra await thread linha linha await contagem texto
+Arquivo 851, linha 2: contagem teste texto texto async linha contagem palavra texto async await linha
+Arquivo 851, linha 3: linha thread texto thread texto palavra CSharp thread
+Arquivo 851, linha 4: thread await CSharp thread texto CSharp await texto teste teste
+Arquivo 851, linha 5: async linha await await await CSharp contagem texto thread
+Arquivo 851, linha 6: contagem contagem async CSharp thread CSharp

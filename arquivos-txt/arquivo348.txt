@@ -1,0 +1,7 @@
+=== Arquivo número 348 ===
+Arquivo 348, linha 1: arquivo CSharp palavra CSharp teste teste
+Arquivo 348, linha 2: teste arquivo linha palavra texto
+Arquivo 348, linha 3: palavra contagem CSharp async arquivo CSharp palavra contagem CSharp teste texto
+Arquivo 348, linha 4: async arquivo palavra teste thread linha
+Arquivo 348, linha 5: contagem async arquivo teste palavra teste
+Arquivo 348, linha 6: arquivo palavra teste thread async arquivo

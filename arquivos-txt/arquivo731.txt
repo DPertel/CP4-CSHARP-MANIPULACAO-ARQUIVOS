@@ -1,0 +1,12 @@
+=== Arquivo número 731 ===
+Arquivo 731, linha 1: linha linha contagem palavra linha CSharp linha palavra palavra CSharp
+Arquivo 731, linha 2: CSharp CSharp arquivo async contagem CSharp arquivo palavra palavra CSharp
+Arquivo 731, linha 3: await teste linha texto CSharp teste teste palavra teste thread
+Arquivo 731, linha 4: texto async CSharp CSharp arquivo thread thread CSharp linha
+Arquivo 731, linha 5: await texto arquivo CSharp await CSharp thread await await texto palavra
+Arquivo 731, linha 6: palavra async arquivo contagem teste await
+Arquivo 731, linha 7: texto teste await linha contagem linha await linha palavra
+Arquivo 731, linha 8: arquivo arquivo palavra thread linha CSharp CSharp palavra teste
+Arquivo 731, linha 9: contagem thread texto teste thread palavra await await palavra palavra texto
+Arquivo 731, linha 10: arquivo thread texto await async thread texto CSharp
+Arquivo 731, linha 11: arquivo CSharp arquivo texto arquivo arquivo palavra contagem texto

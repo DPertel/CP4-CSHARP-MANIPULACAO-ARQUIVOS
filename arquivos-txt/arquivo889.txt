@@ -1,0 +1,14 @@
+=== Arquivo número 889 ===
+Arquivo 889, linha 1: palavra await contagem async thread CSharp linha thread async await
+Arquivo 889, linha 2: thread teste contagem linha texto contagem linha contagem texto
+Arquivo 889, linha 3: await linha texto await CSharp thread CSharp contagem palavra arquivo
+Arquivo 889, linha 4: contagem async async await await linha linha thread texto contagem thread
+Arquivo 889, linha 5: async async palavra palavra await await
+Arquivo 889, linha 6: contagem arquivo palavra await arquivo thread arquivo await
+Arquivo 889, linha 7: linha thread thread texto arquivo texto linha arquivo arquivo texto contagem
+Arquivo 889, linha 8: arquivo contagem arquivo await thread thread async thread linha texto
+Arquivo 889, linha 9: teste contagem contagem arquivo arquivo linha async await texto async
+Arquivo 889, linha 10: linha async thread texto linha arquivo texto await linha CSharp
+Arquivo 889, linha 11: async async linha palavra await thread contagem texto
+Arquivo 889, linha 12: arquivo async arquivo palavra texto async palavra CSharp await async texto palavra
+Arquivo 889, linha 13: async teste linha await async palavra teste arquivo

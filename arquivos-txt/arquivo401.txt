@@ -1,0 +1,9 @@
+=== Arquivo número 401 ===
+Arquivo 401, linha 1: CSharp palavra contagem teste CSharp linha palavra arquivo
+Arquivo 401, linha 2: async arquivo linha contagem linha await CSharp async thread
+Arquivo 401, linha 3: arquivo palavra teste await teste CSharp await palavra arquivo
+Arquivo 401, linha 4: linha palavra teste palavra texto thread
+Arquivo 401, linha 5: palavra thread teste arquivo await CSharp await contagem linha teste
+Arquivo 401, linha 6: palavra palavra texto async await teste thread linha
+Arquivo 401, linha 7: await linha arquivo palavra texto contagem palavra thread
+Arquivo 401, linha 8: contagem palavra arquivo CSharp async arquivo CSharp linha thread teste texto async

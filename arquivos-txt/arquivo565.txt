@@ -1,0 +1,19 @@
+=== Arquivo número 565 ===
+Arquivo 565, linha 1: CSharp contagem contagem thread texto CSharp
+Arquivo 565, linha 2: teste CSharp contagem CSharp arquivo thread palavra linha linha async async
+Arquivo 565, linha 3: palavra palavra teste linha CSharp async texto linha palavra texto linha palavra
+Arquivo 565, linha 4: teste arquivo arquivo thread linha palavra
+Arquivo 565, linha 5: arquivo texto contagem thread thread texto linha arquivo texto
+Arquivo 565, linha 6: await linha texto linha arquivo await texto linha thread await palavra linha
+Arquivo 565, linha 7: palavra arquivo async texto await await
+Arquivo 565, linha 8: contagem await CSharp teste teste async
+Arquivo 565, linha 9: await linha CSharp contagem async await palavra await await
+Arquivo 565, linha 10: linha texto thread texto teste thread contagem palavra palavra await
+Arquivo 565, linha 11: teste thread teste await teste await await CSharp
+Arquivo 565, linha 12: contagem thread texto contagem contagem teste contagem teste texto thread await contagem
+Arquivo 565, linha 13: texto async linha contagem arquivo CSharp thread
+Arquivo 565, linha 14: texto CSharp linha arquivo contagem CSharp palavra linha contagem await thread
+Arquivo 565, linha 15: linha arquivo contagem async await thread CSharp
+Arquivo 565, linha 16: await await palavra thread palavra async async CSharp palavra teste palavra await
+Arquivo 565, linha 17: await async contagem await linha palavra
+Arquivo 565, linha 18: thread linha async await async arquivo contagem teste

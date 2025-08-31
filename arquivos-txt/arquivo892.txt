@@ -1,0 +1,10 @@
+=== Arquivo número 892 ===
+Arquivo 892, linha 1: contagem teste arquivo teste CSharp async await arquivo thread teste
+Arquivo 892, linha 2: async teste palavra thread palavra
+Arquivo 892, linha 3: async contagem linha CSharp await linha
+Arquivo 892, linha 4: async arquivo arquivo palavra palavra
+Arquivo 892, linha 5: thread CSharp palavra contagem arquivo CSharp
+Arquivo 892, linha 6: contagem texto texto teste arquivo arquivo texto CSharp thread thread teste
+Arquivo 892, linha 7: await texto async async texto palavra contagem palavra CSharp CSharp teste
+Arquivo 892, linha 8: CSharp async thread palavra async teste thread async texto CSharp arquivo
+Arquivo 892, linha 9: await async texto texto await CSharp

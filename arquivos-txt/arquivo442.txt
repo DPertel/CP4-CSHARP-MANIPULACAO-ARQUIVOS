@@ -1,0 +1,11 @@
+=== Arquivo número 442 ===
+Arquivo 442, linha 1: contagem thread linha async texto await
+Arquivo 442, linha 2: async async linha texto teste contagem contagem teste texto arquivo async
+Arquivo 442, linha 3: teste thread async palavra teste arquivo
+Arquivo 442, linha 4: teste texto thread arquivo palavra linha teste thread
+Arquivo 442, linha 5: arquivo teste contagem thread CSharp linha arquivo await CSharp
+Arquivo 442, linha 6: arquivo contagem thread texto thread await palavra thread
+Arquivo 442, linha 7: async thread await texto texto palavra
+Arquivo 442, linha 8: texto arquivo await contagem contagem contagem await await teste thread
+Arquivo 442, linha 9: thread arquivo teste async palavra async await
+Arquivo 442, linha 10: palavra CSharp arquivo CSharp contagem contagem

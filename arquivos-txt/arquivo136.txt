@@ -1,0 +1,12 @@
+=== Arquivo número 136 ===
+Arquivo 136, linha 1: contagem teste texto teste thread thread texto
+Arquivo 136, linha 2: CSharp contagem async CSharp palavra async
+Arquivo 136, linha 3: CSharp linha teste teste palavra async async contagem teste CSharp texto async
+Arquivo 136, linha 4: async linha thread contagem arquivo contagem contagem linha await await linha
+Arquivo 136, linha 5: arquivo await thread teste teste async contagem linha
+Arquivo 136, linha 6: linha texto await thread CSharp async contagem
+Arquivo 136, linha 7: teste palavra await thread thread
+Arquivo 136, linha 8: await palavra await palavra async arquivo texto
+Arquivo 136, linha 9: arquivo teste async teste teste async palavra linha async palavra CSharp CSharp
+Arquivo 136, linha 10: thread await palavra await linha async
+Arquivo 136, linha 11: async linha palavra texto arquivo contagem texto palavra contagem teste thread thread

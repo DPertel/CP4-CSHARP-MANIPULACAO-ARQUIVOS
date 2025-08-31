@@ -1,0 +1,15 @@
+=== Arquivo número 398 ===
+Arquivo 398, linha 1: async thread CSharp teste contagem async arquivo await thread
+Arquivo 398, linha 2: palavra teste linha CSharp async
+Arquivo 398, linha 3: arquivo async texto teste await
+Arquivo 398, linha 4: linha thread linha contagem async
+Arquivo 398, linha 5: CSharp texto await linha async CSharp teste async CSharp linha teste palavra
+Arquivo 398, linha 6: contagem async thread linha contagem CSharp
+Arquivo 398, linha 7: palavra arquivo linha contagem palavra linha
+Arquivo 398, linha 8: linha async contagem teste CSharp await palavra palavra palavra palavra CSharp
+Arquivo 398, linha 9: teste async contagem await palavra palavra thread teste teste thread
+Arquivo 398, linha 10: texto async palavra texto async async
+Arquivo 398, linha 11: thread texto await CSharp contagem await linha palavra teste palavra await async
+Arquivo 398, linha 12: linha texto texto async arquivo texto
+Arquivo 398, linha 13: palavra CSharp thread teste texto palavra
+Arquivo 398, linha 14: teste thread linha teste texto CSharp teste teste texto

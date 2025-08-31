@@ -1,0 +1,8 @@
+=== Arquivo número 457 ===
+Arquivo 457, linha 1: thread texto arquivo texto teste thread
+Arquivo 457, linha 2: await contagem linha await teste await texto thread palavra await
+Arquivo 457, linha 3: async CSharp teste linha contagem
+Arquivo 457, linha 4: async palavra palavra async thread teste async thread arquivo palavra
+Arquivo 457, linha 5: await CSharp async CSharp texto thread
+Arquivo 457, linha 6: arquivo teste await linha await palavra teste texto await
+Arquivo 457, linha 7: CSharp linha texto CSharp thread palavra

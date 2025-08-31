@@ -1,0 +1,16 @@
+=== Arquivo número 980 ===
+Arquivo 980, linha 1: texto CSharp await thread teste linha CSharp contagem linha texto thread
+Arquivo 980, linha 2: await async texto arquivo linha CSharp palavra palavra arquivo teste
+Arquivo 980, linha 3: texto texto teste async teste
+Arquivo 980, linha 4: async thread texto thread texto
+Arquivo 980, linha 5: arquivo thread await thread linha teste thread
+Arquivo 980, linha 6: thread arquivo async await palavra
+Arquivo 980, linha 7: arquivo teste await CSharp async thread thread async texto palavra
+Arquivo 980, linha 8: linha linha async async contagem await
+Arquivo 980, linha 9: contagem texto arquivo await CSharp CSharp thread arquivo
+Arquivo 980, linha 10: teste CSharp thread thread await CSharp thread await palavra palavra await
+Arquivo 980, linha 11: CSharp texto contagem linha contagem
+Arquivo 980, linha 12: texto CSharp linha thread CSharp CSharp contagem
+Arquivo 980, linha 13: texto arquivo arquivo linha teste arquivo arquivo arquivo CSharp arquivo contagem
+Arquivo 980, linha 14: thread arquivo CSharp texto contagem
+Arquivo 980, linha 15: contagem await contagem texto CSharp CSharp arquivo thread await palavra linha

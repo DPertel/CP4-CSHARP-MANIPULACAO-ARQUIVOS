@@ -1,0 +1,5 @@
+=== Arquivo número 581 ===
+Arquivo 581, linha 1: texto texto arquivo arquivo async async texto
+Arquivo 581, linha 2: contagem async texto async linha contagem contagem teste palavra
+Arquivo 581, linha 3: thread await contagem thread palavra palavra linha contagem arquivo
+Arquivo 581, linha 4: thread await teste contagem await

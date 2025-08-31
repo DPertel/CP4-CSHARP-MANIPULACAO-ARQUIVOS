@@ -1,0 +1,15 @@
+=== Arquivo número 902 ===
+Arquivo 902, linha 1: teste await async palavra thread linha palavra contagem async thread teste
+Arquivo 902, linha 2: linha async thread thread thread teste
+Arquivo 902, linha 3: thread await await texto palavra texto await palavra thread palavra CSharp await
+Arquivo 902, linha 4: contagem texto async texto contagem
+Arquivo 902, linha 5: async teste texto linha async thread
+Arquivo 902, linha 6: arquivo arquivo await arquivo await texto texto
+Arquivo 902, linha 7: texto await thread teste CSharp await async thread palavra
+Arquivo 902, linha 8: async thread CSharp async thread contagem await async await
+Arquivo 902, linha 9: teste texto CSharp contagem thread
+Arquivo 902, linha 10: arquivo contagem palavra teste arquivo contagem texto thread contagem async
+Arquivo 902, linha 11: contagem CSharp CSharp await arquivo arquivo
+Arquivo 902, linha 12: palavra await thread linha palavra palavra await
+Arquivo 902, linha 13: thread thread thread thread await contagem contagem palavra texto thread linha
+Arquivo 902, linha 14: await texto thread linha teste await CSharp texto arquivo contagem async await

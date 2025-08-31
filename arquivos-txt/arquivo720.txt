@@ -1,0 +1,14 @@
+=== Arquivo número 720 ===
+Arquivo 720, linha 1: async await contagem teste CSharp
+Arquivo 720, linha 2: palavra async arquivo contagem teste async
+Arquivo 720, linha 3: teste await contagem CSharp linha
+Arquivo 720, linha 4: thread palavra async linha texto palavra teste
+Arquivo 720, linha 5: await palavra async arquivo linha
+Arquivo 720, linha 6: teste palavra teste teste texto palavra palavra teste thread CSharp linha linha
+Arquivo 720, linha 7: async thread teste arquivo teste linha texto
+Arquivo 720, linha 8: await texto contagem teste arquivo arquivo await teste
+Arquivo 720, linha 9: linha async linha await contagem
+Arquivo 720, linha 10: arquivo palavra arquivo await palavra async async CSharp linha thread texto texto
+Arquivo 720, linha 11: thread arquivo teste await async
+Arquivo 720, linha 12: CSharp teste teste palavra await palavra
+Arquivo 720, linha 13: await texto linha palavra texto

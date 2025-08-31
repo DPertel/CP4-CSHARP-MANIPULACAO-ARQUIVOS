@@ -1,0 +1,15 @@
+=== Arquivo número 576 ===
+Arquivo 576, linha 1: async palavra teste palavra async palavra await async teste
+Arquivo 576, linha 2: arquivo teste thread contagem palavra thread CSharp teste
+Arquivo 576, linha 3: arquivo texto arquivo texto texto
+Arquivo 576, linha 4: contagem teste async await linha arquivo async texto arquivo
+Arquivo 576, linha 5: arquivo palavra teste palavra thread
+Arquivo 576, linha 6: contagem async arquivo palavra contagem linha thread
+Arquivo 576, linha 7: arquivo await palavra CSharp thread CSharp
+Arquivo 576, linha 8: arquivo palavra async texto CSharp arquivo
+Arquivo 576, linha 9: contagem teste await CSharp palavra palavra arquivo async arquivo
+Arquivo 576, linha 10: texto async teste await teste async async
+Arquivo 576, linha 11: arquivo palavra contagem thread async thread await arquivo await
+Arquivo 576, linha 12: linha arquivo thread linha palavra arquivo async linha contagem
+Arquivo 576, linha 13: teste arquivo texto async linha async teste async contagem async
+Arquivo 576, linha 14: linha await texto CSharp arquivo arquivo

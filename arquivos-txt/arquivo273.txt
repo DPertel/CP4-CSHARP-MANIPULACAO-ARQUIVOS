@@ -1,0 +1,11 @@
+=== Arquivo número 273 ===
+Arquivo 273, linha 1: thread texto async texto teste palavra
+Arquivo 273, linha 2: thread await thread contagem teste palavra CSharp teste CSharp linha
+Arquivo 273, linha 3: arquivo await texto await arquivo CSharp contagem CSharp
+Arquivo 273, linha 4: arquivo arquivo contagem palavra contagem arquivo async contagem async async contagem
+Arquivo 273, linha 5: await await contagem texto linha teste
+Arquivo 273, linha 6: teste linha linha contagem linha linha
+Arquivo 273, linha 7: palavra contagem texto arquivo async contagem await
+Arquivo 273, linha 8: teste linha await palavra thread teste CSharp thread await arquivo teste
+Arquivo 273, linha 9: contagem CSharp palavra teste arquivo arquivo texto texto linha
+Arquivo 273, linha 10: CSharp await CSharp palavra arquivo contagem linha

@@ -1,0 +1,16 @@
+=== Arquivo número 27 ===
+Arquivo 27, linha 1: linha arquivo teste thread async teste contagem
+Arquivo 27, linha 2: linha async linha thread texto await
+Arquivo 27, linha 3: teste palavra CSharp arquivo arquivo contagem linha async palavra texto await
+Arquivo 27, linha 4: await thread await await teste contagem await await
+Arquivo 27, linha 5: teste teste contagem linha arquivo await
+Arquivo 27, linha 6: arquivo texto async arquivo thread thread arquivo linha arquivo texto linha texto
+Arquivo 27, linha 7: contagem contagem arquivo contagem linha
+Arquivo 27, linha 8: contagem await teste CSharp texto contagem CSharp thread
+Arquivo 27, linha 9: texto await contagem arquivo arquivo texto arquivo async teste
+Arquivo 27, linha 10: contagem await contagem arquivo contagem contagem thread texto
+Arquivo 27, linha 11: CSharp texto texto texto linha await teste CSharp await await contagem
+Arquivo 27, linha 12: contagem teste linha linha linha await linha arquivo
+Arquivo 27, linha 13: texto async texto linha linha
+Arquivo 27, linha 14: texto thread teste async thread
+Arquivo 27, linha 15: palavra palavra CSharp arquivo teste texto palavra palavra

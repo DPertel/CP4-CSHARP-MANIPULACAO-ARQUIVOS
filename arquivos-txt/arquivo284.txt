@@ -1,0 +1,12 @@
+=== Arquivo número 284 ===
+Arquivo 284, linha 1: linha texto linha arquivo linha palavra palavra linha arquivo linha async
+Arquivo 284, linha 2: contagem palavra teste texto async await
+Arquivo 284, linha 3: thread contagem CSharp async teste linha
+Arquivo 284, linha 4: palavra contagem contagem async async texto texto teste arquivo
+Arquivo 284, linha 5: texto teste arquivo await thread texto palavra CSharp palavra teste linha async
+Arquivo 284, linha 6: contagem contagem async texto linha linha
+Arquivo 284, linha 7: palavra thread teste texto linha arquivo await CSharp linha arquivo
+Arquivo 284, linha 8: thread CSharp linha thread texto texto contagem teste async async async thread
+Arquivo 284, linha 9: palavra palavra texto linha await arquivo await
+Arquivo 284, linha 10: palavra await async palavra CSharp linha async async await texto texto
+Arquivo 284, linha 11: arquivo contagem await arquivo async linha await teste async teste CSharp

@@ -1,0 +1,20 @@
+=== Arquivo número 444 ===
+Arquivo 444, linha 1: palavra arquivo arquivo arquivo teste await palavra async await
+Arquivo 444, linha 2: arquivo CSharp teste palavra palavra contagem arquivo
+Arquivo 444, linha 3: teste arquivo palavra thread CSharp await
+Arquivo 444, linha 4: arquivo await texto texto contagem thread texto linha teste palavra arquivo await
+Arquivo 444, linha 5: thread await texto thread thread async thread await
+Arquivo 444, linha 6: arquivo arquivo CSharp linha thread async
+Arquivo 444, linha 7: linha CSharp teste await palavra CSharp arquivo
+Arquivo 444, linha 8: teste await palavra teste teste contagem
+Arquivo 444, linha 9: texto CSharp thread teste CSharp
+Arquivo 444, linha 10: texto async await await linha linha CSharp teste linha await contagem
+Arquivo 444, linha 11: texto contagem await texto linha CSharp
+Arquivo 444, linha 12: linha thread palavra linha texto texto thread await
+Arquivo 444, linha 13: CSharp contagem contagem CSharp async thread texto CSharp arquivo
+Arquivo 444, linha 14: palavra arquivo arquivo await arquivo async async palavra linha
+Arquivo 444, linha 15: palavra await CSharp arquivo thread async
+Arquivo 444, linha 16: CSharp palavra arquivo async await palavra linha teste teste thread CSharp
+Arquivo 444, linha 17: CSharp palavra arquivo arquivo async thread contagem
+Arquivo 444, linha 18: linha linha palavra texto CSharp
+Arquivo 444, linha 19: arquivo thread contagem teste await await palavra arquivo thread

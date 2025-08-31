@@ -1,0 +1,14 @@
+=== Arquivo número 697 ===
+Arquivo 697, linha 1: texto texto palavra palavra contagem thread teste teste contagem palavra
+Arquivo 697, linha 2: await palavra teste texto teste texto teste linha contagem async
+Arquivo 697, linha 3: await async texto arquivo async texto contagem arquivo await contagem CSharp arquivo
+Arquivo 697, linha 4: teste texto texto teste await texto texto CSharp CSharp contagem thread
+Arquivo 697, linha 5: teste CSharp teste arquivo thread await
+Arquivo 697, linha 6: contagem contagem contagem contagem async CSharp CSharp
+Arquivo 697, linha 7: await teste teste arquivo await CSharp thread await texto
+Arquivo 697, linha 8: async await async CSharp async linha
+Arquivo 697, linha 9: arquivo linha await palavra async teste contagem contagem teste thread palavra
+Arquivo 697, linha 10: CSharp await async linha teste await arquivo async thread palavra
+Arquivo 697, linha 11: thread texto texto thread texto arquivo arquivo thread CSharp contagem CSharp await
+Arquivo 697, linha 12: thread CSharp await texto arquivo async contagem contagem await texto async
+Arquivo 697, linha 13: teste CSharp linha contagem await arquivo linha teste contagem await linha async

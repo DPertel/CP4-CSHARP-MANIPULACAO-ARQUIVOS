@@ -1,0 +1,6 @@
+=== Arquivo número 13 ===
+Arquivo 13, linha 1: linha CSharp async arquivo await texto linha arquivo async palavra texto teste
+Arquivo 13, linha 2: palavra thread teste linha teste CSharp texto
+Arquivo 13, linha 3: arquivo await texto thread palavra await async arquivo CSharp await
+Arquivo 13, linha 4: contagem palavra async await palavra teste contagem linha async texto
+Arquivo 13, linha 5: CSharp CSharp teste palavra palavra linha linha

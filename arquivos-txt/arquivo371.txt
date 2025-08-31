@@ -1,0 +1,9 @@
+=== Arquivo número 371 ===
+Arquivo 371, linha 1: CSharp palavra contagem teste arquivo CSharp linha async thread
+Arquivo 371, linha 2: texto texto CSharp CSharp texto contagem
+Arquivo 371, linha 3: texto thread palavra contagem async CSharp teste texto palavra arquivo teste
+Arquivo 371, linha 4: palavra texto contagem teste arquivo thread texto arquivo linha async contagem linha
+Arquivo 371, linha 5: palavra thread texto async palavra arquivo
+Arquivo 371, linha 6: await thread teste await arquivo palavra arquivo thread arquivo await palavra thread
+Arquivo 371, linha 7: linha texto async contagem await await teste
+Arquivo 371, linha 8: linha linha texto thread palavra palavra await contagem palavra async

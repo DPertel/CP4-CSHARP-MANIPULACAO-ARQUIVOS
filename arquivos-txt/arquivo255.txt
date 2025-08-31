@@ -1,0 +1,6 @@
+=== Arquivo número 255 ===
+Arquivo 255, linha 1: palavra CSharp texto async arquivo contagem async async arquivo thread
+Arquivo 255, linha 2: texto texto CSharp thread arquivo
+Arquivo 255, linha 3: async contagem async arquivo async arquivo arquivo await linha CSharp thread CSharp
+Arquivo 255, linha 4: teste teste texto texto await arquivo linha
+Arquivo 255, linha 5: teste thread contagem arquivo teste arquivo async await teste arquivo

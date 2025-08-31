@@ -1,0 +1,18 @@
+=== Arquivo número 434 ===
+Arquivo 434, linha 1: async arquivo CSharp texto await palavra thread contagem texto
+Arquivo 434, linha 2: arquivo teste CSharp thread texto CSharp linha thread arquivo
+Arquivo 434, linha 3: thread linha await palavra async CSharp texto
+Arquivo 434, linha 4: texto thread thread contagem thread CSharp CSharp texto palavra thread async
+Arquivo 434, linha 5: linha teste async arquivo teste palavra teste CSharp arquivo contagem
+Arquivo 434, linha 6: palavra CSharp thread thread await palavra texto CSharp await
+Arquivo 434, linha 7: linha teste texto arquivo palavra CSharp
+Arquivo 434, linha 8: linha linha await async linha arquivo
+Arquivo 434, linha 9: teste contagem palavra async arquivo
+Arquivo 434, linha 10: arquivo teste texto arquivo texto thread thread palavra contagem
+Arquivo 434, linha 11: contagem contagem CSharp teste palavra teste CSharp CSharp thread await CSharp
+Arquivo 434, linha 12: palavra contagem palavra palavra CSharp texto texto teste
+Arquivo 434, linha 13: CSharp async teste linha arquivo teste linha contagem await CSharp texto CSharp
+Arquivo 434, linha 14: palavra thread contagem await await texto thread CSharp linha async teste async
+Arquivo 434, linha 15: texto await async arquivo texto teste async arquivo palavra async thread
+Arquivo 434, linha 16: async texto thread linha linha
+Arquivo 434, linha 17: thread CSharp linha texto linha CSharp

@@ -1,0 +1,8 @@
+=== Arquivo número 853 ===
+Arquivo 853, linha 1: CSharp CSharp thread thread arquivo arquivo teste arquivo teste texto
+Arquivo 853, linha 2: linha teste async teste arquivo palavra arquivo texto CSharp
+Arquivo 853, linha 3: linha contagem teste thread linha linha await
+Arquivo 853, linha 4: contagem teste await CSharp CSharp await linha thread await
+Arquivo 853, linha 5: arquivo contagem arquivo arquivo palavra thread palavra thread await
+Arquivo 853, linha 6: linha CSharp teste CSharp teste teste await await palavra
+Arquivo 853, linha 7: texto async linha linha contagem CSharp texto palavra arquivo palavra arquivo arquivo

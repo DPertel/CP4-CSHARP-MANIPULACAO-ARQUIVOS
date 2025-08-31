@@ -1,0 +1,18 @@
+=== Arquivo número 311 ===
+Arquivo 311, linha 1: arquivo await linha thread palavra await
+Arquivo 311, linha 2: CSharp contagem linha thread contagem contagem linha linha linha contagem thread
+Arquivo 311, linha 3: CSharp async arquivo palavra await linha linha thread async
+Arquivo 311, linha 4: async async async arquivo linha teste arquivo async palavra thread
+Arquivo 311, linha 5: thread await await contagem teste palavra palavra thread contagem
+Arquivo 311, linha 6: palavra teste texto await teste async teste palavra texto contagem arquivo palavra
+Arquivo 311, linha 7: texto CSharp await CSharp teste await teste teste thread teste arquivo
+Arquivo 311, linha 8: arquivo teste await linha CSharp
+Arquivo 311, linha 9: teste contagem teste texto arquivo texto
+Arquivo 311, linha 10: await palavra arquivo texto CSharp CSharp CSharp await texto teste thread palavra
+Arquivo 311, linha 11: async await texto thread await contagem linha texto CSharp async async palavra
+Arquivo 311, linha 12: async palavra texto palavra palavra CSharp arquivo texto linha thread
+Arquivo 311, linha 13: arquivo palavra thread thread palavra thread linha texto teste teste
+Arquivo 311, linha 14: teste thread teste linha CSharp palavra CSharp linha contagem linha
+Arquivo 311, linha 15: await palavra contagem thread CSharp
+Arquivo 311, linha 16: await async contagem thread arquivo contagem CSharp palavra contagem contagem
+Arquivo 311, linha 17: teste linha thread await palavra

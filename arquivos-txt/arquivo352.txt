@@ -1,0 +1,8 @@
+=== Arquivo número 352 ===
+Arquivo 352, linha 1: CSharp async CSharp texto async texto async
+Arquivo 352, linha 2: await linha async teste contagem thread teste
+Arquivo 352, linha 3: CSharp thread CSharp arquivo thread await async texto texto linha
+Arquivo 352, linha 4: linha teste arquivo arquivo await contagem palavra contagem
+Arquivo 352, linha 5: thread teste async teste thread teste
+Arquivo 352, linha 6: texto contagem async async contagem contagem CSharp texto texto linha
+Arquivo 352, linha 7: palavra arquivo arquivo thread CSharp async contagem

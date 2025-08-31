@@ -1,0 +1,16 @@
+=== Arquivo número 529 ===
+Arquivo 529, linha 1: await arquivo thread texto texto teste teste
+Arquivo 529, linha 2: texto await palavra contagem teste contagem thread async
+Arquivo 529, linha 3: async CSharp CSharp teste linha async
+Arquivo 529, linha 4: thread thread arquivo linha teste texto linha thread await texto
+Arquivo 529, linha 5: async arquivo CSharp palavra texto palavra
+Arquivo 529, linha 6: arquivo arquivo arquivo palavra arquivo
+Arquivo 529, linha 7: thread await async thread palavra
+Arquivo 529, linha 8: async arquivo linha arquivo await palavra
+Arquivo 529, linha 9: thread palavra contagem arquivo teste texto
+Arquivo 529, linha 10: await contagem teste await teste
+Arquivo 529, linha 11: texto linha CSharp CSharp CSharp CSharp thread async await CSharp texto async
+Arquivo 529, linha 12: await teste async contagem CSharp linha
+Arquivo 529, linha 13: palavra thread teste arquivo thread async
+Arquivo 529, linha 14: async CSharp contagem texto linha arquivo contagem arquivo
+Arquivo 529, linha 15: linha async await teste teste arquivo arquivo palavra

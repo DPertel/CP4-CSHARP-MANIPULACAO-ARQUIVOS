@@ -1,0 +1,18 @@
+=== Arquivo número 507 ===
+Arquivo 507, linha 1: arquivo CSharp arquivo teste CSharp arquivo
+Arquivo 507, linha 2: arquivo thread CSharp texto teste palavra await contagem contagem teste CSharp thread
+Arquivo 507, linha 3: CSharp linha contagem linha arquivo texto teste
+Arquivo 507, linha 4: arquivo linha teste texto texto CSharp arquivo arquivo contagem await teste texto
+Arquivo 507, linha 5: async texto linha linha contagem CSharp contagem texto teste
+Arquivo 507, linha 6: CSharp texto await teste thread texto CSharp linha teste async
+Arquivo 507, linha 7: async teste texto teste linha thread CSharp CSharp
+Arquivo 507, linha 8: teste async thread palavra CSharp linha async arquivo CSharp
+Arquivo 507, linha 9: palavra CSharp async palavra thread thread await texto contagem palavra thread texto
+Arquivo 507, linha 10: contagem contagem palavra CSharp teste teste CSharp await contagem await thread contagem
+Arquivo 507, linha 11: contagem palavra await arquivo arquivo teste
+Arquivo 507, linha 12: linha teste contagem await await await
+Arquivo 507, linha 13: palavra linha async arquivo palavra thread contagem await
+Arquivo 507, linha 14: thread palavra arquivo arquivo await
+Arquivo 507, linha 15: palavra thread async arquivo contagem
+Arquivo 507, linha 16: contagem palavra CSharp thread await palavra teste palavra
+Arquivo 507, linha 17: arquivo texto await linha arquivo thread

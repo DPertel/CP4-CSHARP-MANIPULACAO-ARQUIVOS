@@ -1,0 +1,19 @@
+=== Arquivo número 418 ===
+Arquivo 418, linha 1: teste palavra arquivo CSharp contagem linha thread palavra await
+Arquivo 418, linha 2: palavra texto texto texto arquivo arquivo CSharp contagem
+Arquivo 418, linha 3: texto contagem contagem await palavra async linha async await await contagem texto
+Arquivo 418, linha 4: arquivo palavra thread texto thread
+Arquivo 418, linha 5: contagem teste async async CSharp linha texto
+Arquivo 418, linha 6: await texto await contagem palavra
+Arquivo 418, linha 7: teste arquivo texto palavra async teste
+Arquivo 418, linha 8: contagem linha teste texto CSharp
+Arquivo 418, linha 9: palavra contagem arquivo await teste palavra arquivo thread thread linha texto arquivo
+Arquivo 418, linha 10: linha CSharp thread linha contagem
+Arquivo 418, linha 11: linha teste async arquivo await
+Arquivo 418, linha 12: contagem texto CSharp palavra linha CSharp
+Arquivo 418, linha 13: CSharp teste async teste texto palavra teste contagem texto thread async async
+Arquivo 418, linha 14: await contagem async CSharp palavra async
+Arquivo 418, linha 15: palavra texto texto teste contagem await CSharp linha await teste contagem await
+Arquivo 418, linha 16: arquivo teste texto async await CSharp contagem texto await
+Arquivo 418, linha 17: teste palavra palavra async texto CSharp
+Arquivo 418, linha 18: await await thread thread palavra linha contagem

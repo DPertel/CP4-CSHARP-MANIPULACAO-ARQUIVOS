@@ -1,0 +1,12 @@
+=== Arquivo número 991 ===
+Arquivo 991, linha 1: texto palavra palavra await arquivo async arquivo teste async teste async arquivo
+Arquivo 991, linha 2: contagem thread palavra async contagem arquivo async
+Arquivo 991, linha 3: CSharp await arquivo texto linha contagem contagem contagem linha await thread await
+Arquivo 991, linha 4: contagem thread arquivo async texto contagem linha CSharp arquivo
+Arquivo 991, linha 5: texto thread arquivo await CSharp teste
+Arquivo 991, linha 6: contagem contagem CSharp linha arquivo teste async palavra texto contagem
+Arquivo 991, linha 7: texto contagem contagem await await teste linha CSharp async CSharp CSharp
+Arquivo 991, linha 8: palavra texto arquivo CSharp teste await linha
+Arquivo 991, linha 9: teste async async texto teste thread CSharp
+Arquivo 991, linha 10: CSharp teste await contagem texto arquivo linha await contagem texto
+Arquivo 991, linha 11: teste linha CSharp CSharp teste CSharp linha await

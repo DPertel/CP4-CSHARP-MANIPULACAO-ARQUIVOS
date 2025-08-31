@@ -1,0 +1,16 @@
+=== Arquivo número 749 ===
+Arquivo 749, linha 1: contagem thread texto async arquivo await teste async arquivo
+Arquivo 749, linha 2: texto texto texto async texto await teste
+Arquivo 749, linha 3: linha contagem texto thread CSharp async palavra texto linha contagem
+Arquivo 749, linha 4: CSharp contagem thread contagem linha texto arquivo CSharp
+Arquivo 749, linha 5: teste contagem thread async linha await palavra palavra palavra async linha
+Arquivo 749, linha 6: thread linha arquivo async thread texto palavra
+Arquivo 749, linha 7: CSharp CSharp texto linha linha
+Arquivo 749, linha 8: CSharp arquivo teste await teste
+Arquivo 749, linha 9: teste palavra CSharp texto linha await texto texto linha contagem palavra
+Arquivo 749, linha 10: linha async arquivo arquivo thread thread arquivo linha async texto arquivo thread
+Arquivo 749, linha 11: CSharp await async await contagem palavra contagem palavra
+Arquivo 749, linha 12: thread texto arquivo linha contagem arquivo thread arquivo contagem await async
+Arquivo 749, linha 13: await async thread linha texto texto texto async palavra thread
+Arquivo 749, linha 14: teste teste thread contagem texto async teste arquivo teste contagem thread
+Arquivo 749, linha 15: await palavra async await palavra teste teste

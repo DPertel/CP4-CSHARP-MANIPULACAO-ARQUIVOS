@@ -1,0 +1,7 @@
+=== Arquivo número 157 ===
+Arquivo 157, linha 1: linha CSharp thread arquivo arquivo contagem async linha texto async palavra
+Arquivo 157, linha 2: contagem await async contagem async texto await
+Arquivo 157, linha 3: texto palavra texto await teste CSharp linha linha arquivo contagem
+Arquivo 157, linha 4: thread await async teste thread
+Arquivo 157, linha 5: arquivo await linha texto async contagem linha CSharp arquivo contagem await
+Arquivo 157, linha 6: thread thread contagem contagem thread teste contagem thread teste texto

@@ -1,0 +1,10 @@
+=== Arquivo número 954 ===
+Arquivo 954, linha 1: await CSharp teste texto thread CSharp arquivo await teste thread thread
+Arquivo 954, linha 2: palavra arquivo teste async CSharp palavra texto thread thread async thread teste
+Arquivo 954, linha 3: arquivo texto texto async thread texto teste arquivo
+Arquivo 954, linha 4: async arquivo thread contagem CSharp palavra palavra thread await async
+Arquivo 954, linha 5: await async CSharp linha CSharp await arquivo await CSharp teste arquivo CSharp
+Arquivo 954, linha 6: CSharp async contagem teste texto await palavra
+Arquivo 954, linha 7: palavra contagem palavra linha texto
+Arquivo 954, linha 8: arquivo linha arquivo linha texto teste contagem palavra
+Arquivo 954, linha 9: teste CSharp arquivo CSharp async texto

@@ -1,0 +1,5 @@
+=== Arquivo número 787 ===
+Arquivo 787, linha 1: palavra contagem palavra CSharp thread arquivo
+Arquivo 787, linha 2: CSharp await await CSharp CSharp await palavra async
+Arquivo 787, linha 3: texto linha texto texto contagem palavra arquivo
+Arquivo 787, linha 4: arquivo palavra arquivo texto arquivo texto linha texto linha contagem CSharp

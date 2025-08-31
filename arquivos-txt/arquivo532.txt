@@ -1,0 +1,5 @@
+=== Arquivo número 532 ===
+Arquivo 532, linha 1: thread teste CSharp await palavra async thread async linha
+Arquivo 532, linha 2: texto teste texto arquivo await await linha
+Arquivo 532, linha 3: async async async linha contagem CSharp await
+Arquivo 532, linha 4: arquivo linha thread arquivo teste arquivo teste palavra texto texto arquivo

@@ -1,0 +1,20 @@
+=== Arquivo número 531 ===
+Arquivo 531, linha 1: await await teste linha texto await await contagem linha teste
+Arquivo 531, linha 2: teste thread await arquivo arquivo thread CSharp CSharp async
+Arquivo 531, linha 3: CSharp async thread await teste
+Arquivo 531, linha 4: palavra arquivo await thread async contagem
+Arquivo 531, linha 5: texto teste palavra thread texto texto teste thread await async palavra texto
+Arquivo 531, linha 6: arquivo linha async linha arquivo async teste await teste arquivo contagem texto
+Arquivo 531, linha 7: thread async async CSharp palavra CSharp palavra
+Arquivo 531, linha 8: CSharp texto await thread palavra teste arquivo thread texto await async
+Arquivo 531, linha 9: linha teste palavra async thread linha texto texto teste contagem arquivo
+Arquivo 531, linha 10: arquivo palavra teste await contagem contagem linha texto
+Arquivo 531, linha 11: texto async linha await async texto palavra linha async teste arquivo palavra
+Arquivo 531, linha 12: contagem thread contagem texto linha CSharp
+Arquivo 531, linha 13: palavra palavra CSharp await teste teste linha
+Arquivo 531, linha 14: await thread contagem arquivo arquivo contagem contagem linha contagem texto teste thread
+Arquivo 531, linha 15: contagem arquivo await async CSharp await await texto texto await CSharp CSharp
+Arquivo 531, linha 16: async teste arquivo thread CSharp palavra
+Arquivo 531, linha 17: contagem CSharp await linha thread palavra CSharp await CSharp await texto contagem
+Arquivo 531, linha 18: texto linha palavra teste CSharp contagem CSharp teste palavra
+Arquivo 531, linha 19: linha texto CSharp thread palavra arquivo arquivo arquivo thread

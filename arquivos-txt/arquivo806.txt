@@ -1,0 +1,14 @@
+=== Arquivo número 806 ===
+Arquivo 806, linha 1: thread teste palavra texto await
+Arquivo 806, linha 2: linha await arquivo palavra CSharp palavra thread
+Arquivo 806, linha 3: contagem await contagem arquivo arquivo
+Arquivo 806, linha 4: arquivo palavra contagem teste CSharp
+Arquivo 806, linha 5: thread contagem async thread linha teste linha thread contagem linha async
+Arquivo 806, linha 6: arquivo await palavra linha arquivo arquivo CSharp
+Arquivo 806, linha 7: arquivo texto teste teste texto linha texto arquivo arquivo CSharp
+Arquivo 806, linha 8: texto await teste texto contagem await palavra thread arquivo
+Arquivo 806, linha 9: thread await texto contagem palavra linha arquivo CSharp
+Arquivo 806, linha 10: teste palavra linha teste await CSharp contagem texto arquivo
+Arquivo 806, linha 11: CSharp async texto linha texto CSharp
+Arquivo 806, linha 12: contagem contagem async thread texto
+Arquivo 806, linha 13: linha CSharp palavra CSharp thread

@@ -1,0 +1,18 @@
+=== Arquivo número 820 ===
+Arquivo 820, linha 1: teste await teste linha linha teste
+Arquivo 820, linha 2: await texto texto CSharp linha texto await CSharp arquivo texto texto arquivo
+Arquivo 820, linha 3: await async async await await async contagem linha contagem arquivo
+Arquivo 820, linha 4: linha arquivo thread texto contagem await palavra contagem
+Arquivo 820, linha 5: async linha CSharp contagem await async await teste teste teste
+Arquivo 820, linha 6: await async async async teste contagem async texto palavra arquivo
+Arquivo 820, linha 7: palavra linha async linha texto async CSharp linha CSharp async teste
+Arquivo 820, linha 8: palavra await texto palavra CSharp palavra
+Arquivo 820, linha 9: texto palavra CSharp arquivo linha CSharp
+Arquivo 820, linha 10: linha palavra teste await CSharp CSharp CSharp await async linha async contagem
+Arquivo 820, linha 11: contagem texto texto async contagem teste arquivo teste linha thread teste
+Arquivo 820, linha 12: contagem teste async thread await palavra async thread teste thread linha
+Arquivo 820, linha 13: await linha teste await await linha
+Arquivo 820, linha 14: arquivo palavra contagem arquivo await arquivo palavra CSharp async await
+Arquivo 820, linha 15: CSharp await await CSharp linha teste linha teste CSharp async thread
+Arquivo 820, linha 16: arquivo arquivo await await CSharp linha async contagem
+Arquivo 820, linha 17: texto teste teste texto linha linha CSharp await

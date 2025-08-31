@@ -1,0 +1,16 @@
+=== Arquivo número 415 ===
+Arquivo 415, linha 1: arquivo arquivo async await async arquivo teste
+Arquivo 415, linha 2: texto CSharp linha teste await contagem palavra texto arquivo linha async thread
+Arquivo 415, linha 3: texto palavra thread texto texto
+Arquivo 415, linha 4: teste linha contagem palavra linha thread
+Arquivo 415, linha 5: linha texto async contagem linha CSharp CSharp await
+Arquivo 415, linha 6: async arquivo arquivo linha async palavra teste CSharp palavra palavra texto async
+Arquivo 415, linha 7: teste CSharp await contagem async contagem contagem async linha await thread
+Arquivo 415, linha 8: thread CSharp async teste contagem teste async linha await contagem palavra
+Arquivo 415, linha 9: async await thread texto CSharp thread thread linha teste
+Arquivo 415, linha 10: teste await thread CSharp thread
+Arquivo 415, linha 11: texto async texto teste texto
+Arquivo 415, linha 12: contagem arquivo contagem palavra thread contagem
+Arquivo 415, linha 13: await palavra thread thread arquivo async texto async CSharp CSharp
+Arquivo 415, linha 14: linha arquivo async thread palavra
+Arquivo 415, linha 15: await contagem contagem contagem arquivo async

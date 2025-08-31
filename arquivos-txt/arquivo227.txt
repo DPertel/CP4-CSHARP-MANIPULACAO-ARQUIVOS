@@ -1,0 +1,15 @@
+=== Arquivo número 227 ===
+Arquivo 227, linha 1: teste palavra teste texto async teste CSharp
+Arquivo 227, linha 2: thread teste thread arquivo teste await
+Arquivo 227, linha 3: teste palavra contagem palavra palavra arquivo linha palavra
+Arquivo 227, linha 4: thread texto await CSharp teste contagem contagem linha texto arquivo
+Arquivo 227, linha 5: arquivo linha async palavra await
+Arquivo 227, linha 6: texto thread contagem async palavra contagem
+Arquivo 227, linha 7: teste palavra contagem thread await
+Arquivo 227, linha 8: CSharp async thread await linha texto texto CSharp
+Arquivo 227, linha 9: CSharp texto linha thread teste
+Arquivo 227, linha 10: linha await texto contagem teste
+Arquivo 227, linha 11: CSharp teste palavra arquivo async teste await thread async
+Arquivo 227, linha 12: texto await palavra await palavra thread thread contagem
+Arquivo 227, linha 13: texto thread teste arquivo thread arquivo texto contagem CSharp arquivo
+Arquivo 227, linha 14: teste linha teste contagem thread

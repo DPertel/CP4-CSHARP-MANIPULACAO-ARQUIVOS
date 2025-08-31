@@ -1,0 +1,7 @@
+=== Arquivo número 22 ===
+Arquivo 22, linha 1: arquivo contagem linha async contagem linha texto
+Arquivo 22, linha 2: await contagem await arquivo await thread arquivo await linha async await texto
+Arquivo 22, linha 3: arquivo CSharp thread CSharp async texto contagem thread palavra
+Arquivo 22, linha 4: arquivo CSharp palavra async texto texto texto thread palavra arquivo palavra
+Arquivo 22, linha 5: contagem linha CSharp CSharp thread linha linha teste contagem contagem await
+Arquivo 22, linha 6: await linha arquivo texto linha palavra async

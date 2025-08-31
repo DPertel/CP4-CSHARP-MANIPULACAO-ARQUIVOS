@@ -1,0 +1,16 @@
+=== Arquivo número 367 ===
+Arquivo 367, linha 1: await async arquivo async linha await palavra palavra
+Arquivo 367, linha 2: CSharp CSharp texto arquivo linha async palavra await palavra texto CSharp thread
+Arquivo 367, linha 3: CSharp contagem linha contagem await palavra teste palavra
+Arquivo 367, linha 4: CSharp teste thread texto linha linha thread async teste async teste
+Arquivo 367, linha 5: contagem await linha palavra palavra CSharp arquivo await
+Arquivo 367, linha 6: texto teste CSharp linha thread teste await
+Arquivo 367, linha 7: async CSharp CSharp contagem CSharp
+Arquivo 367, linha 8: CSharp thread arquivo CSharp texto thread palavra
+Arquivo 367, linha 9: texto linha contagem arquivo thread arquivo teste arquivo
+Arquivo 367, linha 10: linha CSharp palavra palavra async linha thread teste arquivo
+Arquivo 367, linha 11: await thread await palavra contagem teste await thread arquivo CSharp
+Arquivo 367, linha 12: thread CSharp thread palavra palavra
+Arquivo 367, linha 13: CSharp async linha teste teste thread linha palavra linha await texto
+Arquivo 367, linha 14: CSharp CSharp await teste contagem texto arquivo arquivo linha
+Arquivo 367, linha 15: async teste linha thread texto async async texto teste async

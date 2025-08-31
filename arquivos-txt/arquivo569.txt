@@ -1,0 +1,8 @@
+=== Arquivo número 569 ===
+Arquivo 569, linha 1: texto teste palavra CSharp CSharp async arquivo
+Arquivo 569, linha 2: arquivo async linha texto linha contagem thread contagem teste arquivo await teste
+Arquivo 569, linha 3: await palavra CSharp palavra teste async arquivo async thread
+Arquivo 569, linha 4: arquivo linha palavra async async CSharp texto arquivo async texto
+Arquivo 569, linha 5: await teste teste thread async CSharp teste
+Arquivo 569, linha 6: contagem CSharp CSharp await teste palavra
+Arquivo 569, linha 7: await palavra arquivo contagem palavra texto arquivo linha thread

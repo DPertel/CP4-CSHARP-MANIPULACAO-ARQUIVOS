@@ -1,0 +1,9 @@
+=== Arquivo número 351 ===
+Arquivo 351, linha 1: thread contagem arquivo linha contagem linha arquivo texto async CSharp teste contagem
+Arquivo 351, linha 2: async palavra texto async palavra arquivo
+Arquivo 351, linha 3: palavra texto texto async texto arquivo teste contagem arquivo
+Arquivo 351, linha 4: arquivo await async contagem texto linha contagem teste texto palavra texto palavra
+Arquivo 351, linha 5: contagem async thread CSharp palavra async
+Arquivo 351, linha 6: texto teste arquivo texto arquivo thread texto texto palavra async
+Arquivo 351, linha 7: thread await contagem async CSharp
+Arquivo 351, linha 8: contagem CSharp palavra linha contagem contagem thread linha

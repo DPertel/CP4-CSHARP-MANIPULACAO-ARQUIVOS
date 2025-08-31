@@ -1,0 +1,18 @@
+=== Arquivo número 52 ===
+Arquivo 52, linha 1: palavra async CSharp linha palavra async thread
+Arquivo 52, linha 2: contagem linha teste linha thread contagem thread arquivo thread palavra CSharp
+Arquivo 52, linha 3: await linha async thread arquivo thread CSharp arquivo thread
+Arquivo 52, linha 4: linha palavra contagem palavra teste linha contagem await CSharp arquivo
+Arquivo 52, linha 5: await contagem thread linha await teste await thread
+Arquivo 52, linha 6: teste teste arquivo palavra async palavra arquivo linha
+Arquivo 52, linha 7: teste async async arquivo linha texto
+Arquivo 52, linha 8: linha async texto teste await await
+Arquivo 52, linha 9: thread contagem palavra texto texto texto texto CSharp palavra arquivo linha teste
+Arquivo 52, linha 10: CSharp async async CSharp linha
+Arquivo 52, linha 11: linha await CSharp palavra linha linha
+Arquivo 52, linha 12: texto contagem thread arquivo await texto await texto await CSharp teste
+Arquivo 52, linha 13: async thread await CSharp linha CSharp
+Arquivo 52, linha 14: texto teste arquivo palavra contagem await await texto arquivo async
+Arquivo 52, linha 15: linha CSharp async palavra await palavra teste arquivo palavra palavra
+Arquivo 52, linha 16: CSharp linha async contagem thread thread arquivo palavra linha async arquivo
+Arquivo 52, linha 17: await texto contagem CSharp palavra CSharp

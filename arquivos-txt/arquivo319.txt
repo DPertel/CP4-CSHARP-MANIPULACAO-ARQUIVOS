@@ -1,0 +1,15 @@
+=== Arquivo número 319 ===
+Arquivo 319, linha 1: CSharp contagem await texto contagem
+Arquivo 319, linha 2: contagem palavra texto async contagem texto linha texto palavra thread linha
+Arquivo 319, linha 3: teste teste teste texto contagem teste await palavra
+Arquivo 319, linha 4: thread CSharp thread async await
+Arquivo 319, linha 5: linha thread arquivo await arquivo async palavra
+Arquivo 319, linha 6: contagem palavra async await teste teste await
+Arquivo 319, linha 7: CSharp await texto async await teste
+Arquivo 319, linha 8: CSharp linha CSharp async CSharp CSharp teste teste arquivo thread
+Arquivo 319, linha 9: await arquivo CSharp palavra thread async arquivo CSharp texto linha arquivo
+Arquivo 319, linha 10: contagem contagem palavra CSharp teste contagem
+Arquivo 319, linha 11: linha thread palavra CSharp await contagem contagem CSharp palavra CSharp contagem
+Arquivo 319, linha 12: CSharp palavra texto arquivo linha thread texto linha async
+Arquivo 319, linha 13: await linha teste async texto CSharp await async thread texto linha
+Arquivo 319, linha 14: await thread contagem arquivo async teste linha linha

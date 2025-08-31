@@ -1,0 +1,19 @@
+=== Arquivo número 510 ===
+Arquivo 510, linha 1: teste palavra arquivo thread teste palavra arquivo linha teste teste contagem texto
+Arquivo 510, linha 2: CSharp await CSharp arquivo palavra thread
+Arquivo 510, linha 3: await CSharp arquivo contagem linha teste
+Arquivo 510, linha 4: texto arquivo arquivo thread teste contagem arquivo CSharp
+Arquivo 510, linha 5: CSharp await CSharp linha CSharp palavra arquivo texto
+Arquivo 510, linha 6: teste arquivo contagem thread teste arquivo teste await palavra await thread
+Arquivo 510, linha 7: contagem texto contagem arquivo await await contagem
+Arquivo 510, linha 8: async arquivo palavra CSharp CSharp teste await teste CSharp CSharp texto
+Arquivo 510, linha 9: CSharp texto await arquivo CSharp
+Arquivo 510, linha 10: palavra async arquivo await thread arquivo
+Arquivo 510, linha 11: async async CSharp texto contagem
+Arquivo 510, linha 12: teste linha texto await thread thread texto teste contagem
+Arquivo 510, linha 13: linha teste CSharp CSharp thread thread thread CSharp
+Arquivo 510, linha 14: thread await contagem await linha
+Arquivo 510, linha 15: palavra arquivo CSharp linha arquivo texto
+Arquivo 510, linha 16: CSharp await texto async CSharp texto CSharp thread async palavra arquivo CSharp
+Arquivo 510, linha 17: thread contagem CSharp async texto CSharp thread
+Arquivo 510, linha 18: arquivo thread teste contagem contagem

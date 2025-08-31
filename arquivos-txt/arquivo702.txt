@@ -1,0 +1,6 @@
+=== Arquivo número 702 ===
+Arquivo 702, linha 1: arquivo CSharp palavra arquivo palavra texto async await texto CSharp async
+Arquivo 702, linha 2: linha texto texto CSharp thread
+Arquivo 702, linha 3: async palavra thread palavra teste linha thread CSharp texto async
+Arquivo 702, linha 4: async palavra teste teste arquivo await teste arquivo linha await async
+Arquivo 702, linha 5: texto palavra thread linha thread async thread async async

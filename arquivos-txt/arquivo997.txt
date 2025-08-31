@@ -1,0 +1,14 @@
+=== Arquivo número 997 ===
+Arquivo 997, linha 1: async thread arquivo teste await
+Arquivo 997, linha 2: linha palavra arquivo teste await arquivo await async
+Arquivo 997, linha 3: async arquivo arquivo CSharp arquivo linha arquivo CSharp
+Arquivo 997, linha 4: CSharp await linha teste linha teste arquivo arquivo
+Arquivo 997, linha 5: linha texto CSharp await linha await linha teste async arquivo
+Arquivo 997, linha 6: arquivo palavra CSharp CSharp linha teste thread thread
+Arquivo 997, linha 7: linha contagem palavra await arquivo texto await palavra linha CSharp palavra palavra
+Arquivo 997, linha 8: contagem CSharp async CSharp await thread await linha CSharp teste thread
+Arquivo 997, linha 9: linha thread async await arquivo
+Arquivo 997, linha 10: arquivo arquivo thread linha arquivo texto
+Arquivo 997, linha 11: thread arquivo palavra texto thread teste thread contagem
+Arquivo 997, linha 12: CSharp async await arquivo linha async texto linha
+Arquivo 997, linha 13: texto await palavra contagem thread palavra texto async teste await await arquivo

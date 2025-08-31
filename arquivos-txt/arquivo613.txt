@@ -1,0 +1,12 @@
+=== Arquivo número 613 ===
+Arquivo 613, linha 1: CSharp linha texto arquivo CSharp
+Arquivo 613, linha 2: thread texto thread linha CSharp await teste linha linha CSharp arquivo
+Arquivo 613, linha 3: CSharp palavra thread linha contagem teste CSharp arquivo teste teste await teste
+Arquivo 613, linha 4: CSharp async async contagem texto texto linha palavra arquivo async await texto
+Arquivo 613, linha 5: teste contagem async contagem async texto contagem teste palavra contagem linha
+Arquivo 613, linha 6: async async palavra arquivo contagem CSharp
+Arquivo 613, linha 7: contagem texto CSharp texto contagem async linha
+Arquivo 613, linha 8: await arquivo palavra texto thread arquivo
+Arquivo 613, linha 9: arquivo teste linha contagem linha arquivo CSharp thread palavra thread arquivo linha
+Arquivo 613, linha 10: palavra thread CSharp thread palavra thread thread palavra
+Arquivo 613, linha 11: thread contagem thread CSharp thread thread async await CSharp thread

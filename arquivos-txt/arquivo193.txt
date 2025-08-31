@@ -1,0 +1,20 @@
+=== Arquivo número 193 ===
+Arquivo 193, linha 1: await thread texto arquivo CSharp palavra thread texto await palavra
+Arquivo 193, linha 2: palavra texto await linha palavra arquivo await CSharp contagem palavra linha
+Arquivo 193, linha 3: arquivo linha contagem linha texto teste teste texto CSharp await async
+Arquivo 193, linha 4: palavra palavra palavra arquivo await linha linha arquivo palavra arquivo
+Arquivo 193, linha 5: teste async async texto linha CSharp thread contagem texto palavra
+Arquivo 193, linha 6: thread async arquivo await teste CSharp palavra linha await CSharp
+Arquivo 193, linha 7: linha CSharp async async arquivo
+Arquivo 193, linha 8: async linha await thread arquivo linha linha thread CSharp arquivo async
+Arquivo 193, linha 9: linha thread linha teste texto
+Arquivo 193, linha 10: linha palavra await arquivo texto CSharp contagem teste async arquivo contagem
+Arquivo 193, linha 11: thread texto contagem teste teste contagem arquivo
+Arquivo 193, linha 12: async arquivo texto CSharp teste arquivo arquivo contagem texto CSharp CSharp arquivo
+Arquivo 193, linha 13: contagem arquivo await CSharp contagem async palavra
+Arquivo 193, linha 14: async async contagem texto teste thread async await arquivo linha
+Arquivo 193, linha 15: arquivo async texto palavra CSharp thread thread linha
+Arquivo 193, linha 16: palavra texto arquivo palavra thread thread palavra arquivo linha texto teste
+Arquivo 193, linha 17: texto teste teste contagem CSharp thread texto
+Arquivo 193, linha 18: teste contagem linha thread async await
+Arquivo 193, linha 19: teste teste contagem thread texto arquivo palavra CSharp palavra contagem texto contagem

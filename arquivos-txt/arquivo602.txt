@@ -1,0 +1,13 @@
+=== Arquivo número 602 ===
+Arquivo 602, linha 1: async await CSharp arquivo linha texto CSharp teste teste teste
+Arquivo 602, linha 2: teste async arquivo arquivo async palavra
+Arquivo 602, linha 3: CSharp teste palavra teste texto linha contagem thread async palavra arquivo contagem
+Arquivo 602, linha 4: async linha linha contagem texto await contagem await teste palavra
+Arquivo 602, linha 5: linha texto CSharp texto teste async contagem
+Arquivo 602, linha 6: texto linha linha contagem thread async teste async arquivo teste await thread
+Arquivo 602, linha 7: await texto texto arquivo thread async linha CSharp
+Arquivo 602, linha 8: await teste arquivo await palavra
+Arquivo 602, linha 9: CSharp contagem palavra linha await linha await CSharp texto
+Arquivo 602, linha 10: arquivo arquivo palavra thread linha palavra
+Arquivo 602, linha 11: linha arquivo async texto await teste teste palavra texto async
+Arquivo 602, linha 12: async async texto thread await palavra

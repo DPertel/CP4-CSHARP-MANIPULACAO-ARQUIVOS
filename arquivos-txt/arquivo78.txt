@@ -1,0 +1,20 @@
+=== Arquivo número 78 ===
+Arquivo 78, linha 1: palavra teste palavra await texto CSharp thread CSharp palavra await teste
+Arquivo 78, linha 2: async teste async arquivo thread palavra
+Arquivo 78, linha 3: texto await thread palavra arquivo async await texto
+Arquivo 78, linha 4: CSharp arquivo await await CSharp teste arquivo texto teste texto
+Arquivo 78, linha 5: teste arquivo linha CSharp contagem contagem
+Arquivo 78, linha 6: arquivo contagem texto async async palavra thread linha teste texto async
+Arquivo 78, linha 7: arquivo async thread teste thread
+Arquivo 78, linha 8: arquivo await contagem await teste palavra async palavra await palavra thread
+Arquivo 78, linha 9: thread palavra thread teste linha texto arquivo arquivo teste linha contagem contagem
+Arquivo 78, linha 10: linha teste texto palavra async
+Arquivo 78, linha 11: thread arquivo texto palavra teste
+Arquivo 78, linha 12: thread linha teste thread async thread arquivo thread linha contagem
+Arquivo 78, linha 13: texto linha thread arquivo linha async async
+Arquivo 78, linha 14: texto CSharp texto async arquivo teste await arquivo
+Arquivo 78, linha 15: linha palavra arquivo async thread palavra contagem teste
+Arquivo 78, linha 16: texto await await CSharp CSharp thread arquivo texto contagem arquivo linha
+Arquivo 78, linha 17: teste teste linha thread thread teste arquivo texto
+Arquivo 78, linha 18: palavra texto arquivo CSharp thread texto await CSharp async async CSharp
+Arquivo 78, linha 19: arquivo linha teste palavra thread CSharp thread palavra

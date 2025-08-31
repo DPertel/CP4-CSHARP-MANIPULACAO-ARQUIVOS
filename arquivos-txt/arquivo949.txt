@@ -1,0 +1,17 @@
+=== Arquivo número 949 ===
+Arquivo 949, linha 1: CSharp await CSharp linha await contagem teste CSharp await
+Arquivo 949, linha 2: texto CSharp linha texto palavra
+Arquivo 949, linha 3: await await texto texto CSharp thread await thread contagem linha
+Arquivo 949, linha 4: await teste async palavra texto palavra teste teste CSharp
+Arquivo 949, linha 5: texto await arquivo texto async linha
+Arquivo 949, linha 6: teste palavra thread linha CSharp thread linha linha CSharp
+Arquivo 949, linha 7: async CSharp texto arquivo arquivo await
+Arquivo 949, linha 8: async arquivo async teste texto await contagem await
+Arquivo 949, linha 9: thread CSharp thread palavra teste contagem thread arquivo arquivo contagem thread arquivo
+Arquivo 949, linha 10: palavra thread arquivo palavra contagem arquivo await teste await contagem contagem
+Arquivo 949, linha 11: texto await thread thread await async texto linha await await contagem contagem
+Arquivo 949, linha 12: palavra texto linha palavra arquivo linha
+Arquivo 949, linha 13: texto palavra palavra async CSharp await teste
+Arquivo 949, linha 14: linha texto thread texto texto await contagem texto async
+Arquivo 949, linha 15: palavra thread async await async
+Arquivo 949, linha 16: async thread palavra thread thread contagem linha CSharp palavra await

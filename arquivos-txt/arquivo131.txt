@@ -1,0 +1,14 @@
+=== Arquivo número 131 ===
+Arquivo 131, linha 1: texto contagem texto palavra CSharp linha
+Arquivo 131, linha 2: await thread thread teste async thread contagem palavra thread
+Arquivo 131, linha 3: teste teste teste async linha linha arquivo async contagem thread
+Arquivo 131, linha 4: await CSharp await teste CSharp await thread await arquivo texto CSharp
+Arquivo 131, linha 5: await palavra palavra thread linha
+Arquivo 131, linha 6: CSharp async linha CSharp texto texto linha await palavra texto
+Arquivo 131, linha 7: CSharp thread contagem arquivo texto CSharp thread async await texto arquivo palavra
+Arquivo 131, linha 8: thread linha teste texto CSharp await async palavra palavra
+Arquivo 131, linha 9: contagem CSharp linha thread teste linha await async linha texto contagem CSharp
+Arquivo 131, linha 10: contagem contagem palavra contagem arquivo contagem teste contagem async linha
+Arquivo 131, linha 11: await arquivo await teste texto
+Arquivo 131, linha 12: CSharp await arquivo palavra teste await texto teste
+Arquivo 131, linha 13: texto await palavra arquivo await CSharp CSharp teste linha async palavra

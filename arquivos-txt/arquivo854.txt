@@ -1,0 +1,5 @@
+=== Arquivo número 854 ===
+Arquivo 854, linha 1: await palavra texto teste thread teste arquivo arquivo async
+Arquivo 854, linha 2: texto linha palavra palavra CSharp
+Arquivo 854, linha 3: await arquivo texto palavra thread thread teste teste palavra async async linha
+Arquivo 854, linha 4: await thread await linha palavra

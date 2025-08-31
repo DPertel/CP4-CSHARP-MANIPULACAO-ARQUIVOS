@@ -1,0 +1,15 @@
+=== Arquivo número 306 ===
+Arquivo 306, linha 1: linha linha async async teste async arquivo
+Arquivo 306, linha 2: CSharp palavra palavra linha contagem linha palavra linha palavra contagem await linha
+Arquivo 306, linha 3: async texto arquivo thread teste CSharp contagem texto CSharp palavra async
+Arquivo 306, linha 4: linha async async async linha linha
+Arquivo 306, linha 5: contagem thread async await palavra await thread arquivo teste
+Arquivo 306, linha 6: contagem thread contagem linha async await arquivo arquivo contagem
+Arquivo 306, linha 7: CSharp await texto teste thread async CSharp
+Arquivo 306, linha 8: texto teste texto await contagem linha contagem await texto async contagem palavra
+Arquivo 306, linha 9: contagem thread teste await await
+Arquivo 306, linha 10: texto arquivo CSharp palavra texto CSharp contagem thread texto linha linha
+Arquivo 306, linha 11: CSharp await linha CSharp texto linha CSharp async teste
+Arquivo 306, linha 12: palavra CSharp texto CSharp palavra arquivo arquivo contagem await teste palavra linha
+Arquivo 306, linha 13: CSharp CSharp texto teste contagem palavra palavra contagem await linha thread
+Arquivo 306, linha 14: texto async teste teste CSharp palavra

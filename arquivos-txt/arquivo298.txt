@@ -1,0 +1,16 @@
+=== Arquivo número 298 ===
+Arquivo 298, linha 1: async await teste linha palavra await arquivo texto CSharp linha contagem
+Arquivo 298, linha 2: CSharp arquivo async CSharp thread async thread palavra
+Arquivo 298, linha 3: CSharp await CSharp async palavra palavra contagem arquivo palavra linha CSharp
+Arquivo 298, linha 4: contagem async arquivo palavra linha teste contagem linha linha
+Arquivo 298, linha 5: linha await arquivo linha texto await palavra teste linha contagem linha linha
+Arquivo 298, linha 6: thread contagem CSharp async await arquivo thread palavra arquivo teste CSharp contagem
+Arquivo 298, linha 7: thread linha texto teste CSharp thread contagem CSharp teste
+Arquivo 298, linha 8: texto linha contagem thread contagem await arquivo await CSharp CSharp async
+Arquivo 298, linha 9: linha palavra arquivo await arquivo palavra contagem
+Arquivo 298, linha 10: async CSharp linha texto teste await arquivo texto contagem
+Arquivo 298, linha 11: texto CSharp linha contagem CSharp texto CSharp await async
+Arquivo 298, linha 12: texto palavra thread texto thread palavra arquivo
+Arquivo 298, linha 13: contagem async linha teste async
+Arquivo 298, linha 14: teste linha CSharp linha await palavra palavra async async async palavra
+Arquivo 298, linha 15: palavra async async palavra CSharp await

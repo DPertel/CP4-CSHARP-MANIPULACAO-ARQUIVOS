@@ -1,0 +1,14 @@
+=== Arquivo número 471 ===
+Arquivo 471, linha 1: linha thread contagem contagem linha arquivo await
+Arquivo 471, linha 2: palavra teste linha texto await async CSharp
+Arquivo 471, linha 3: await texto contagem arquivo arquivo
+Arquivo 471, linha 4: texto arquivo teste palavra thread teste CSharp contagem
+Arquivo 471, linha 5: contagem await thread contagem contagem contagem async arquivo await palavra contagem
+Arquivo 471, linha 6: arquivo CSharp await await contagem async
+Arquivo 471, linha 7: CSharp CSharp await texto palavra await arquivo linha linha arquivo
+Arquivo 471, linha 8: texto thread contagem await palavra palavra async teste
+Arquivo 471, linha 9: thread async await contagem CSharp texto contagem palavra linha contagem async
+Arquivo 471, linha 10: await palavra await palavra thread async CSharp await thread
+Arquivo 471, linha 11: linha linha linha texto thread linha teste thread palavra arquivo teste texto
+Arquivo 471, linha 12: arquivo texto thread await CSharp
+Arquivo 471, linha 13: linha linha palavra teste linha linha texto

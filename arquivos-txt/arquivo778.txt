@@ -1,0 +1,17 @@
+=== Arquivo número 778 ===
+Arquivo 778, linha 1: texto arquivo teste palavra palavra contagem contagem thread CSharp thread CSharp teste
+Arquivo 778, linha 2: texto teste palavra contagem texto linha CSharp arquivo arquivo texto await
+Arquivo 778, linha 3: arquivo palavra CSharp await contagem async thread linha linha teste
+Arquivo 778, linha 4: arquivo thread arquivo arquivo async async texto contagem async arquivo await
+Arquivo 778, linha 5: linha async linha thread CSharp thread teste async texto palavra arquivo
+Arquivo 778, linha 6: async CSharp linha await await contagem linha
+Arquivo 778, linha 7: async texto await CSharp async async async async await
+Arquivo 778, linha 8: teste CSharp texto palavra linha
+Arquivo 778, linha 9: arquivo CSharp texto arquivo arquivo texto
+Arquivo 778, linha 10: teste async arquivo texto await contagem arquivo palavra teste thread teste async
+Arquivo 778, linha 11: async arquivo linha teste palavra linha texto async palavra contagem contagem
+Arquivo 778, linha 12: async palavra teste async arquivo contagem
+Arquivo 778, linha 13: async linha CSharp arquivo contagem thread await texto
+Arquivo 778, linha 14: CSharp CSharp arquivo linha palavra arquivo texto texto linha linha CSharp
+Arquivo 778, linha 15: contagem await contagem contagem thread arquivo thread
+Arquivo 778, linha 16: palavra linha contagem texto async

@@ -1,0 +1,8 @@
+=== Arquivo número 428 ===
+Arquivo 428, linha 1: async teste palavra linha await
+Arquivo 428, linha 2: texto texto teste contagem palavra CSharp async
+Arquivo 428, linha 3: contagem await async texto await texto
+Arquivo 428, linha 4: contagem CSharp async thread async teste arquivo palavra CSharp await palavra
+Arquivo 428, linha 5: teste palavra texto contagem contagem arquivo arquivo async CSharp palavra palavra
+Arquivo 428, linha 6: teste contagem contagem arquivo CSharp
+Arquivo 428, linha 7: linha palavra contagem texto teste teste teste async teste arquivo texto CSharp

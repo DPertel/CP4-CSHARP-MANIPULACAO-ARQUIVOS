@@ -1,0 +1,13 @@
+=== Arquivo número 535 ===
+Arquivo 535, linha 1: await CSharp palavra palavra contagem teste linha linha
+Arquivo 535, linha 2: async await thread CSharp arquivo contagem
+Arquivo 535, linha 3: teste thread CSharp async teste linha
+Arquivo 535, linha 4: contagem linha linha async palavra contagem linha palavra
+Arquivo 535, linha 5: arquivo texto arquivo thread texto thread teste CSharp teste
+Arquivo 535, linha 6: palavra async arquivo teste arquivo await contagem teste texto CSharp async linha
+Arquivo 535, linha 7: palavra thread CSharp contagem CSharp
+Arquivo 535, linha 8: arquivo texto teste palavra await arquivo arquivo await
+Arquivo 535, linha 9: CSharp palavra teste texto await
+Arquivo 535, linha 10: contagem contagem CSharp arquivo await contagem arquivo thread linha
+Arquivo 535, linha 11: linha texto linha palavra thread thread CSharp palavra
+Arquivo 535, linha 12: CSharp teste async texto contagem

@@ -1,0 +1,13 @@
+=== Arquivo número 746 ===
+Arquivo 746, linha 1: palavra arquivo CSharp await texto await contagem async teste async teste
+Arquivo 746, linha 2: teste texto teste thread texto thread teste teste
+Arquivo 746, linha 3: palavra arquivo CSharp await teste palavra contagem
+Arquivo 746, linha 4: teste contagem linha CSharp thread arquivo arquivo texto teste await linha
+Arquivo 746, linha 5: arquivo texto contagem teste texto await linha palavra arquivo CSharp arquivo async
+Arquivo 746, linha 6: texto await async arquivo linha teste teste arquivo
+Arquivo 746, linha 7: teste palavra contagem contagem teste thread arquivo arquivo
+Arquivo 746, linha 8: arquivo contagem contagem linha async arquivo teste CSharp await await
+Arquivo 746, linha 9: CSharp texto thread teste CSharp teste
+Arquivo 746, linha 10: arquivo async teste linha contagem contagem thread
+Arquivo 746, linha 11: teste teste teste palavra palavra palavra palavra palavra async async linha contagem
+Arquivo 746, linha 12: teste arquivo CSharp CSharp arquivo teste arquivo teste CSharp contagem thread

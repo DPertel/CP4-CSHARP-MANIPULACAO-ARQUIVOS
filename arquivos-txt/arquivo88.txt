@@ -1,0 +1,13 @@
+=== Arquivo número 88 ===
+Arquivo 88, linha 1: texto texto thread contagem contagem await texto async await texto
+Arquivo 88, linha 2: contagem thread thread thread await arquivo texto texto contagem
+Arquivo 88, linha 3: palavra contagem CSharp thread await contagem linha teste texto await thread
+Arquivo 88, linha 4: arquivo texto palavra thread await CSharp await CSharp texto contagem CSharp arquivo
+Arquivo 88, linha 5: thread CSharp teste arquivo async arquivo palavra teste CSharp async
+Arquivo 88, linha 6: await thread async contagem palavra await await
+Arquivo 88, linha 7: palavra await contagem linha teste linha palavra arquivo
+Arquivo 88, linha 8: await linha CSharp CSharp CSharp await thread
+Arquivo 88, linha 9: CSharp arquivo CSharp linha palavra texto linha linha
+Arquivo 88, linha 10: contagem arquivo linha await arquivo CSharp contagem CSharp
+Arquivo 88, linha 11: async palavra contagem arquivo texto teste arquivo
+Arquivo 88, linha 12: contagem async texto linha contagem arquivo

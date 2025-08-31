@@ -1,0 +1,17 @@
+=== Arquivo número 271 ===
+Arquivo 271, linha 1: texto palavra await palavra await teste async texto
+Arquivo 271, linha 2: contagem await thread teste palavra thread teste contagem async palavra
+Arquivo 271, linha 3: await async CSharp linha texto teste teste CSharp thread contagem palavra contagem
+Arquivo 271, linha 4: texto async thread contagem teste CSharp
+Arquivo 271, linha 5: contagem CSharp contagem teste teste texto arquivo thread CSharp thread thread
+Arquivo 271, linha 6: teste thread teste palavra linha
+Arquivo 271, linha 7: contagem palavra await thread async arquivo contagem CSharp thread async texto contagem
+Arquivo 271, linha 8: async teste texto arquivo await arquivo contagem
+Arquivo 271, linha 9: teste teste texto await contagem await arquivo texto linha
+Arquivo 271, linha 10: palavra teste thread palavra palavra linha teste async linha arquivo contagem await
+Arquivo 271, linha 11: await teste palavra palavra linha contagem texto
+Arquivo 271, linha 12: contagem teste async await arquivo texto thread teste async contagem
+Arquivo 271, linha 13: contagem palavra texto async CSharp CSharp texto linha
+Arquivo 271, linha 14: thread async arquivo texto palavra linha arquivo linha thread arquivo async linha
+Arquivo 271, linha 15: texto async contagem await palavra texto
+Arquivo 271, linha 16: arquivo palavra await texto arquivo texto linha palavra teste

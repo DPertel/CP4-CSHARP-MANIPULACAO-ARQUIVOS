@@ -1,0 +1,12 @@
+=== Arquivo número 291 ===
+Arquivo 291, linha 1: teste teste await palavra await async teste contagem
+Arquivo 291, linha 2: async thread async teste teste linha teste
+Arquivo 291, linha 3: async linha texto arquivo CSharp CSharp await linha async texto texto thread
+Arquivo 291, linha 4: async arquivo CSharp await teste
+Arquivo 291, linha 5: async arquivo thread async CSharp contagem teste arquivo arquivo
+Arquivo 291, linha 6: await async teste linha palavra thread linha async contagem teste arquivo async
+Arquivo 291, linha 7: arquivo linha teste CSharp thread contagem
+Arquivo 291, linha 8: arquivo contagem linha contagem texto
+Arquivo 291, linha 9: teste async await palavra arquivo arquivo thread async linha teste
+Arquivo 291, linha 10: linha async arquivo thread teste CSharp async await
+Arquivo 291, linha 11: texto thread arquivo arquivo arquivo

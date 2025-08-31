@@ -1,0 +1,16 @@
+=== Arquivo número 380 ===
+Arquivo 380, linha 1: contagem thread teste arquivo await arquivo thread
+Arquivo 380, linha 2: await palavra await arquivo texto texto
+Arquivo 380, linha 3: teste teste async await palavra
+Arquivo 380, linha 4: await CSharp thread thread palavra thread CSharp teste thread async
+Arquivo 380, linha 5: CSharp contagem arquivo thread await async
+Arquivo 380, linha 6: contagem contagem texto palavra CSharp palavra contagem contagem
+Arquivo 380, linha 7: await contagem thread texto contagem async
+Arquivo 380, linha 8: async contagem CSharp async async thread contagem texto contagem async thread
+Arquivo 380, linha 9: CSharp async palavra async async
+Arquivo 380, linha 10: texto contagem texto thread async async
+Arquivo 380, linha 11: await teste arquivo thread arquivo teste CSharp arquivo teste arquivo
+Arquivo 380, linha 12: texto contagem contagem thread CSharp CSharp thread CSharp teste async contagem teste
+Arquivo 380, linha 13: thread async contagem teste await CSharp await linha texto await
+Arquivo 380, linha 14: teste await contagem await CSharp teste arquivo CSharp
+Arquivo 380, linha 15: contagem linha thread await linha linha palavra arquivo await linha

@@ -1,0 +1,15 @@
+=== Arquivo número 758 ===
+Arquivo 758, linha 1: thread contagem arquivo linha contagem arquivo texto await linha
+Arquivo 758, linha 2: thread CSharp palavra linha await contagem
+Arquivo 758, linha 3: thread linha arquivo thread arquivo async
+Arquivo 758, linha 4: CSharp linha linha contagem thread await
+Arquivo 758, linha 5: CSharp contagem arquivo thread await contagem
+Arquivo 758, linha 6: teste texto await CSharp arquivo
+Arquivo 758, linha 7: palavra thread contagem linha texto linha
+Arquivo 758, linha 8: contagem palavra CSharp contagem linha thread arquivo
+Arquivo 758, linha 9: await arquivo linha await palavra thread
+Arquivo 758, linha 10: async linha await async linha contagem
+Arquivo 758, linha 11: palavra CSharp CSharp thread palavra contagem teste async linha teste CSharp contagem
+Arquivo 758, linha 12: thread CSharp thread await arquivo linha thread await await CSharp
+Arquivo 758, linha 13: await contagem linha contagem contagem texto CSharp async thread
+Arquivo 758, linha 14: async thread thread contagem CSharp await thread

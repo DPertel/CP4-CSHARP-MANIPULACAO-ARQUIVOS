@@ -1,0 +1,11 @@
+=== Arquivo número 550 ===
+Arquivo 550, linha 1: arquivo linha teste linha teste async await linha
+Arquivo 550, linha 2: contagem async CSharp CSharp contagem async
+Arquivo 550, linha 3: contagem contagem teste await texto palavra teste arquivo await thread CSharp
+Arquivo 550, linha 4: async contagem thread await teste
+Arquivo 550, linha 5: await texto contagem teste CSharp linha async await
+Arquivo 550, linha 6: teste teste palavra palavra linha thread
+Arquivo 550, linha 7: await contagem palavra texto texto thread texto CSharp async
+Arquivo 550, linha 8: palavra async await async teste async linha
+Arquivo 550, linha 9: await async texto texto async linha
+Arquivo 550, linha 10: texto contagem contagem contagem async CSharp palavra texto thread

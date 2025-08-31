@@ -1,0 +1,17 @@
+=== Arquivo número 607 ===
+Arquivo 607, linha 1: arquivo teste thread palavra thread async contagem teste teste async texto
+Arquivo 607, linha 2: async teste palavra teste await teste arquivo thread await async teste contagem
+Arquivo 607, linha 3: thread CSharp arquivo thread linha async teste
+Arquivo 607, linha 4: teste async linha CSharp teste contagem contagem
+Arquivo 607, linha 5: thread texto CSharp teste CSharp teste thread await teste arquivo contagem
+Arquivo 607, linha 6: CSharp contagem thread teste await
+Arquivo 607, linha 7: thread teste teste contagem contagem thread
+Arquivo 607, linha 8: thread async thread thread arquivo texto CSharp async CSharp linha texto
+Arquivo 607, linha 9: contagem texto texto async await palavra contagem linha contagem teste
+Arquivo 607, linha 10: palavra thread await async async linha await teste linha
+Arquivo 607, linha 11: thread texto CSharp arquivo thread arquivo await teste arquivo async palavra
+Arquivo 607, linha 12: linha contagem palavra await CSharp arquivo palavra texto texto teste
+Arquivo 607, linha 13: arquivo teste teste texto linha
+Arquivo 607, linha 14: CSharp await contagem CSharp thread linha teste thread CSharp linha await contagem
+Arquivo 607, linha 15: teste teste CSharp thread contagem CSharp thread thread
+Arquivo 607, linha 16: teste await linha contagem CSharp texto async thread CSharp teste await palavra

@@ -1,0 +1,17 @@
+=== Arquivo número 333 ===
+Arquivo 333, linha 1: thread contagem arquivo CSharp teste linha await thread CSharp linha
+Arquivo 333, linha 2: texto thread linha linha teste
+Arquivo 333, linha 3: arquivo palavra arquivo async texto
+Arquivo 333, linha 4: linha contagem texto CSharp teste texto thread arquivo arquivo linha CSharp
+Arquivo 333, linha 5: teste await arquivo palavra palavra thread palavra arquivo linha contagem
+Arquivo 333, linha 6: thread linha contagem await async linha
+Arquivo 333, linha 7: await linha linha texto async arquivo linha texto
+Arquivo 333, linha 8: contagem async linha async thread teste linha
+Arquivo 333, linha 9: contagem thread linha CSharp contagem CSharp teste texto texto arquivo await async
+Arquivo 333, linha 10: await thread linha teste arquivo texto linha contagem palavra CSharp texto
+Arquivo 333, linha 11: texto async teste CSharp teste palavra thread thread arquivo thread teste linha
+Arquivo 333, linha 12: CSharp contagem thread async palavra CSharp palavra CSharp
+Arquivo 333, linha 13: contagem CSharp texto linha texto teste teste await
+Arquivo 333, linha 14: contagem contagem async arquivo thread texto thread linha CSharp contagem thread
+Arquivo 333, linha 15: linha await teste teste arquivo thread teste
+Arquivo 333, linha 16: linha teste CSharp async await palavra linha palavra await

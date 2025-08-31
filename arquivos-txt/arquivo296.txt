@@ -1,0 +1,14 @@
+=== Arquivo número 296 ===
+Arquivo 296, linha 1: arquivo linha await linha await
+Arquivo 296, linha 2: arquivo texto teste contagem linha arquivo teste async
+Arquivo 296, linha 3: await palavra palavra teste arquivo CSharp texto
+Arquivo 296, linha 4: arquivo palavra texto palavra arquivo texto arquivo texto await CSharp texto arquivo
+Arquivo 296, linha 5: async await contagem linha linha palavra
+Arquivo 296, linha 6: linha await linha CSharp thread thread texto arquivo thread
+Arquivo 296, linha 7: await texto thread CSharp CSharp linha contagem thread
+Arquivo 296, linha 8: texto contagem linha async await texto thread
+Arquivo 296, linha 9: CSharp linha texto async palavra teste contagem palavra await texto linha CSharp
+Arquivo 296, linha 10: await arquivo teste texto arquivo linha linha palavra
+Arquivo 296, linha 11: arquivo palavra arquivo teste texto CSharp await texto arquivo texto await teste
+Arquivo 296, linha 12: palavra teste teste CSharp linha teste
+Arquivo 296, linha 13: CSharp thread thread CSharp linha await teste linha thread async palavra arquivo

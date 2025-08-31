@@ -1,0 +1,8 @@
+=== Arquivo número 873 ===
+Arquivo 873, linha 1: palavra texto texto async linha
+Arquivo 873, linha 2: texto linha thread await async await
+Arquivo 873, linha 3: async await thread arquivo await thread arquivo linha palavra
+Arquivo 873, linha 4: arquivo teste await palavra contagem
+Arquivo 873, linha 5: await await teste linha linha arquivo await await await palavra
+Arquivo 873, linha 6: linha contagem palavra CSharp palavra teste await
+Arquivo 873, linha 7: await async await thread linha thread

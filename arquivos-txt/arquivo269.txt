@@ -1,0 +1,20 @@
+=== Arquivo número 269 ===
+Arquivo 269, linha 1: palavra palavra linha teste texto texto async thread CSharp
+Arquivo 269, linha 2: palavra palavra arquivo await contagem await
+Arquivo 269, linha 3: linha arquivo arquivo contagem texto palavra CSharp palavra contagem
+Arquivo 269, linha 4: arquivo thread await teste arquivo teste async contagem async texto CSharp
+Arquivo 269, linha 5: palavra thread CSharp CSharp CSharp arquivo teste teste teste
+Arquivo 269, linha 6: await contagem teste contagem palavra texto arquivo await
+Arquivo 269, linha 7: texto palavra await palavra CSharp palavra arquivo texto linha
+Arquivo 269, linha 8: linha await async thread async async arquivo thread await
+Arquivo 269, linha 9: thread teste palavra linha teste teste CSharp thread texto
+Arquivo 269, linha 10: linha palavra teste thread CSharp palavra arquivo
+Arquivo 269, linha 11: CSharp linha await teste teste teste palavra contagem await await CSharp contagem
+Arquivo 269, linha 12: async linha texto thread await palavra CSharp thread contagem async CSharp
+Arquivo 269, linha 13: palavra contagem linha CSharp palavra texto arquivo texto
+Arquivo 269, linha 14: texto linha teste linha arquivo teste texto
+Arquivo 269, linha 15: teste CSharp async arquivo async linha teste await CSharp CSharp
+Arquivo 269, linha 16: texto arquivo palavra texto async async
+Arquivo 269, linha 17: await await arquivo async teste texto thread texto teste palavra palavra
+Arquivo 269, linha 18: contagem palavra async contagem teste async palavra CSharp
+Arquivo 269, linha 19: arquivo thread texto texto teste await thread await linha arquivo CSharp thread

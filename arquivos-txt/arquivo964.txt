@@ -1,0 +1,9 @@
+=== Arquivo número 964 ===
+Arquivo 964, linha 1: thread linha CSharp linha async async texto teste palavra texto async
+Arquivo 964, linha 2: contagem linha await teste CSharp linha teste async await
+Arquivo 964, linha 3: await teste async CSharp texto
+Arquivo 964, linha 4: arquivo texto contagem contagem CSharp
+Arquivo 964, linha 5: CSharp arquivo arquivo async async
+Arquivo 964, linha 6: thread CSharp teste linha thread thread CSharp await
+Arquivo 964, linha 7: async contagem async await linha thread arquivo await async
+Arquivo 964, linha 8: await thread teste await arquivo arquivo linha arquivo palavra

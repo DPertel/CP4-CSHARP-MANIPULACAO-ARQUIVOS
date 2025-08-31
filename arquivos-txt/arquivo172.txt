@@ -1,0 +1,5 @@
+=== Arquivo número 172 ===
+Arquivo 172, linha 1: teste await arquivo async teste teste teste async palavra
+Arquivo 172, linha 2: palavra CSharp arquivo teste contagem
+Arquivo 172, linha 3: thread texto CSharp async palavra thread palavra
+Arquivo 172, linha 4: CSharp thread teste texto await await texto linha arquivo

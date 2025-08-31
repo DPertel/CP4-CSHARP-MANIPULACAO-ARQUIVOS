@@ -1,0 +1,15 @@
+=== Arquivo número 83 ===
+Arquivo 83, linha 1: async await arquivo async CSharp await palavra linha contagem palavra texto
+Arquivo 83, linha 2: palavra palavra texto palavra arquivo arquivo
+Arquivo 83, linha 3: async async arquivo linha contagem texto linha contagem thread linha linha
+Arquivo 83, linha 4: CSharp async thread thread linha palavra thread contagem
+Arquivo 83, linha 5: arquivo async arquivo teste palavra await await arquivo
+Arquivo 83, linha 6: contagem palavra await CSharp contagem linha async
+Arquivo 83, linha 7: palavra texto linha contagem contagem async await arquivo CSharp contagem
+Arquivo 83, linha 8: CSharp linha arquivo texto linha contagem palavra contagem async arquivo CSharp
+Arquivo 83, linha 9: await teste arquivo palavra arquivo CSharp
+Arquivo 83, linha 10: thread async arquivo texto thread async async linha teste palavra await
+Arquivo 83, linha 11: async async teste contagem contagem
+Arquivo 83, linha 12: await await CSharp linha CSharp
+Arquivo 83, linha 13: teste palavra arquivo palavra arquivo
+Arquivo 83, linha 14: arquivo thread arquivo await await CSharp async

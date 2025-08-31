@@ -1,0 +1,11 @@
+=== Arquivo número 405 ===
+Arquivo 405, linha 1: thread contagem texto thread teste async linha linha arquivo arquivo arquivo
+Arquivo 405, linha 2: async CSharp thread await arquivo await linha await await
+Arquivo 405, linha 3: teste texto linha async teste contagem contagem async texto
+Arquivo 405, linha 4: texto arquivo contagem contagem contagem async contagem contagem CSharp
+Arquivo 405, linha 5: texto thread texto arquivo arquivo await contagem teste async await async
+Arquivo 405, linha 6: contagem linha contagem CSharp arquivo
+Arquivo 405, linha 7: arquivo linha palavra async CSharp await CSharp palavra palavra linha
+Arquivo 405, linha 8: palavra contagem texto CSharp contagem
+Arquivo 405, linha 9: texto palavra await contagem thread teste
+Arquivo 405, linha 10: contagem async linha await arquivo linha await CSharp CSharp CSharp linha

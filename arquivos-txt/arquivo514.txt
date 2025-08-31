@@ -1,0 +1,10 @@
+=== Arquivo número 514 ===
+Arquivo 514, linha 1: texto contagem CSharp CSharp contagem palavra contagem contagem contagem thread texto
+Arquivo 514, linha 2: CSharp palavra arquivo contagem arquivo thread thread async texto teste arquivo
+Arquivo 514, linha 3: async await CSharp linha contagem
+Arquivo 514, linha 4: linha contagem palavra arquivo texto await contagem arquivo thread async texto
+Arquivo 514, linha 5: contagem teste arquivo thread thread teste linha teste teste texto teste
+Arquivo 514, linha 6: await async texto await texto contagem palavra teste teste palavra thread async
+Arquivo 514, linha 7: async arquivo arquivo arquivo CSharp thread await async palavra thread linha palavra
+Arquivo 514, linha 8: thread linha contagem palavra teste contagem linha
+Arquivo 514, linha 9: texto thread texto thread linha thread await linha thread

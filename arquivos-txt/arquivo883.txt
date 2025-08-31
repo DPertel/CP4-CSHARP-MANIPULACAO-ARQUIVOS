@@ -1,0 +1,14 @@
+=== Arquivo número 883 ===
+Arquivo 883, linha 1: arquivo thread CSharp teste async linha teste await
+Arquivo 883, linha 2: async linha await palavra CSharp await
+Arquivo 883, linha 3: contagem await arquivo CSharp teste palavra texto contagem thread texto
+Arquivo 883, linha 4: arquivo palavra teste contagem CSharp async CSharp await
+Arquivo 883, linha 5: arquivo texto await texto texto
+Arquivo 883, linha 6: await teste contagem CSharp CSharp
+Arquivo 883, linha 7: async texto arquivo arquivo linha async
+Arquivo 883, linha 8: CSharp async palavra arquivo CSharp palavra thread texto teste arquivo async
+Arquivo 883, linha 9: teste async palavra arquivo async
+Arquivo 883, linha 10: contagem linha thread CSharp CSharp palavra palavra contagem
+Arquivo 883, linha 11: await teste async await thread teste
+Arquivo 883, linha 12: linha linha await await contagem linha CSharp async
+Arquivo 883, linha 13: thread linha palavra await teste texto await palavra teste contagem linha

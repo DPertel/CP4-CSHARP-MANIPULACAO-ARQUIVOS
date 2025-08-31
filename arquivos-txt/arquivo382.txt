@@ -1,0 +1,11 @@
+=== Arquivo número 382 ===
+Arquivo 382, linha 1: async linha await arquivo contagem thread await async arquivo
+Arquivo 382, linha 2: linha arquivo await contagem arquivo teste await arquivo contagem linha
+Arquivo 382, linha 3: linha linha teste contagem arquivo
+Arquivo 382, linha 4: contagem texto teste await arquivo palavra contagem CSharp await teste
+Arquivo 382, linha 5: async arquivo texto async thread teste
+Arquivo 382, linha 6: CSharp teste async await await async
+Arquivo 382, linha 7: async palavra texto texto CSharp texto
+Arquivo 382, linha 8: texto teste linha texto palavra teste texto contagem
+Arquivo 382, linha 9: linha await contagem contagem CSharp teste
+Arquivo 382, linha 10: palavra CSharp async async await thread contagem thread await arquivo await

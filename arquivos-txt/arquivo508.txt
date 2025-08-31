@@ -1,0 +1,20 @@
+=== Arquivo número 508 ===
+Arquivo 508, linha 1: async arquivo CSharp await palavra
+Arquivo 508, linha 2: teste palavra thread thread thread teste
+Arquivo 508, linha 3: contagem arquivo arquivo palavra palavra async await
+Arquivo 508, linha 4: contagem linha async await async
+Arquivo 508, linha 5: async thread texto contagem palavra contagem thread palavra
+Arquivo 508, linha 6: async async await linha CSharp teste thread palavra contagem teste
+Arquivo 508, linha 7: teste linha thread linha await CSharp linha arquivo arquivo
+Arquivo 508, linha 8: await arquivo arquivo linha palavra async palavra await
+Arquivo 508, linha 9: await texto teste arquivo thread CSharp contagem texto teste palavra linha
+Arquivo 508, linha 10: contagem texto contagem linha linha texto arquivo arquivo texto
+Arquivo 508, linha 11: await arquivo contagem arquivo await teste arquivo texto arquivo arquivo async texto
+Arquivo 508, linha 12: teste arquivo texto linha CSharp palavra
+Arquivo 508, linha 13: palavra async arquivo contagem arquivo palavra contagem arquivo contagem contagem
+Arquivo 508, linha 14: linha await palavra CSharp CSharp linha async
+Arquivo 508, linha 15: linha texto palavra contagem arquivo await CSharp
+Arquivo 508, linha 16: arquivo await CSharp CSharp async linha CSharp teste CSharp
+Arquivo 508, linha 17: linha async contagem arquivo contagem async async texto linha
+Arquivo 508, linha 18: texto teste CSharp CSharp thread palavra CSharp
+Arquivo 508, linha 19: linha thread linha await teste linha await texto await CSharp async

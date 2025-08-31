@@ -1,0 +1,12 @@
+=== Arquivo número 732 ===
+Arquivo 732, linha 1: linha linha thread thread palavra await
+Arquivo 732, linha 2: arquivo thread CSharp thread async await palavra
+Arquivo 732, linha 3: texto linha await texto arquivo linha teste palavra
+Arquivo 732, linha 4: palavra thread contagem contagem palavra thread await
+Arquivo 732, linha 5: linha palavra palavra await async async async thread
+Arquivo 732, linha 6: palavra texto contagem palavra await contagem arquivo thread async CSharp
+Arquivo 732, linha 7: texto async async linha arquivo teste await arquivo
+Arquivo 732, linha 8: contagem CSharp await palavra CSharp contagem
+Arquivo 732, linha 9: arquivo CSharp linha teste teste texto palavra contagem
+Arquivo 732, linha 10: await teste async thread palavra linha contagem contagem texto linha palavra contagem
+Arquivo 732, linha 11: CSharp CSharp thread linha arquivo

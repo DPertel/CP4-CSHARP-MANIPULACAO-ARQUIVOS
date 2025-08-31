@@ -1,0 +1,11 @@
+=== Arquivo número 207 ===
+Arquivo 207, linha 1: async contagem texto async await async CSharp CSharp arquivo texto await
+Arquivo 207, linha 2: await contagem palavra thread linha contagem contagem await arquivo
+Arquivo 207, linha 3: CSharp palavra async CSharp palavra await palavra
+Arquivo 207, linha 4: async await texto thread CSharp await thread texto arquivo contagem linha
+Arquivo 207, linha 5: thread contagem teste texto contagem CSharp thread palavra CSharp thread
+Arquivo 207, linha 6: arquivo palavra contagem CSharp arquivo contagem teste async texto teste
+Arquivo 207, linha 7: palavra CSharp arquivo async CSharp async arquivo contagem contagem linha texto await
+Arquivo 207, linha 8: thread await async await palavra texto thread teste CSharp
+Arquivo 207, linha 9: contagem arquivo async async palavra async async async texto arquivo palavra palavra
+Arquivo 207, linha 10: texto linha contagem texto arquivo

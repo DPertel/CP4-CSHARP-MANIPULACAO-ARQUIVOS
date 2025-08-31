@@ -1,0 +1,15 @@
+=== Arquivo número 504 ===
+Arquivo 504, linha 1: await texto thread palavra await arquivo contagem
+Arquivo 504, linha 2: contagem texto arquivo teste texto teste thread async await
+Arquivo 504, linha 3: arquivo palavra teste arquivo texto texto contagem palavra
+Arquivo 504, linha 4: texto thread arquivo arquivo CSharp contagem linha contagem await
+Arquivo 504, linha 5: teste contagem thread palavra async
+Arquivo 504, linha 6: async async linha async thread linha CSharp arquivo linha teste
+Arquivo 504, linha 7: texto linha arquivo async thread await contagem CSharp await CSharp
+Arquivo 504, linha 8: texto texto teste async palavra await
+Arquivo 504, linha 9: contagem contagem palavra await async arquivo contagem
+Arquivo 504, linha 10: await thread linha thread texto await await
+Arquivo 504, linha 11: await thread thread thread teste async contagem arquivo async teste
+Arquivo 504, linha 12: contagem palavra contagem async async await await
+Arquivo 504, linha 13: palavra contagem linha texto CSharp teste
+Arquivo 504, linha 14: thread await contagem teste thread CSharp teste contagem

@@ -1,0 +1,8 @@
+=== Arquivo número 804 ===
+Arquivo 804, linha 1: teste linha palavra thread texto palavra texto palavra arquivo linha linha
+Arquivo 804, linha 2: teste teste contagem contagem CSharp linha thread texto await teste linha
+Arquivo 804, linha 3: texto teste async arquivo CSharp arquivo async thread arquivo CSharp
+Arquivo 804, linha 4: thread contagem linha contagem contagem palavra texto texto
+Arquivo 804, linha 5: teste linha async CSharp arquivo arquivo contagem linha linha texto
+Arquivo 804, linha 6: arquivo palavra palavra await async CSharp contagem linha async contagem
+Arquivo 804, linha 7: arquivo thread teste async arquivo CSharp contagem teste teste arquivo

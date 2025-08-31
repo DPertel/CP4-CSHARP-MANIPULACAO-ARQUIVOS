@@ -1,0 +1,7 @@
+=== Arquivo número 917 ===
+Arquivo 917, linha 1: arquivo CSharp thread await arquivo async linha
+Arquivo 917, linha 2: thread await contagem await linha contagem CSharp palavra async
+Arquivo 917, linha 3: CSharp contagem thread CSharp texto thread
+Arquivo 917, linha 4: contagem CSharp arquivo arquivo contagem linha contagem palavra teste thread
+Arquivo 917, linha 5: teste palavra async contagem arquivo thread texto linha thread CSharp thread
+Arquivo 917, linha 6: thread palavra arquivo async linha await

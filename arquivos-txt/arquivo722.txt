@@ -1,0 +1,7 @@
+=== Arquivo número 722 ===
+Arquivo 722, linha 1: linha linha await contagem texto thread teste CSharp CSharp linha async texto
+Arquivo 722, linha 2: teste palavra contagem palavra async teste teste async
+Arquivo 722, linha 3: await palavra CSharp thread thread contagem async arquivo CSharp async
+Arquivo 722, linha 4: contagem thread await await async linha arquivo CSharp async async
+Arquivo 722, linha 5: CSharp palavra await await palavra
+Arquivo 722, linha 6: contagem thread thread CSharp linha palavra contagem

@@ -1,0 +1,14 @@
+=== Arquivo número 393 ===
+Arquivo 393, linha 1: palavra linha CSharp thread palavra contagem
+Arquivo 393, linha 2: CSharp thread linha contagem CSharp CSharp palavra palavra linha async
+Arquivo 393, linha 3: linha await CSharp contagem await arquivo await teste arquivo
+Arquivo 393, linha 4: contagem teste arquivo async texto async thread thread palavra arquivo linha
+Arquivo 393, linha 5: teste linha async async arquivo texto thread
+Arquivo 393, linha 6: await async contagem thread arquivo thread contagem CSharp teste arquivo thread contagem
+Arquivo 393, linha 7: teste teste texto palavra palavra contagem arquivo palavra teste contagem
+Arquivo 393, linha 8: arquivo arquivo linha palavra await arquivo teste
+Arquivo 393, linha 9: thread await teste linha CSharp CSharp async palavra await CSharp linha palavra
+Arquivo 393, linha 10: linha await await CSharp thread contagem CSharp async palavra teste teste contagem
+Arquivo 393, linha 11: await CSharp arquivo thread teste palavra
+Arquivo 393, linha 12: texto await CSharp texto async thread contagem thread texto
+Arquivo 393, linha 13: linha linha contagem linha async contagem

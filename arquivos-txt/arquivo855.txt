@@ -1,0 +1,8 @@
+=== Arquivo número 855 ===
+Arquivo 855, linha 1: CSharp CSharp await texto CSharp thread palavra CSharp texto CSharp
+Arquivo 855, linha 2: palavra thread CSharp linha linha palavra contagem
+Arquivo 855, linha 3: contagem thread texto thread teste await arquivo teste await arquivo
+Arquivo 855, linha 4: arquivo teste CSharp texto await contagem CSharp palavra texto linha
+Arquivo 855, linha 5: CSharp thread palavra linha thread await contagem
+Arquivo 855, linha 6: teste palavra texto CSharp CSharp teste teste arquivo linha texto linha palavra
+Arquivo 855, linha 7: linha texto texto CSharp contagem CSharp thread CSharp await await await contagem

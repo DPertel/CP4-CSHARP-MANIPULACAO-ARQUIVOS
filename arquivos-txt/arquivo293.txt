@@ -1,0 +1,7 @@
+=== Arquivo número 293 ===
+Arquivo 293, linha 1: teste palavra arquivo arquivo linha
+Arquivo 293, linha 2: linha texto linha thread contagem
+Arquivo 293, linha 3: contagem arquivo linha contagem contagem texto palavra teste
+Arquivo 293, linha 4: contagem thread teste linha async palavra CSharp
+Arquivo 293, linha 5: linha await async thread linha texto contagem palavra CSharp
+Arquivo 293, linha 6: palavra texto CSharp linha thread thread async palavra arquivo teste linha thread

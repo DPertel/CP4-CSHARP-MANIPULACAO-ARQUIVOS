@@ -1,0 +1,6 @@
+=== Arquivo número 341 ===
+Arquivo 341, linha 1: await contagem palavra async texto linha texto arquivo await thread async
+Arquivo 341, linha 2: await contagem CSharp thread palavra teste contagem async linha CSharp thread
+Arquivo 341, linha 3: teste await texto linha linha texto arquivo async texto linha
+Arquivo 341, linha 4: linha await texto linha arquivo
+Arquivo 341, linha 5: contagem arquivo palavra async thread palavra arquivo

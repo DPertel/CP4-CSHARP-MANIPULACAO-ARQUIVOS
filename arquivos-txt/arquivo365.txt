@@ -1,0 +1,18 @@
+=== Arquivo número 365 ===
+Arquivo 365, linha 1: CSharp async texto CSharp arquivo arquivo async async
+Arquivo 365, linha 2: contagem async contagem await linha arquivo teste arquivo async
+Arquivo 365, linha 3: arquivo arquivo texto await CSharp
+Arquivo 365, linha 4: thread texto await CSharp arquivo linha async async contagem teste
+Arquivo 365, linha 5: arquivo async teste CSharp palavra linha
+Arquivo 365, linha 6: arquivo contagem palavra await contagem palavra await palavra await texto async linha
+Arquivo 365, linha 7: CSharp linha arquivo CSharp palavra contagem async contagem
+Arquivo 365, linha 8: contagem arquivo linha linha contagem linha arquivo await CSharp
+Arquivo 365, linha 9: linha linha thread await arquivo async CSharp thread CSharp CSharp CSharp
+Arquivo 365, linha 10: texto linha texto contagem async teste linha CSharp palavra CSharp texto
+Arquivo 365, linha 11: CSharp palavra CSharp palavra texto texto
+Arquivo 365, linha 12: palavra teste contagem palavra arquivo teste arquivo linha
+Arquivo 365, linha 13: CSharp thread palavra CSharp await thread texto
+Arquivo 365, linha 14: teste texto texto contagem linha teste palavra texto palavra texto thread
+Arquivo 365, linha 15: thread CSharp await contagem async arquivo texto arquivo async await texto
+Arquivo 365, linha 16: thread teste contagem texto linha await
+Arquivo 365, linha 17: async teste palavra texto linha texto teste linha linha CSharp await

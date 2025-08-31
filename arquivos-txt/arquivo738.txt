@@ -1,0 +1,18 @@
+=== Arquivo número 738 ===
+Arquivo 738, linha 1: texto CSharp contagem contagem await arquivo CSharp async thread teste
+Arquivo 738, linha 2: thread await contagem texto async async palavra thread arquivo contagem contagem linha
+Arquivo 738, linha 3: arquivo arquivo contagem CSharp contagem async palavra teste texto teste teste texto
+Arquivo 738, linha 4: thread async palavra contagem palavra linha arquivo CSharp async linha
+Arquivo 738, linha 5: linha contagem await teste texto contagem contagem thread await palavra
+Arquivo 738, linha 6: await contagem await thread contagem linha CSharp
+Arquivo 738, linha 7: async async palavra CSharp teste texto
+Arquivo 738, linha 8: texto arquivo CSharp arquivo CSharp await
+Arquivo 738, linha 9: contagem palavra await thread linha
+Arquivo 738, linha 10: async contagem linha palavra palavra linha texto thread
+Arquivo 738, linha 11: texto CSharp await texto await linha await
+Arquivo 738, linha 12: teste thread CSharp thread thread async
+Arquivo 738, linha 13: arquivo contagem texto thread linha texto async texto
+Arquivo 738, linha 14: CSharp await teste arquivo arquivo contagem
+Arquivo 738, linha 15: arquivo thread teste contagem arquivo await linha thread contagem async arquivo linha
+Arquivo 738, linha 16: contagem thread palavra await teste
+Arquivo 738, linha 17: teste palavra CSharp CSharp palavra thread teste

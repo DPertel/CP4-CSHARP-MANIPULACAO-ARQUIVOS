@@ -1,0 +1,13 @@
+=== Arquivo número 837 ===
+Arquivo 837, linha 1: await contagem CSharp CSharp contagem
+Arquivo 837, linha 2: arquivo async await CSharp teste thread teste palavra arquivo contagem
+Arquivo 837, linha 3: CSharp thread arquivo thread contagem async
+Arquivo 837, linha 4: linha linha texto linha teste await
+Arquivo 837, linha 5: contagem arquivo CSharp await texto texto texto
+Arquivo 837, linha 6: thread texto await async palavra teste thread
+Arquivo 837, linha 7: palavra texto teste await thread arquivo teste CSharp thread contagem linha async
+Arquivo 837, linha 8: contagem linha contagem palavra arquivo linha teste thread teste async teste
+Arquivo 837, linha 9: thread texto CSharp arquivo palavra thread arquivo
+Arquivo 837, linha 10: arquivo CSharp arquivo arquivo texto await contagem arquivo thread texto async teste
+Arquivo 837, linha 11: teste teste await teste thread async contagem teste await thread teste
+Arquivo 837, linha 12: contagem arquivo thread texto palavra palavra async palavra

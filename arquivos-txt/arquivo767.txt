@@ -1,0 +1,18 @@
+=== Arquivo número 767 ===
+Arquivo 767, linha 1: arquivo arquivo teste thread palavra
+Arquivo 767, linha 2: async teste CSharp async texto await palavra arquivo
+Arquivo 767, linha 3: teste linha CSharp linha async palavra texto await async
+Arquivo 767, linha 4: contagem thread thread palavra async texto
+Arquivo 767, linha 5: palavra linha arquivo async thread teste async palavra thread contagem async
+Arquivo 767, linha 6: async async texto await linha contagem contagem linha
+Arquivo 767, linha 7: texto texto thread arquivo teste thread palavra
+Arquivo 767, linha 8: CSharp await linha teste contagem contagem
+Arquivo 767, linha 9: palavra async texto thread thread arquivo linha
+Arquivo 767, linha 10: arquivo contagem await async thread
+Arquivo 767, linha 11: teste teste CSharp thread thread texto texto async
+Arquivo 767, linha 12: linha CSharp CSharp arquivo CSharp
+Arquivo 767, linha 13: CSharp await linha arquivo texto contagem
+Arquivo 767, linha 14: CSharp await await palavra palavra contagem
+Arquivo 767, linha 15: linha await teste async thread palavra
+Arquivo 767, linha 16: CSharp CSharp teste arquivo async CSharp thread await
+Arquivo 767, linha 17: palavra palavra async linha CSharp

@@ -1,0 +1,6 @@
+=== Arquivo número 808 ===
+Arquivo 808, linha 1: async palavra CSharp async contagem async async async async async await
+Arquivo 808, linha 2: thread thread contagem arquivo linha texto thread linha
+Arquivo 808, linha 3: await linha texto await teste thread contagem arquivo palavra CSharp
+Arquivo 808, linha 4: async async teste texto async
+Arquivo 808, linha 5: thread arquivo await async async teste palavra CSharp palavra contagem

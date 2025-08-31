@@ -1,0 +1,20 @@
+=== Arquivo número 534 ===
+Arquivo 534, linha 1: teste CSharp await palavra arquivo teste await
+Arquivo 534, linha 2: linha palavra palavra texto thread texto palavra
+Arquivo 534, linha 3: texto contagem arquivo thread await palavra palavra linha palavra async
+Arquivo 534, linha 4: await async palavra palavra await thread contagem async texto palavra
+Arquivo 534, linha 5: arquivo palavra teste thread palavra arquivo
+Arquivo 534, linha 6: CSharp texto teste linha linha linha contagem linha
+Arquivo 534, linha 7: palavra thread contagem contagem texto await palavra linha await linha
+Arquivo 534, linha 8: contagem texto arquivo await texto arquivo async teste
+Arquivo 534, linha 9: contagem linha linha teste await contagem linha thread await teste palavra CSharp
+Arquivo 534, linha 10: linha contagem async contagem contagem async
+Arquivo 534, linha 11: linha arquivo await teste async teste linha async contagem async
+Arquivo 534, linha 12: texto async CSharp thread thread teste
+Arquivo 534, linha 13: async teste palavra thread CSharp thread linha
+Arquivo 534, linha 14: thread palavra linha texto async async palavra thread palavra await thread texto
+Arquivo 534, linha 15: await texto CSharp contagem contagem teste arquivo contagem async teste CSharp contagem
+Arquivo 534, linha 16: teste thread palavra contagem CSharp texto linha async contagem arquivo await texto
+Arquivo 534, linha 17: thread palavra CSharp CSharp await linha linha async async palavra
+Arquivo 534, linha 18: async linha palavra contagem CSharp await linha async
+Arquivo 534, linha 19: await linha await teste linha contagem

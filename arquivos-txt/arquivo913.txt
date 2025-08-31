@@ -1,0 +1,15 @@
+=== Arquivo número 913 ===
+Arquivo 913, linha 1: async linha linha teste thread CSharp linha async linha
+Arquivo 913, linha 2: palavra CSharp thread CSharp thread thread palavra teste thread async texto
+Arquivo 913, linha 3: texto contagem thread async arquivo async await contagem
+Arquivo 913, linha 4: await palavra thread thread teste thread linha
+Arquivo 913, linha 5: contagem await arquivo texto palavra arquivo linha thread texto CSharp
+Arquivo 913, linha 6: arquivo teste thread teste await thread linha contagem
+Arquivo 913, linha 7: async await await teste async async thread arquivo texto CSharp
+Arquivo 913, linha 8: texto palavra CSharp async linha palavra thread texto contagem linha contagem
+Arquivo 913, linha 9: palavra palavra arquivo arquivo arquivo CSharp CSharp thread await CSharp CSharp palavra
+Arquivo 913, linha 10: palavra contagem await texto CSharp palavra CSharp CSharp CSharp arquivo CSharp arquivo
+Arquivo 913, linha 11: contagem teste CSharp linha texto await palavra linha contagem texto palavra
+Arquivo 913, linha 12: teste texto contagem arquivo palavra contagem async palavra
+Arquivo 913, linha 13: palavra teste CSharp texto thread teste teste
+Arquivo 913, linha 14: palavra await linha linha async async CSharp contagem palavra teste await

@@ -1,0 +1,16 @@
+=== Arquivo número 183 ===
+Arquivo 183, linha 1: thread teste async thread contagem CSharp await thread palavra arquivo async
+Arquivo 183, linha 2: thread texto texto linha texto async palavra async contagem async CSharp
+Arquivo 183, linha 3: await texto arquivo async CSharp async await CSharp linha teste
+Arquivo 183, linha 4: texto teste contagem teste await CSharp await arquivo
+Arquivo 183, linha 5: arquivo palavra async arquivo await texto palavra contagem async CSharp CSharp
+Arquivo 183, linha 6: await palavra texto contagem palavra thread teste thread arquivo
+Arquivo 183, linha 7: palavra CSharp arquivo CSharp teste
+Arquivo 183, linha 8: contagem thread teste arquivo CSharp teste teste contagem thread CSharp linha await
+Arquivo 183, linha 9: arquivo arquivo await async contagem contagem texto
+Arquivo 183, linha 10: async async palavra teste texto palavra texto palavra CSharp texto teste
+Arquivo 183, linha 11: arquivo async await linha contagem contagem linha contagem palavra
+Arquivo 183, linha 12: await contagem texto CSharp linha linha async await thread
+Arquivo 183, linha 13: contagem teste arquivo texto contagem teste teste await CSharp
+Arquivo 183, linha 14: texto await texto thread teste contagem arquivo CSharp texto arquivo contagem
+Arquivo 183, linha 15: arquivo await linha thread arquivo CSharp await

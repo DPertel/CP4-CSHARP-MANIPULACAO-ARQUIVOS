@@ -1,0 +1,10 @@
+=== Arquivo número 744 ===
+Arquivo 744, linha 1: linha palavra texto thread CSharp palavra palavra teste contagem
+Arquivo 744, linha 2: contagem contagem thread linha palavra teste await teste teste texto CSharp palavra
+Arquivo 744, linha 3: teste async await async arquivo contagem teste palavra linha linha
+Arquivo 744, linha 4: linha texto async arquivo async async palavra texto
+Arquivo 744, linha 5: thread thread thread arquivo arquivo await arquivo CSharp linha
+Arquivo 744, linha 6: texto texto teste thread arquivo await linha teste contagem
+Arquivo 744, linha 7: await teste palavra texto palavra async async arquivo arquivo
+Arquivo 744, linha 8: linha contagem palavra CSharp teste
+Arquivo 744, linha 9: async palavra await texto CSharp teste contagem contagem async teste linha

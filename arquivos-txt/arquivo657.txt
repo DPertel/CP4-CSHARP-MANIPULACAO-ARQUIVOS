@@ -1,0 +1,18 @@
+=== Arquivo número 657 ===
+Arquivo 657, linha 1: CSharp arquivo contagem contagem async contagem teste
+Arquivo 657, linha 2: palavra await await teste thread
+Arquivo 657, linha 3: texto arquivo palavra arquivo thread teste teste arquivo linha texto linha async
+Arquivo 657, linha 4: async thread arquivo await thread CSharp CSharp CSharp texto thread
+Arquivo 657, linha 5: linha arquivo linha thread CSharp async CSharp arquivo
+Arquivo 657, linha 6: thread await thread await arquivo await teste await linha teste
+Arquivo 657, linha 7: teste async await CSharp palavra palavra linha
+Arquivo 657, linha 8: contagem await teste thread await palavra teste await palavra thread
+Arquivo 657, linha 9: linha await texto teste texto await thread texto palavra texto arquivo
+Arquivo 657, linha 10: palavra arquivo CSharp await teste async linha arquivo await teste CSharp
+Arquivo 657, linha 11: thread arquivo thread texto linha arquivo palavra teste
+Arquivo 657, linha 12: palavra linha thread teste teste await
+Arquivo 657, linha 13: linha palavra await teste teste contagem await
+Arquivo 657, linha 14: arquivo arquivo CSharp await palavra teste CSharp palavra
+Arquivo 657, linha 15: linha CSharp linha linha CSharp contagem palavra thread teste
+Arquivo 657, linha 16: arquivo CSharp texto thread texto
+Arquivo 657, linha 17: texto thread thread teste CSharp await arquivo linha linha CSharp linha

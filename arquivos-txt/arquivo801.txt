@@ -1,0 +1,6 @@
+=== Arquivo número 801 ===
+Arquivo 801, linha 1: async texto await texto thread linha
+Arquivo 801, linha 2: CSharp contagem palavra thread contagem await await arquivo
+Arquivo 801, linha 3: palavra linha contagem thread texto
+Arquivo 801, linha 4: texto contagem arquivo await arquivo arquivo arquivo contagem
+Arquivo 801, linha 5: CSharp arquivo thread texto contagem arquivo CSharp

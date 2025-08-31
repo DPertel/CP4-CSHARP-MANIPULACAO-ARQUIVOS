@@ -1,0 +1,20 @@
+=== Arquivo número 232 ===
+Arquivo 232, linha 1: arquivo thread teste thread await palavra linha CSharp await arquivo
+Arquivo 232, linha 2: texto texto linha linha texto async thread linha CSharp texto await
+Arquivo 232, linha 3: linha teste arquivo palavra texto texto await
+Arquivo 232, linha 4: async thread linha CSharp teste async arquivo CSharp teste thread CSharp texto
+Arquivo 232, linha 5: contagem texto thread thread await
+Arquivo 232, linha 6: arquivo palavra arquivo thread palavra CSharp async async palavra linha
+Arquivo 232, linha 7: contagem async teste await thread arquivo
+Arquivo 232, linha 8: CSharp texto CSharp palavra thread texto async async
+Arquivo 232, linha 9: texto teste palavra palavra async palavra contagem CSharp palavra
+Arquivo 232, linha 10: contagem teste async linha CSharp palavra await
+Arquivo 232, linha 11: async CSharp async contagem texto CSharp palavra async
+Arquivo 232, linha 12: CSharp arquivo linha teste CSharp async teste teste linha
+Arquivo 232, linha 13: async linha thread linha teste teste async linha linha
+Arquivo 232, linha 14: CSharp linha CSharp arquivo contagem
+Arquivo 232, linha 15: texto async linha async arquivo arquivo arquivo CSharp teste texto
+Arquivo 232, linha 16: thread CSharp contagem await CSharp await linha contagem teste thread texto arquivo
+Arquivo 232, linha 17: palavra texto CSharp texto thread arquivo teste CSharp palavra teste CSharp
+Arquivo 232, linha 18: contagem async async texto contagem await linha texto async palavra
+Arquivo 232, linha 19: thread teste thread arquivo teste teste arquivo teste thread await arquivo

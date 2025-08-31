@@ -1,0 +1,7 @@
+=== Arquivo número 128 ===
+Arquivo 128, linha 1: thread teste palavra texto CSharp
+Arquivo 128, linha 2: async teste CSharp thread teste arquivo contagem texto
+Arquivo 128, linha 3: teste contagem linha thread teste texto teste async texto palavra palavra
+Arquivo 128, linha 4: teste arquivo linha CSharp contagem
+Arquivo 128, linha 5: teste teste arquivo palavra texto texto await linha linha CSharp async
+Arquivo 128, linha 6: CSharp linha await arquivo async palavra teste await linha contagem async teste

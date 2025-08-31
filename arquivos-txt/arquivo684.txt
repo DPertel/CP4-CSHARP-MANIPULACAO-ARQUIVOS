@@ -1,0 +1,11 @@
+=== Arquivo número 684 ===
+Arquivo 684, linha 1: await async async async linha palavra texto await palavra texto teste linha
+Arquivo 684, linha 2: await thread texto arquivo palavra palavra
+Arquivo 684, linha 3: palavra texto teste thread async thread
+Arquivo 684, linha 4: arquivo texto teste thread linha async palavra linha contagem thread linha
+Arquivo 684, linha 5: palavra linha await await palavra palavra thread texto arquivo contagem arquivo
+Arquivo 684, linha 6: async thread contagem await await teste linha linha await linha async
+Arquivo 684, linha 7: teste await thread await palavra arquivo await texto await thread async linha
+Arquivo 684, linha 8: teste thread async teste texto
+Arquivo 684, linha 9: CSharp teste contagem linha texto await arquivo texto await contagem await
+Arquivo 684, linha 10: linha linha texto CSharp async palavra contagem

@@ -1,0 +1,12 @@
+=== Arquivo número 378 ===
+Arquivo 378, linha 1: contagem thread CSharp texto await texto thread async thread await texto thread
+Arquivo 378, linha 2: CSharp linha palavra linha contagem thread linha await await contagem
+Arquivo 378, linha 3: await await async await linha texto thread CSharp
+Arquivo 378, linha 4: palavra arquivo async linha thread linha teste linha contagem
+Arquivo 378, linha 5: texto await contagem CSharp texto arquivo contagem thread
+Arquivo 378, linha 6: linha palavra palavra CSharp linha CSharp await texto linha
+Arquivo 378, linha 7: linha linha linha async CSharp await linha await linha
+Arquivo 378, linha 8: CSharp thread teste linha CSharp linha contagem
+Arquivo 378, linha 9: contagem contagem CSharp linha thread linha contagem linha thread teste await
+Arquivo 378, linha 10: await CSharp CSharp linha linha
+Arquivo 378, linha 11: contagem texto texto texto contagem texto

@@ -1,0 +1,18 @@
+=== Arquivo número 864 ===
+Arquivo 864, linha 1: contagem thread await contagem contagem texto palavra
+Arquivo 864, linha 2: texto texto arquivo async thread arquivo await linha async texto
+Arquivo 864, linha 3: teste texto thread arquivo await texto async contagem palavra
+Arquivo 864, linha 4: async linha arquivo async async thread linha thread contagem async
+Arquivo 864, linha 5: palavra thread arquivo thread await CSharp await
+Arquivo 864, linha 6: teste await CSharp await thread thread teste linha arquivo
+Arquivo 864, linha 7: async thread linha linha teste async linha teste
+Arquivo 864, linha 8: thread async arquivo contagem arquivo await arquivo thread linha
+Arquivo 864, linha 9: palavra palavra await CSharp CSharp arquivo contagem teste
+Arquivo 864, linha 10: thread texto teste contagem thread thread
+Arquivo 864, linha 11: contagem texto linha contagem async await teste texto CSharp await
+Arquivo 864, linha 12: teste teste contagem await texto arquivo
+Arquivo 864, linha 13: arquivo async contagem texto contagem async CSharp texto
+Arquivo 864, linha 14: await texto teste texto await CSharp
+Arquivo 864, linha 15: texto linha async arquivo palavra await palavra await CSharp texto await
+Arquivo 864, linha 16: thread arquivo texto teste thread thread async
+Arquivo 864, linha 17: async contagem teste contagem await thread palavra contagem teste linha await

@@ -1,0 +1,14 @@
+=== Arquivo número 586 ===
+Arquivo 586, linha 1: contagem async linha linha texto await teste await
+Arquivo 586, linha 2: linha linha palavra linha CSharp linha teste CSharp linha
+Arquivo 586, linha 3: async async contagem texto teste async palavra linha
+Arquivo 586, linha 4: palavra async palavra thread await arquivo contagem linha linha arquivo
+Arquivo 586, linha 5: texto CSharp async thread CSharp arquivo texto async teste
+Arquivo 586, linha 6: thread await texto thread async await texto contagem texto contagem contagem
+Arquivo 586, linha 7: arquivo linha async thread thread palavra thread contagem await
+Arquivo 586, linha 8: contagem linha palavra arquivo await thread linha thread texto async palavra texto
+Arquivo 586, linha 9: async teste await contagem await await
+Arquivo 586, linha 10: await CSharp contagem arquivo linha
+Arquivo 586, linha 11: thread async await linha teste async CSharp arquivo async async await
+Arquivo 586, linha 12: arquivo await palavra await palavra thread
+Arquivo 586, linha 13: linha linha thread texto linha teste texto palavra async

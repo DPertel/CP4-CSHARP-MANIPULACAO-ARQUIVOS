@@ -1,0 +1,16 @@
+=== Arquivo número 638 ===
+Arquivo 638, linha 1: CSharp linha linha palavra await await await thread await contagem
+Arquivo 638, linha 2: linha thread thread contagem teste
+Arquivo 638, linha 3: teste teste texto async thread await await CSharp thread arquivo CSharp thread
+Arquivo 638, linha 4: CSharp texto thread teste CSharp async await
+Arquivo 638, linha 5: await arquivo CSharp palavra await async async teste palavra palavra await
+Arquivo 638, linha 6: palavra await await contagem thread
+Arquivo 638, linha 7: async thread teste async arquivo CSharp linha linha contagem
+Arquivo 638, linha 8: arquivo CSharp contagem texto CSharp async linha texto async
+Arquivo 638, linha 9: async CSharp linha CSharp await await thread thread
+Arquivo 638, linha 10: teste teste linha await CSharp await thread async teste palavra texto
+Arquivo 638, linha 11: linha linha teste linha texto texto contagem linha
+Arquivo 638, linha 12: arquivo CSharp async thread arquivo thread palavra contagem await
+Arquivo 638, linha 13: texto palavra texto linha texto contagem
+Arquivo 638, linha 14: async contagem CSharp linha CSharp await async contagem
+Arquivo 638, linha 15: CSharp arquivo await texto contagem thread contagem arquivo palavra CSharp linha

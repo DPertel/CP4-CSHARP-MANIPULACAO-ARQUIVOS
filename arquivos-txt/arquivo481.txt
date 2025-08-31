@@ -1,0 +1,14 @@
+=== Arquivo número 481 ===
+Arquivo 481, linha 1: arquivo linha texto teste linha teste
+Arquivo 481, linha 2: linha texto contagem thread CSharp
+Arquivo 481, linha 3: palavra CSharp palavra async palavra teste CSharp palavra
+Arquivo 481, linha 4: async teste await linha linha arquivo CSharp teste async
+Arquivo 481, linha 5: CSharp async await async palavra teste async thread arquivo linha arquivo arquivo
+Arquivo 481, linha 6: palavra arquivo contagem texto contagem teste async async CSharp palavra arquivo teste
+Arquivo 481, linha 7: linha texto thread palavra contagem contagem teste teste arquivo texto texto
+Arquivo 481, linha 8: texto texto CSharp async CSharp await
+Arquivo 481, linha 9: palavra arquivo linha CSharp await texto
+Arquivo 481, linha 10: contagem await palavra contagem contagem async palavra
+Arquivo 481, linha 11: async texto await CSharp linha
+Arquivo 481, linha 12: thread arquivo linha thread await CSharp teste thread
+Arquivo 481, linha 13: contagem teste thread texto await async await async linha linha palavra

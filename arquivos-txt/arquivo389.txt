@@ -1,0 +1,13 @@
+=== Arquivo número 389 ===
+Arquivo 389, linha 1: palavra palavra arquivo linha palavra arquivo palavra texto palavra contagem texto palavra
+Arquivo 389, linha 2: linha teste texto thread await palavra palavra contagem contagem palavra
+Arquivo 389, linha 3: await teste palavra await thread linha thread texto contagem palavra contagem
+Arquivo 389, linha 4: teste palavra thread linha texto async thread linha teste CSharp arquivo
+Arquivo 389, linha 5: contagem palavra await await contagem await
+Arquivo 389, linha 6: arquivo texto CSharp arquivo thread
+Arquivo 389, linha 7: texto async linha contagem CSharp palavra async palavra linha await
+Arquivo 389, linha 8: await linha contagem palavra teste
+Arquivo 389, linha 9: linha CSharp contagem async CSharp async CSharp await contagem arquivo
+Arquivo 389, linha 10: arquivo arquivo arquivo CSharp palavra palavra texto thread
+Arquivo 389, linha 11: contagem arquivo thread teste async await teste
+Arquivo 389, linha 12: texto async await CSharp await

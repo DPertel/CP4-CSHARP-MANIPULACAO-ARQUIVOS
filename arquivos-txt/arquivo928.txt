@@ -1,0 +1,19 @@
+=== Arquivo número 928 ===
+Arquivo 928, linha 1: teste CSharp arquivo await arquivo CSharp linha CSharp async CSharp texto contagem
+Arquivo 928, linha 2: linha palavra teste arquivo async CSharp await await
+Arquivo 928, linha 3: CSharp teste CSharp CSharp async linha arquivo
+Arquivo 928, linha 4: await async await palavra CSharp palavra async CSharp arquivo thread texto
+Arquivo 928, linha 5: contagem thread async await async await CSharp palavra
+Arquivo 928, linha 6: async texto arquivo async thread teste
+Arquivo 928, linha 7: linha await async async arquivo await await linha linha
+Arquivo 928, linha 8: texto CSharp texto await teste arquivo texto await async arquivo
+Arquivo 928, linha 9: palavra contagem palavra texto palavra teste contagem arquivo linha palavra
+Arquivo 928, linha 10: contagem texto palavra thread texto await linha linha palavra arquivo teste texto
+Arquivo 928, linha 11: teste linha arquivo await thread teste async
+Arquivo 928, linha 12: await contagem linha thread contagem await
+Arquivo 928, linha 13: texto contagem await linha await palavra linha
+Arquivo 928, linha 14: await palavra CSharp teste thread
+Arquivo 928, linha 15: async texto await palavra contagem palavra
+Arquivo 928, linha 16: CSharp palavra arquivo async contagem await CSharp
+Arquivo 928, linha 17: texto linha teste CSharp thread teste async teste arquivo thread teste
+Arquivo 928, linha 18: contagem CSharp await linha teste await texto CSharp teste CSharp contagem palavra

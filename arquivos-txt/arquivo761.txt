@@ -1,0 +1,5 @@
+=== Arquivo número 761 ===
+Arquivo 761, linha 1: contagem arquivo texto thread await linha arquivo thread linha thread linha thread
+Arquivo 761, linha 2: teste await contagem CSharp texto teste contagem teste palavra async async
+Arquivo 761, linha 3: await await thread contagem contagem palavra async arquivo teste
+Arquivo 761, linha 4: linha contagem await texto arquivo contagem CSharp CSharp contagem teste teste

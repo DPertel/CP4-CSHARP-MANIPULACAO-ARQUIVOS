@@ -1,0 +1,18 @@
+=== Arquivo número 459 ===
+Arquivo 459, linha 1: linha contagem texto contagem contagem texto
+Arquivo 459, linha 2: teste CSharp CSharp CSharp CSharp await palavra thread CSharp await async async
+Arquivo 459, linha 3: thread palavra texto linha arquivo palavra palavra texto await
+Arquivo 459, linha 4: CSharp CSharp thread contagem teste async arquivo arquivo teste thread linha
+Arquivo 459, linha 5: arquivo teste texto async linha teste palavra contagem linha texto async
+Arquivo 459, linha 6: await await CSharp arquivo palavra
+Arquivo 459, linha 7: linha arquivo await async texto
+Arquivo 459, linha 8: contagem palavra arquivo teste contagem
+Arquivo 459, linha 9: teste thread teste teste teste CSharp arquivo palavra thread linha
+Arquivo 459, linha 10: palavra await texto teste async teste linha contagem
+Arquivo 459, linha 11: texto contagem linha texto await
+Arquivo 459, linha 12: CSharp contagem linha arquivo linha CSharp contagem teste thread
+Arquivo 459, linha 13: CSharp await arquivo thread linha texto contagem
+Arquivo 459, linha 14: CSharp palavra texto texto teste linha texto thread arquivo await texto linha
+Arquivo 459, linha 15: palavra await CSharp contagem async
+Arquivo 459, linha 16: arquivo linha linha await CSharp palavra linha async async palavra async
+Arquivo 459, linha 17: linha await teste teste linha arquivo async contagem teste

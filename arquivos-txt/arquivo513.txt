@@ -1,0 +1,18 @@
+=== Arquivo número 513 ===
+Arquivo 513, linha 1: arquivo thread CSharp CSharp arquivo CSharp linha CSharp
+Arquivo 513, linha 2: arquivo palavra linha palavra async await texto texto
+Arquivo 513, linha 3: palavra await CSharp arquivo texto teste palavra
+Arquivo 513, linha 4: CSharp await linha thread thread arquivo palavra
+Arquivo 513, linha 5: async linha await CSharp arquivo CSharp
+Arquivo 513, linha 6: thread CSharp teste async linha CSharp texto contagem
+Arquivo 513, linha 7: CSharp CSharp contagem contagem palavra async palavra async palavra palavra await
+Arquivo 513, linha 8: texto async CSharp arquivo texto palavra async texto
+Arquivo 513, linha 9: palavra thread texto async teste
+Arquivo 513, linha 10: contagem texto await async teste thread palavra thread async await linha texto
+Arquivo 513, linha 11: linha CSharp arquivo texto palavra contagem texto palavra palavra thread
+Arquivo 513, linha 12: thread await palavra texto contagem await await teste arquivo CSharp teste
+Arquivo 513, linha 13: teste teste texto async teste async contagem await async contagem palavra async
+Arquivo 513, linha 14: CSharp contagem linha palavra texto async
+Arquivo 513, linha 15: palavra async contagem await thread texto async arquivo linha async
+Arquivo 513, linha 16: linha teste contagem async await palavra thread
+Arquivo 513, linha 17: CSharp async CSharp texto CSharp

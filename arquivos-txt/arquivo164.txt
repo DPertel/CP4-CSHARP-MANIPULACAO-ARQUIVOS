@@ -1,0 +1,19 @@
+=== Arquivo número 164 ===
+Arquivo 164, linha 1: CSharp linha palavra arquivo linha teste linha async teste linha linha
+Arquivo 164, linha 2: linha CSharp linha linha arquivo texto async async palavra
+Arquivo 164, linha 3: await CSharp async arquivo async thread contagem texto teste await
+Arquivo 164, linha 4: teste teste palavra thread teste
+Arquivo 164, linha 5: async arquivo thread async CSharp
+Arquivo 164, linha 6: thread thread teste texto CSharp async
+Arquivo 164, linha 7: CSharp arquivo linha CSharp texto arquivo thread arquivo linha async
+Arquivo 164, linha 8: CSharp palavra teste linha palavra async contagem
+Arquivo 164, linha 9: palavra linha teste texto linha CSharp linha arquivo linha async linha
+Arquivo 164, linha 10: texto linha teste thread arquivo texto thread CSharp palavra
+Arquivo 164, linha 11: async CSharp CSharp linha contagem CSharp
+Arquivo 164, linha 12: teste contagem async palavra await async
+Arquivo 164, linha 13: await thread teste teste arquivo teste teste CSharp arquivo texto thread
+Arquivo 164, linha 14: async arquivo thread texto CSharp thread thread await contagem
+Arquivo 164, linha 15: thread thread texto palavra arquivo palavra arquivo linha palavra CSharp texto
+Arquivo 164, linha 16: thread contagem contagem arquivo texto thread teste async
+Arquivo 164, linha 17: linha await palavra thread thread CSharp
+Arquivo 164, linha 18: async palavra thread teste CSharp texto palavra CSharp

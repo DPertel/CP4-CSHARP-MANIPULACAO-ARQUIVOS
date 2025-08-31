@@ -1,0 +1,10 @@
+=== Arquivo número 773 ===
+Arquivo 773, linha 1: linha arquivo thread teste CSharp linha
+Arquivo 773, linha 2: teste thread linha arquivo linha async
+Arquivo 773, linha 3: contagem palavra arquivo CSharp arquivo linha
+Arquivo 773, linha 4: texto CSharp thread contagem CSharp texto arquivo texto texto teste arquivo
+Arquivo 773, linha 5: CSharp texto async texto CSharp async linha CSharp
+Arquivo 773, linha 6: CSharp palavra CSharp linha arquivo teste thread texto CSharp thread
+Arquivo 773, linha 7: linha texto arquivo palavra thread await linha CSharp
+Arquivo 773, linha 8: thread await teste thread CSharp CSharp CSharp await teste async await
+Arquivo 773, linha 9: palavra palavra arquivo linha palavra async thread CSharp linha arquivo texto

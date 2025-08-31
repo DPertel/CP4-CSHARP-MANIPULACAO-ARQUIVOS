@@ -1,0 +1,6 @@
+=== Arquivo número 485 ===
+Arquivo 485, linha 1: palavra linha texto teste await await
+Arquivo 485, linha 2: texto async thread linha thread linha
+Arquivo 485, linha 3: CSharp arquivo palavra arquivo contagem await arquivo contagem texto
+Arquivo 485, linha 4: arquivo contagem CSharp thread arquivo linha teste texto
+Arquivo 485, linha 5: thread teste CSharp await palavra

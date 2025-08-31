@@ -1,0 +1,18 @@
+=== Arquivo número 495 ===
+Arquivo 495, linha 1: await texto CSharp linha thread texto async contagem teste teste async palavra
+Arquivo 495, linha 2: palavra linha palavra teste CSharp arquivo async
+Arquivo 495, linha 3: arquivo teste linha texto teste texto await thread contagem
+Arquivo 495, linha 4: teste arquivo await arquivo texto await thread texto
+Arquivo 495, linha 5: async contagem linha texto CSharp palavra texto contagem async
+Arquivo 495, linha 6: texto teste teste palavra await linha contagem async
+Arquivo 495, linha 7: palavra linha palavra await CSharp texto texto linha linha
+Arquivo 495, linha 8: teste palavra arquivo palavra async
+Arquivo 495, linha 9: teste linha linha await CSharp
+Arquivo 495, linha 10: palavra contagem async texto teste
+Arquivo 495, linha 11: palavra CSharp palavra teste CSharp arquivo await async arquivo
+Arquivo 495, linha 12: teste CSharp teste teste CSharp CSharp teste thread
+Arquivo 495, linha 13: arquivo linha CSharp contagem palavra texto texto contagem texto teste arquivo
+Arquivo 495, linha 14: texto texto async arquivo texto contagem async async linha await
+Arquivo 495, linha 15: teste async linha teste palavra palavra
+Arquivo 495, linha 16: palavra contagem teste thread teste async async async
+Arquivo 495, linha 17: thread contagem texto teste await CSharp texto

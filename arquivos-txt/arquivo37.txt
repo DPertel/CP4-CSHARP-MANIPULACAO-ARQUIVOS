@@ -1,0 +1,14 @@
+=== Arquivo número 37 ===
+Arquivo 37, linha 1: contagem async CSharp thread arquivo contagem arquivo
+Arquivo 37, linha 2: contagem linha async palavra arquivo teste contagem CSharp contagem arquivo
+Arquivo 37, linha 3: CSharp async arquivo arquivo arquivo teste texto await arquivo
+Arquivo 37, linha 4: contagem teste palavra async await await async linha contagem
+Arquivo 37, linha 5: texto texto CSharp CSharp teste thread await contagem contagem teste palavra
+Arquivo 37, linha 6: CSharp arquivo palavra CSharp thread arquivo await palavra CSharp
+Arquivo 37, linha 7: async teste await async thread linha palavra texto contagem palavra linha
+Arquivo 37, linha 8: texto arquivo palavra CSharp contagem palavra CSharp
+Arquivo 37, linha 9: arquivo await arquivo palavra CSharp async thread
+Arquivo 37, linha 10: CSharp palavra teste palavra teste linha CSharp contagem teste
+Arquivo 37, linha 11: palavra linha texto palavra await await async
+Arquivo 37, linha 12: contagem teste contagem thread linha contagem
+Arquivo 37, linha 13: palavra thread palavra palavra texto linha async palavra contagem arquivo teste

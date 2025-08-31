@@ -1,0 +1,6 @@
+=== Arquivo número 368 ===
+Arquivo 368, linha 1: contagem CSharp palavra linha arquivo linha CSharp CSharp await
+Arquivo 368, linha 2: palavra palavra teste teste async arquivo await palavra arquivo async linha
+Arquivo 368, linha 3: CSharp linha texto teste async linha CSharp await async arquivo teste
+Arquivo 368, linha 4: teste linha contagem await contagem async thread teste
+Arquivo 368, linha 5: texto async linha await thread linha CSharp texto texto thread palavra

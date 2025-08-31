@@ -1,0 +1,11 @@
+=== Arquivo número 196 ===
+Arquivo 196, linha 1: await teste palavra thread arquivo palavra arquivo await await teste teste
+Arquivo 196, linha 2: arquivo contagem linha async linha contagem await contagem
+Arquivo 196, linha 3: teste linha await contagem CSharp
+Arquivo 196, linha 4: await linha arquivo teste async await await arquivo contagem async teste
+Arquivo 196, linha 5: texto contagem arquivo palavra linha teste linha CSharp texto palavra
+Arquivo 196, linha 6: teste texto linha linha arquivo contagem
+Arquivo 196, linha 7: await thread CSharp async texto await CSharp
+Arquivo 196, linha 8: async teste texto thread contagem
+Arquivo 196, linha 9: async thread await CSharp contagem contagem texto await
+Arquivo 196, linha 10: contagem palavra async contagem await texto linha teste

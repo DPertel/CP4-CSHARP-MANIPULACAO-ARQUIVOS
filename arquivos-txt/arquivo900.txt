@@ -1,0 +1,13 @@
+=== Arquivo número 900 ===
+Arquivo 900, linha 1: linha texto linha async thread
+Arquivo 900, linha 2: CSharp linha await async await arquivo
+Arquivo 900, linha 3: async contagem teste arquivo palavra contagem texto texto async palavra
+Arquivo 900, linha 4: await teste teste async async
+Arquivo 900, linha 5: await teste CSharp arquivo contagem texto await teste teste teste texto
+Arquivo 900, linha 6: palavra async thread arquivo await thread async thread
+Arquivo 900, linha 7: contagem async arquivo await CSharp
+Arquivo 900, linha 8: await contagem async contagem thread contagem teste CSharp thread texto teste
+Arquivo 900, linha 9: contagem arquivo thread await CSharp await thread linha async contagem
+Arquivo 900, linha 10: contagem thread await contagem palavra CSharp async thread palavra arquivo async
+Arquivo 900, linha 11: texto await contagem CSharp palavra thread CSharp
+Arquivo 900, linha 12: arquivo linha thread texto arquivo async linha thread arquivo palavra

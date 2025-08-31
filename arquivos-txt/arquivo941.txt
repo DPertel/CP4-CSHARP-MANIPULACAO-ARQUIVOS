@@ -1,0 +1,7 @@
+=== Arquivo número 941 ===
+Arquivo 941, linha 1: linha linha await linha thread thread palavra palavra CSharp
+Arquivo 941, linha 2: thread await texto teste thread texto CSharp await teste await async
+Arquivo 941, linha 3: CSharp contagem thread async linha async arquivo teste await teste teste
+Arquivo 941, linha 4: await arquivo linha arquivo linha palavra palavra thread contagem
+Arquivo 941, linha 5: arquivo palavra await texto thread CSharp teste await linha contagem CSharp
+Arquivo 941, linha 6: palavra palavra CSharp CSharp thread contagem

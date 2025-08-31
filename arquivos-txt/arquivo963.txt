@@ -1,0 +1,12 @@
+=== Arquivo número 963 ===
+Arquivo 963, linha 1: CSharp await CSharp palavra contagem
+Arquivo 963, linha 2: thread texto await async arquivo await linha
+Arquivo 963, linha 3: palavra teste thread texto await palavra palavra await await
+Arquivo 963, linha 4: async await palavra texto async texto await thread teste arquivo thread thread
+Arquivo 963, linha 5: contagem linha linha linha texto texto arquivo CSharp thread linha contagem palavra
+Arquivo 963, linha 6: linha CSharp async teste thread CSharp contagem
+Arquivo 963, linha 7: arquivo async teste palavra CSharp teste
+Arquivo 963, linha 8: arquivo async linha teste arquivo thread
+Arquivo 963, linha 9: teste palavra async texto teste texto
+Arquivo 963, linha 10: palavra arquivo teste arquivo contagem palavra async
+Arquivo 963, linha 11: teste teste linha linha async linha teste

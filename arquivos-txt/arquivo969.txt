@@ -1,0 +1,17 @@
+=== Arquivo número 969 ===
+Arquivo 969, linha 1: contagem thread async teste thread palavra
+Arquivo 969, linha 2: await CSharp palavra async CSharp teste await palavra texto contagem
+Arquivo 969, linha 3: await teste teste thread texto thread palavra palavra thread CSharp contagem thread
+Arquivo 969, linha 4: CSharp async arquivo linha contagem linha await arquivo async texto contagem await
+Arquivo 969, linha 5: async CSharp thread texto arquivo CSharp CSharp contagem await async
+Arquivo 969, linha 6: arquivo contagem await texto CSharp thread CSharp palavra contagem teste
+Arquivo 969, linha 7: thread CSharp async linha teste teste thread thread arquivo await thread
+Arquivo 969, linha 8: thread thread await await await CSharp
+Arquivo 969, linha 9: teste texto arquivo palavra CSharp async teste CSharp palavra arquivo
+Arquivo 969, linha 10: contagem arquivo await CSharp texto teste contagem CSharp CSharp linha contagem texto
+Arquivo 969, linha 11: arquivo teste CSharp arquivo teste arquivo async async palavra palavra arquivo
+Arquivo 969, linha 12: await arquivo arquivo palavra await CSharp async contagem teste linha
+Arquivo 969, linha 13: linha async async CSharp CSharp
+Arquivo 969, linha 14: linha palavra CSharp arquivo arquivo thread thread
+Arquivo 969, linha 15: thread thread texto arquivo arquivo async async linha CSharp teste thread linha
+Arquivo 969, linha 16: teste thread await palavra CSharp palavra teste texto async thread texto

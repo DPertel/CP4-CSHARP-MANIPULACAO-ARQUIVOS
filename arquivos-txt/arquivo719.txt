@@ -1,0 +1,19 @@
+=== Arquivo número 719 ===
+Arquivo 719, linha 1: CSharp teste texto CSharp CSharp await
+Arquivo 719, linha 2: async arquivo texto async async
+Arquivo 719, linha 3: async linha arquivo CSharp arquivo linha teste
+Arquivo 719, linha 4: contagem teste thread linha palavra teste thread
+Arquivo 719, linha 5: linha contagem await texto texto CSharp teste async palavra async await palavra
+Arquivo 719, linha 6: palavra teste arquivo contagem thread async
+Arquivo 719, linha 7: contagem palavra palavra contagem await arquivo teste
+Arquivo 719, linha 8: thread arquivo arquivo arquivo await
+Arquivo 719, linha 9: texto arquivo teste await await
+Arquivo 719, linha 10: thread await CSharp await linha linha arquivo CSharp thread teste
+Arquivo 719, linha 11: await contagem teste arquivo arquivo async teste linha thread await linha
+Arquivo 719, linha 12: teste await contagem texto await async CSharp palavra async palavra texto
+Arquivo 719, linha 13: CSharp teste CSharp palavra CSharp teste contagem
+Arquivo 719, linha 14: palavra thread linha arquivo async linha palavra linha thread arquivo CSharp
+Arquivo 719, linha 15: contagem await linha async async
+Arquivo 719, linha 16: linha teste teste palavra CSharp
+Arquivo 719, linha 17: contagem texto await CSharp linha
+Arquivo 719, linha 18: contagem await thread await await linha await texto linha

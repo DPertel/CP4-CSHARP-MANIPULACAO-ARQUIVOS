@@ -1,0 +1,5 @@
+=== Arquivo número 688 ===
+Arquivo 688, linha 1: teste texto async palavra thread arquivo contagem linha
+Arquivo 688, linha 2: CSharp async palavra linha palavra async
+Arquivo 688, linha 3: await contagem palavra palavra texto contagem
+Arquivo 688, linha 4: teste await contagem teste CSharp

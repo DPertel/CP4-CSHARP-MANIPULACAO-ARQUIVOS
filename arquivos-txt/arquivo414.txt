@@ -1,0 +1,7 @@
+=== Arquivo número 414 ===
+Arquivo 414, linha 1: thread linha arquivo palavra palavra
+Arquivo 414, linha 2: teste arquivo texto linha async contagem palavra async
+Arquivo 414, linha 3: arquivo teste arquivo arquivo thread
+Arquivo 414, linha 4: CSharp async teste palavra palavra teste
+Arquivo 414, linha 5: palavra texto contagem texto CSharp teste palavra
+Arquivo 414, linha 6: CSharp CSharp async linha CSharp linha CSharp

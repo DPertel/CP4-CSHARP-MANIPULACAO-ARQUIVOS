@@ -1,0 +1,11 @@
+=== Arquivo número 577 ===
+Arquivo 577, linha 1: CSharp async async await CSharp arquivo
+Arquivo 577, linha 2: async palavra linha async linha await
+Arquivo 577, linha 3: await palavra linha linha CSharp async async texto
+Arquivo 577, linha 4: thread contagem arquivo texto CSharp
+Arquivo 577, linha 5: palavra contagem arquivo texto arquivo texto arquivo thread contagem arquivo
+Arquivo 577, linha 6: CSharp await async async texto arquivo arquivo palavra contagem CSharp
+Arquivo 577, linha 7: thread palavra CSharp await async texto thread contagem await
+Arquivo 577, linha 8: contagem teste linha contagem contagem CSharp teste async teste contagem teste
+Arquivo 577, linha 9: palavra CSharp palavra teste palavra palavra arquivo texto arquivo contagem CSharp linha
+Arquivo 577, linha 10: linha async thread thread async async linha await contagem CSharp

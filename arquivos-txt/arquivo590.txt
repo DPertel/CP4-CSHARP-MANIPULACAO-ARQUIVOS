@@ -1,0 +1,18 @@
+=== Arquivo número 590 ===
+Arquivo 590, linha 1: teste teste texto contagem arquivo thread palavra
+Arquivo 590, linha 2: linha arquivo thread arquivo texto
+Arquivo 590, linha 3: palavra CSharp async linha CSharp contagem
+Arquivo 590, linha 4: contagem async palavra arquivo await contagem
+Arquivo 590, linha 5: linha arquivo arquivo async texto teste arquivo
+Arquivo 590, linha 6: async arquivo async async thread thread thread thread
+Arquivo 590, linha 7: palavra async contagem thread palavra await palavra thread
+Arquivo 590, linha 8: texto teste await thread teste texto async palavra
+Arquivo 590, linha 9: CSharp arquivo thread teste texto linha arquivo palavra await contagem
+Arquivo 590, linha 10: arquivo arquivo contagem thread thread contagem await teste arquivo thread contagem
+Arquivo 590, linha 11: linha contagem CSharp thread linha async
+Arquivo 590, linha 12: CSharp linha teste async arquivo teste contagem palavra await
+Arquivo 590, linha 13: teste texto thread teste arquivo teste arquivo
+Arquivo 590, linha 14: CSharp texto async thread thread CSharp async palavra await palavra
+Arquivo 590, linha 15: CSharp arquivo contagem thread arquivo async linha arquivo thread palavra
+Arquivo 590, linha 16: linha async contagem linha CSharp thread teste
+Arquivo 590, linha 17: linha CSharp contagem contagem thread thread arquivo palavra palavra teste palavra

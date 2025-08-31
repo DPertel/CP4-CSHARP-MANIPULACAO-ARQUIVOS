@@ -1,0 +1,16 @@
+=== Arquivo número 596 ===
+Arquivo 596, linha 1: arquivo teste CSharp teste CSharp thread async arquivo linha await
+Arquivo 596, linha 2: palavra thread linha thread thread thread linha palavra
+Arquivo 596, linha 3: CSharp palavra CSharp CSharp contagem CSharp async
+Arquivo 596, linha 4: teste teste thread teste texto linha
+Arquivo 596, linha 5: texto async CSharp await texto linha contagem async await arquivo
+Arquivo 596, linha 6: await palavra await teste async
+Arquivo 596, linha 7: thread teste CSharp await linha teste linha linha
+Arquivo 596, linha 8: thread texto linha linha thread async thread palavra teste
+Arquivo 596, linha 9: arquivo teste await linha arquivo async
+Arquivo 596, linha 10: linha teste async linha thread linha CSharp texto async async
+Arquivo 596, linha 11: contagem CSharp linha palavra arquivo arquivo arquivo
+Arquivo 596, linha 12: contagem async contagem await linha
+Arquivo 596, linha 13: await teste await teste texto contagem
+Arquivo 596, linha 14: palavra arquivo await teste CSharp thread texto linha async texto
+Arquivo 596, linha 15: linha thread teste arquivo thread await await CSharp palavra

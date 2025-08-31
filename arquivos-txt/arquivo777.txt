@@ -1,0 +1,5 @@
+=== Arquivo número 777 ===
+Arquivo 777, linha 1: contagem linha arquivo async teste texto contagem async
+Arquivo 777, linha 2: linha arquivo arquivo async async CSharp await linha texto
+Arquivo 777, linha 3: arquivo await linha thread arquivo async contagem texto palavra async thread
+Arquivo 777, linha 4: texto contagem teste CSharp await arquivo palavra CSharp palavra arquivo CSharp

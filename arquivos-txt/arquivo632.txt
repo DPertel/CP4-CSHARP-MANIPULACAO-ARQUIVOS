@@ -1,0 +1,17 @@
+=== Arquivo número 632 ===
+Arquivo 632, linha 1: teste CSharp teste linha teste contagem
+Arquivo 632, linha 2: linha texto await arquivo texto palavra async teste async async
+Arquivo 632, linha 3: await contagem palavra async thread linha thread await async
+Arquivo 632, linha 4: thread teste thread teste texto arquivo teste linha async async linha teste
+Arquivo 632, linha 5: palavra contagem texto texto contagem thread async teste contagem thread thread
+Arquivo 632, linha 6: async texto arquivo async thread
+Arquivo 632, linha 7: await CSharp arquivo thread CSharp arquivo arquivo teste linha
+Arquivo 632, linha 8: arquivo CSharp CSharp await palavra linha CSharp contagem thread async contagem
+Arquivo 632, linha 9: linha thread CSharp linha texto
+Arquivo 632, linha 10: linha contagem await contagem arquivo texto arquivo texto async arquivo teste thread
+Arquivo 632, linha 11: palavra arquivo teste palavra palavra palavra teste teste CSharp
+Arquivo 632, linha 12: CSharp arquivo teste await texto
+Arquivo 632, linha 13: linha palavra arquivo thread palavra linha await texto teste thread
+Arquivo 632, linha 14: thread teste linha teste thread contagem palavra arquivo palavra linha
+Arquivo 632, linha 15: arquivo linha thread CSharp async texto palavra linha async thread
+Arquivo 632, linha 16: await await thread await CSharp

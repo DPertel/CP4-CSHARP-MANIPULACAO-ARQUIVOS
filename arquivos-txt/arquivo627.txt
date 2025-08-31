@@ -1,0 +1,17 @@
+=== Arquivo número 627 ===
+Arquivo 627, linha 1: palavra palavra await async await linha teste thread await await await CSharp
+Arquivo 627, linha 2: await contagem thread teste thread palavra
+Arquivo 627, linha 3: CSharp linha arquivo teste texto teste teste linha palavra CSharp
+Arquivo 627, linha 4: thread thread CSharp arquivo thread teste texto
+Arquivo 627, linha 5: texto CSharp await texto arquivo teste thread CSharp async
+Arquivo 627, linha 6: palavra texto texto await contagem arquivo texto arquivo arquivo texto
+Arquivo 627, linha 7: palavra linha teste thread thread arquivo await linha
+Arquivo 627, linha 8: async CSharp thread arquivo thread async arquivo CSharp thread contagem teste async
+Arquivo 627, linha 9: async contagem palavra arquivo arquivo CSharp arquivo await thread teste thread palavra
+Arquivo 627, linha 10: palavra palavra arquivo arquivo teste thread contagem teste await CSharp
+Arquivo 627, linha 11: thread arquivo CSharp linha CSharp palavra linha linha palavra contagem await teste
+Arquivo 627, linha 12: CSharp palavra async teste async linha thread async linha linha arquivo teste
+Arquivo 627, linha 13: thread async arquivo teste await CSharp
+Arquivo 627, linha 14: contagem contagem linha async async palavra contagem thread texto
+Arquivo 627, linha 15: CSharp contagem linha thread palavra palavra palavra CSharp palavra CSharp palavra
+Arquivo 627, linha 16: arquivo contagem teste await contagem teste linha arquivo async

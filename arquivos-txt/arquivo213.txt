@@ -1,0 +1,17 @@
+=== Arquivo número 213 ===
+Arquivo 213, linha 1: async teste teste async await CSharp
+Arquivo 213, linha 2: teste linha arquivo async await texto arquivo CSharp
+Arquivo 213, linha 3: await thread palavra contagem async teste
+Arquivo 213, linha 4: palavra async linha arquivo texto palavra
+Arquivo 213, linha 5: thread teste palavra await contagem
+Arquivo 213, linha 6: teste CSharp async async async CSharp arquivo async async await
+Arquivo 213, linha 7: texto await palavra texto teste
+Arquivo 213, linha 8: linha arquivo palavra palavra await
+Arquivo 213, linha 9: CSharp linha thread arquivo arquivo palavra texto
+Arquivo 213, linha 10: contagem palavra await CSharp teste linha CSharp CSharp CSharp texto
+Arquivo 213, linha 11: CSharp teste CSharp palavra texto async await texto palavra texto async
+Arquivo 213, linha 12: contagem CSharp thread texto arquivo teste async linha arquivo
+Arquivo 213, linha 13: await linha contagem arquivo linha arquivo palavra await contagem palavra contagem
+Arquivo 213, linha 14: contagem teste contagem CSharp palavra thread await
+Arquivo 213, linha 15: arquivo linha palavra async thread contagem palavra palavra contagem async
+Arquivo 213, linha 16: async CSharp CSharp async arquivo contagem CSharp texto

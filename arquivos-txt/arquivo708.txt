@@ -1,0 +1,13 @@
+=== Arquivo número 708 ===
+Arquivo 708, linha 1: texto await contagem CSharp teste await
+Arquivo 708, linha 2: teste palavra texto contagem linha arquivo contagem CSharp await async linha texto
+Arquivo 708, linha 3: thread palavra palavra thread arquivo teste linha CSharp arquivo CSharp texto texto
+Arquivo 708, linha 4: await await teste palavra teste await linha CSharp linha CSharp contagem teste
+Arquivo 708, linha 5: texto linha teste thread CSharp contagem async teste thread
+Arquivo 708, linha 6: thread contagem contagem thread async teste contagem linha teste teste
+Arquivo 708, linha 7: teste contagem arquivo teste await contagem texto thread await async linha
+Arquivo 708, linha 8: texto linha arquivo async teste palavra await teste
+Arquivo 708, linha 9: teste thread linha await arquivo teste await teste palavra await
+Arquivo 708, linha 10: async texto CSharp teste arquivo texto thread arquivo palavra texto contagem await
+Arquivo 708, linha 11: contagem await linha linha CSharp CSharp arquivo linha arquivo thread contagem
+Arquivo 708, linha 12: thread teste await await thread async teste

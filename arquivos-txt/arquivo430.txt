@@ -1,0 +1,8 @@
+=== Arquivo número 430 ===
+Arquivo 430, linha 1: linha async texto await thread linha palavra
+Arquivo 430, linha 2: texto teste CSharp texto texto async thread
+Arquivo 430, linha 3: thread palavra linha palavra CSharp arquivo
+Arquivo 430, linha 4: async texto contagem thread arquivo palavra texto linha async await
+Arquivo 430, linha 5: palavra thread CSharp arquivo thread arquivo texto contagem palavra CSharp
+Arquivo 430, linha 6: thread thread arquivo CSharp linha
+Arquivo 430, linha 7: CSharp teste thread linha contagem CSharp linha contagem thread thread

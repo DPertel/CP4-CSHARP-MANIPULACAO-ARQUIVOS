@@ -1,0 +1,15 @@
+=== Arquivo número 176 ===
+Arquivo 176, linha 1: thread CSharp contagem teste thread texto
+Arquivo 176, linha 2: texto arquivo palavra contagem contagem thread linha contagem palavra linha texto arquivo
+Arquivo 176, linha 3: CSharp texto thread linha arquivo palavra thread palavra
+Arquivo 176, linha 4: CSharp thread async await CSharp contagem arquivo thread await linha texto
+Arquivo 176, linha 5: texto teste arquivo linha texto arquivo
+Arquivo 176, linha 6: teste texto thread await CSharp
+Arquivo 176, linha 7: arquivo arquivo await linha teste CSharp thread texto teste
+Arquivo 176, linha 8: linha texto palavra thread teste arquivo arquivo contagem thread contagem linha
+Arquivo 176, linha 9: texto arquivo arquivo contagem contagem CSharp arquivo CSharp
+Arquivo 176, linha 10: await texto texto thread async arquivo async await texto contagem thread await
+Arquivo 176, linha 11: arquivo await texto palavra teste CSharp async linha teste await
+Arquivo 176, linha 12: contagem CSharp teste texto thread await linha
+Arquivo 176, linha 13: contagem contagem thread palavra linha await
+Arquivo 176, linha 14: async teste thread await CSharp CSharp await arquivo arquivo

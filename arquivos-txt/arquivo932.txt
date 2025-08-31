@@ -1,0 +1,19 @@
+=== Arquivo número 932 ===
+Arquivo 932, linha 1: linha teste texto linha teste CSharp
+Arquivo 932, linha 2: arquivo texto texto linha await linha palavra palavra contagem arquivo teste async
+Arquivo 932, linha 3: palavra texto linha teste texto arquivo teste async texto await
+Arquivo 932, linha 4: CSharp texto arquivo thread teste
+Arquivo 932, linha 5: linha teste linha CSharp await
+Arquivo 932, linha 6: async linha linha CSharp CSharp
+Arquivo 932, linha 7: async teste await arquivo teste await texto CSharp linha await teste await
+Arquivo 932, linha 8: async texto arquivo contagem linha contagem
+Arquivo 932, linha 9: texto texto linha texto linha arquivo palavra linha
+Arquivo 932, linha 10: palavra await arquivo CSharp arquivo linha contagem CSharp palavra texto texto teste
+Arquivo 932, linha 11: arquivo linha texto await thread palavra palavra CSharp arquivo
+Arquivo 932, linha 12: linha thread texto palavra texto palavra teste palavra thread teste palavra
+Arquivo 932, linha 13: CSharp arquivo linha await thread thread linha contagem palavra texto CSharp
+Arquivo 932, linha 14: await teste thread contagem thread arquivo
+Arquivo 932, linha 15: arquivo teste palavra CSharp await teste linha async contagem palavra await linha
+Arquivo 932, linha 16: CSharp palavra thread CSharp arquivo linha
+Arquivo 932, linha 17: linha arquivo async CSharp arquivo linha texto thread
+Arquivo 932, linha 18: contagem arquivo arquivo await async

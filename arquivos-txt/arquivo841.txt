@@ -1,0 +1,13 @@
+=== Arquivo número 841 ===
+Arquivo 841, linha 1: async thread CSharp arquivo CSharp contagem contagem async arquivo texto arquivo CSharp
+Arquivo 841, linha 2: texto await arquivo palavra texto thread texto arquivo texto thread async texto
+Arquivo 841, linha 3: texto thread arquivo arquivo thread async linha contagem texto palavra async palavra
+Arquivo 841, linha 4: await texto texto linha contagem arquivo linha texto
+Arquivo 841, linha 5: linha arquivo palavra arquivo thread linha
+Arquivo 841, linha 6: async contagem CSharp thread arquivo arquivo palavra CSharp
+Arquivo 841, linha 7: contagem texto await palavra texto CSharp contagem teste
+Arquivo 841, linha 8: async texto async texto thread teste async thread linha palavra arquivo arquivo
+Arquivo 841, linha 9: contagem arquivo thread await teste CSharp palavra palavra texto await
+Arquivo 841, linha 10: CSharp CSharp await contagem CSharp teste texto teste CSharp
+Arquivo 841, linha 11: texto contagem contagem async CSharp contagem arquivo arquivo contagem linha thread
+Arquivo 841, linha 12: linha arquivo palavra texto contagem await CSharp async texto arquivo

@@ -1,0 +1,19 @@
+=== Arquivo número 349 ===
+Arquivo 349, linha 1: thread thread await await CSharp thread CSharp texto linha await async
+Arquivo 349, linha 2: async texto palavra teste linha texto async CSharp teste thread
+Arquivo 349, linha 3: thread linha contagem CSharp contagem async thread
+Arquivo 349, linha 4: contagem async CSharp async contagem async async arquivo async linha
+Arquivo 349, linha 5: contagem palavra teste arquivo palavra
+Arquivo 349, linha 6: thread async linha async CSharp arquivo palavra await
+Arquivo 349, linha 7: CSharp CSharp texto texto arquivo CSharp texto arquivo
+Arquivo 349, linha 8: arquivo texto async CSharp thread thread thread
+Arquivo 349, linha 9: texto teste palavra await CSharp CSharp thread texto async palavra
+Arquivo 349, linha 10: await CSharp await async await texto arquivo linha contagem thread
+Arquivo 349, linha 11: CSharp palavra texto arquivo contagem arquivo
+Arquivo 349, linha 12: linha teste thread thread texto palavra async arquivo CSharp
+Arquivo 349, linha 13: arquivo teste texto thread async contagem texto contagem contagem palavra await
+Arquivo 349, linha 14: async texto palavra texto CSharp async CSharp await CSharp arquivo contagem
+Arquivo 349, linha 15: arquivo CSharp contagem palavra texto
+Arquivo 349, linha 16: contagem await linha async linha async CSharp async
+Arquivo 349, linha 17: palavra CSharp teste await thread CSharp arquivo arquivo CSharp teste thread texto
+Arquivo 349, linha 18: async await contagem teste teste linha

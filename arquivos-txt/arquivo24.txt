@@ -1,0 +1,6 @@
+=== Arquivo número 24 ===
+Arquivo 24, linha 1: contagem thread palavra linha async arquivo teste arquivo arquivo await thread async
+Arquivo 24, linha 2: linha CSharp texto thread arquivo texto teste teste CSharp
+Arquivo 24, linha 3: async arquivo palavra palavra CSharp
+Arquivo 24, linha 4: linha teste teste CSharp thread arquivo
+Arquivo 24, linha 5: contagem CSharp CSharp async thread linha async await contagem contagem

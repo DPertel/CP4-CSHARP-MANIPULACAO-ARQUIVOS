@@ -1,0 +1,12 @@
+=== Arquivo número 884 ===
+Arquivo 884, linha 1: teste await thread teste thread texto teste texto thread linha
+Arquivo 884, linha 2: contagem async contagem texto CSharp
+Arquivo 884, linha 3: async contagem linha CSharp teste contagem contagem await teste
+Arquivo 884, linha 4: teste teste async texto contagem
+Arquivo 884, linha 5: linha async await CSharp thread linha
+Arquivo 884, linha 6: palavra texto thread texto contagem await thread linha teste thread texto linha
+Arquivo 884, linha 7: texto palavra await palavra CSharp async CSharp async async async await
+Arquivo 884, linha 8: teste thread linha palavra CSharp await linha contagem palavra linha teste
+Arquivo 884, linha 9: CSharp CSharp teste linha await palavra CSharp
+Arquivo 884, linha 10: async linha await async thread await thread async async async async
+Arquivo 884, linha 11: texto teste palavra texto CSharp

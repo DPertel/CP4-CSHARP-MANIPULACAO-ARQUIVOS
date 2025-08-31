@@ -1,0 +1,15 @@
+=== Arquivo número 313 ===
+Arquivo 313, linha 1: texto async await arquivo thread CSharp contagem
+Arquivo 313, linha 2: thread CSharp palavra texto thread await CSharp texto contagem await teste
+Arquivo 313, linha 3: linha contagem thread teste await await arquivo thread teste
+Arquivo 313, linha 4: arquivo contagem async async arquivo thread async await thread thread async
+Arquivo 313, linha 5: palavra await thread linha contagem texto contagem
+Arquivo 313, linha 6: thread texto palavra teste async contagem async
+Arquivo 313, linha 7: arquivo linha texto await arquivo thread CSharp linha contagem palavra await async
+Arquivo 313, linha 8: async CSharp CSharp thread CSharp linha
+Arquivo 313, linha 9: linha arquivo palavra teste await CSharp teste teste linha CSharp
+Arquivo 313, linha 10: palavra await teste contagem thread texto texto palavra texto teste
+Arquivo 313, linha 11: texto async palavra arquivo contagem async
+Arquivo 313, linha 12: async thread contagem CSharp await linha async async texto teste
+Arquivo 313, linha 13: teste palavra linha async async palavra await async palavra linha
+Arquivo 313, linha 14: linha palavra teste texto contagem async arquivo teste palavra palavra arquivo palavra

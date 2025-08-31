@@ -1,0 +1,6 @@
+=== Arquivo número 192 ===
+Arquivo 192, linha 1: async palavra arquivo thread teste contagem
+Arquivo 192, linha 2: palavra teste teste arquivo texto
+Arquivo 192, linha 3: thread palavra contagem arquivo async palavra arquivo arquivo contagem
+Arquivo 192, linha 4: CSharp palavra teste teste linha arquivo arquivo
+Arquivo 192, linha 5: arquivo texto palavra linha palavra texto

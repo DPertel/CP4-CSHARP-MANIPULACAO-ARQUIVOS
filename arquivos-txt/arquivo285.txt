@@ -1,0 +1,7 @@
+=== Arquivo número 285 ===
+Arquivo 285, linha 1: await async CSharp async thread thread texto await linha
+Arquivo 285, linha 2: texto texto texto arquivo thread contagem async linha
+Arquivo 285, linha 3: arquivo linha async await thread await contagem await
+Arquivo 285, linha 4: await contagem arquivo CSharp teste CSharp contagem palavra teste CSharp palavra texto
+Arquivo 285, linha 5: palavra async contagem arquivo await await await
+Arquivo 285, linha 6: palavra thread linha await teste arquivo teste

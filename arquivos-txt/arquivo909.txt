@@ -1,0 +1,13 @@
+=== Arquivo número 909 ===
+Arquivo 909, linha 1: await palavra await palavra thread palavra async arquivo teste async async
+Arquivo 909, linha 2: CSharp async thread teste async texto async teste texto arquivo thread
+Arquivo 909, linha 3: linha palavra texto palavra palavra teste CSharp contagem async
+Arquivo 909, linha 4: thread contagem async teste await async
+Arquivo 909, linha 5: thread contagem arquivo linha await arquivo async palavra await linha
+Arquivo 909, linha 6: thread thread thread linha await arquivo CSharp teste linha texto texto
+Arquivo 909, linha 7: teste linha thread CSharp teste contagem await
+Arquivo 909, linha 8: thread await await thread linha arquivo texto
+Arquivo 909, linha 9: teste await CSharp arquivo arquivo texto await
+Arquivo 909, linha 10: contagem thread linha async await arquivo linha linha teste
+Arquivo 909, linha 11: arquivo CSharp linha CSharp contagem await palavra async thread teste
+Arquivo 909, linha 12: thread thread arquivo palavra linha async thread thread teste arquivo linha contagem

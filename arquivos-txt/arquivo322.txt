@@ -1,0 +1,19 @@
+=== Arquivo número 322 ===
+Arquivo 322, linha 1: texto contagem contagem await thread linha arquivo palavra linha linha async
+Arquivo 322, linha 2: arquivo CSharp await async palavra palavra await CSharp async arquivo CSharp teste
+Arquivo 322, linha 3: palavra CSharp await teste linha teste async await texto async await
+Arquivo 322, linha 4: palavra async texto contagem async
+Arquivo 322, linha 5: linha arquivo palavra arquivo CSharp teste thread contagem await
+Arquivo 322, linha 6: teste texto teste contagem linha async palavra texto arquivo
+Arquivo 322, linha 7: linha async CSharp async await
+Arquivo 322, linha 8: teste await thread linha linha
+Arquivo 322, linha 9: teste await thread CSharp arquivo linha await palavra palavra teste await palavra
+Arquivo 322, linha 10: linha texto contagem palavra CSharp
+Arquivo 322, linha 11: contagem linha CSharp await texto CSharp linha palavra async contagem CSharp
+Arquivo 322, linha 12: contagem CSharp await contagem linha contagem arquivo async
+Arquivo 322, linha 13: linha arquivo linha thread await CSharp CSharp palavra
+Arquivo 322, linha 14: thread teste arquivo arquivo texto CSharp palavra
+Arquivo 322, linha 15: arquivo arquivo async CSharp await thread teste
+Arquivo 322, linha 16: arquivo teste texto palavra palavra linha palavra texto arquivo await linha texto
+Arquivo 322, linha 17: async teste await thread CSharp thread texto arquivo async
+Arquivo 322, linha 18: palavra await async contagem linha linha

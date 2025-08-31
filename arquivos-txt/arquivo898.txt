@@ -1,0 +1,8 @@
+=== Arquivo número 898 ===
+Arquivo 898, linha 1: async texto texto contagem texto palavra arquivo teste await await
+Arquivo 898, linha 2: async await thread linha thread palavra async linha linha await
+Arquivo 898, linha 3: contagem palavra async contagem await async arquivo await CSharp arquivo arquivo
+Arquivo 898, linha 4: thread async texto texto await linha linha teste linha CSharp arquivo linha
+Arquivo 898, linha 5: arquivo await linha async contagem texto async CSharp async
+Arquivo 898, linha 6: palavra await arquivo texto texto
+Arquivo 898, linha 7: arquivo texto texto CSharp texto await arquivo await palavra await CSharp thread

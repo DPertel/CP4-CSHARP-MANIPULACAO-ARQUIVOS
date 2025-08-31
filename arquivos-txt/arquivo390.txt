@@ -1,0 +1,5 @@
+=== Arquivo número 390 ===
+Arquivo 390, linha 1: await CSharp arquivo await async palavra
+Arquivo 390, linha 2: palavra async teste async linha arquivo arquivo async arquivo texto
+Arquivo 390, linha 3: texto async await thread linha async CSharp palavra palavra palavra linha
+Arquivo 390, linha 4: linha CSharp palavra linha palavra texto async arquivo palavra CSharp

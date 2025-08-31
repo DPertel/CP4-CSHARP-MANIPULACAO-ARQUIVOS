@@ -1,0 +1,10 @@
+=== Arquivo número 75 ===
+Arquivo 75, linha 1: teste CSharp teste thread teste
+Arquivo 75, linha 2: texto CSharp arquivo teste async await palavra await contagem contagem
+Arquivo 75, linha 3: async palavra arquivo arquivo arquivo teste thread thread texto await await async
+Arquivo 75, linha 4: thread linha teste teste await async palavra await
+Arquivo 75, linha 5: teste thread async await arquivo async palavra texto teste
+Arquivo 75, linha 6: palavra linha texto palavra texto contagem
+Arquivo 75, linha 7: palavra CSharp linha arquivo teste texto texto linha thread palavra
+Arquivo 75, linha 8: texto async await async await linha teste texto arquivo async contagem
+Arquivo 75, linha 9: teste linha texto contagem CSharp async palavra async thread linha async

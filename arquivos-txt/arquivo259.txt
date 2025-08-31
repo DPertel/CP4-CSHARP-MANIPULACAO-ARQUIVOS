@@ -1,0 +1,5 @@
+=== Arquivo número 259 ===
+Arquivo 259, linha 1: contagem palavra arquivo await async contagem texto
+Arquivo 259, linha 2: async contagem linha await async CSharp teste arquivo async thread
+Arquivo 259, linha 3: async arquivo teste linha await texto linha linha await
+Arquivo 259, linha 4: contagem palavra CSharp arquivo await

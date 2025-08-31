@@ -1,0 +1,15 @@
+=== Arquivo número 869 ===
+Arquivo 869, linha 1: arquivo texto teste linha teste contagem thread CSharp
+Arquivo 869, linha 2: CSharp await palavra texto teste
+Arquivo 869, linha 3: async contagem teste linha teste teste linha texto texto CSharp teste palavra
+Arquivo 869, linha 4: thread async teste async thread contagem teste
+Arquivo 869, linha 5: palavra linha palavra linha CSharp contagem await CSharp
+Arquivo 869, linha 6: async texto contagem thread texto palavra CSharp thread await arquivo thread
+Arquivo 869, linha 7: async palavra await teste arquivo teste
+Arquivo 869, linha 8: contagem async arquivo teste CSharp await contagem teste texto
+Arquivo 869, linha 9: linha arquivo palavra teste linha texto teste teste contagem CSharp
+Arquivo 869, linha 10: thread CSharp texto thread arquivo await teste contagem await linha
+Arquivo 869, linha 11: await linha async palavra linha contagem async texto texto contagem palavra
+Arquivo 869, linha 12: async arquivo thread linha palavra thread await texto arquivo linha thread
+Arquivo 869, linha 13: thread linha thread linha async CSharp teste thread contagem CSharp
+Arquivo 869, linha 14: await contagem await thread arquivo texto arquivo await

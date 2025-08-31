@@ -1,0 +1,8 @@
+=== Arquivo número 938 ===
+Arquivo 938, linha 1: arquivo arquivo teste thread arquivo linha async await CSharp CSharp arquivo teste
+Arquivo 938, linha 2: async async teste arquivo thread thread teste teste
+Arquivo 938, linha 3: contagem thread linha contagem teste teste await await CSharp async await
+Arquivo 938, linha 4: await teste arquivo thread CSharp linha teste thread thread
+Arquivo 938, linha 5: teste CSharp CSharp palavra async texto texto teste texto async CSharp
+Arquivo 938, linha 6: contagem CSharp teste teste thread await
+Arquivo 938, linha 7: CSharp teste CSharp thread CSharp palavra palavra arquivo

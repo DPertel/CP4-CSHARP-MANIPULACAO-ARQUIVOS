@@ -1,0 +1,13 @@
+=== Arquivo número 916 ===
+Arquivo 916, linha 1: await contagem contagem teste await
+Arquivo 916, linha 2: teste async palavra texto texto
+Arquivo 916, linha 3: teste CSharp await thread linha palavra async teste
+Arquivo 916, linha 4: await texto await CSharp contagem palavra
+Arquivo 916, linha 5: linha contagem async linha teste teste contagem
+Arquivo 916, linha 6: await arquivo teste teste thread thread
+Arquivo 916, linha 7: palavra texto CSharp await texto arquivo thread texto
+Arquivo 916, linha 8: await linha palavra arquivo linha linha palavra await
+Arquivo 916, linha 9: palavra teste thread CSharp texto arquivo arquivo palavra teste CSharp
+Arquivo 916, linha 10: CSharp texto thread CSharp CSharp await CSharp
+Arquivo 916, linha 11: await palavra arquivo async thread palavra
+Arquivo 916, linha 12: async texto async arquivo contagem await await CSharp thread

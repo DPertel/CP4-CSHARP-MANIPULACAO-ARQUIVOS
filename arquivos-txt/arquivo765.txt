@@ -1,0 +1,5 @@
+=== Arquivo número 765 ===
+Arquivo 765, linha 1: texto linha teste async await await teste palavra
+Arquivo 765, linha 2: arquivo linha teste arquivo arquivo teste palavra arquivo texto linha arquivo texto
+Arquivo 765, linha 3: teste await texto thread CSharp
+Arquivo 765, linha 4: linha texto palavra linha texto thread teste CSharp arquivo palavra async

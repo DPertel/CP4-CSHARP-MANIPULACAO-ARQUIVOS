@@ -1,0 +1,9 @@
+=== Arquivo número 257 ===
+Arquivo 257, linha 1: async async async contagem linha async CSharp contagem
+Arquivo 257, linha 2: arquivo async palavra palavra thread async async
+Arquivo 257, linha 3: linha CSharp palavra thread arquivo palavra await await palavra async palavra
+Arquivo 257, linha 4: thread texto thread arquivo await teste
+Arquivo 257, linha 5: arquivo contagem CSharp palavra await linha
+Arquivo 257, linha 6: async contagem CSharp CSharp CSharp palavra thread arquivo thread
+Arquivo 257, linha 7: thread arquivo palavra palavra contagem
+Arquivo 257, linha 8: await texto async thread await await thread texto linha

@@ -1,0 +1,19 @@
+=== Arquivo número 682 ===
+Arquivo 682, linha 1: arquivo teste arquivo arquivo CSharp palavra linha CSharp palavra CSharp thread
+Arquivo 682, linha 2: texto thread linha await arquivo linha palavra CSharp contagem
+Arquivo 682, linha 3: thread linha async contagem contagem palavra await CSharp contagem await async
+Arquivo 682, linha 4: CSharp linha arquivo contagem texto CSharp async async
+Arquivo 682, linha 5: await palavra async linha texto thread arquivo linha thread
+Arquivo 682, linha 6: contagem linha texto teste async linha async teste CSharp CSharp teste
+Arquivo 682, linha 7: palavra palavra texto arquivo CSharp
+Arquivo 682, linha 8: contagem contagem linha await teste thread CSharp palavra texto palavra async
+Arquivo 682, linha 9: texto arquivo palavra palavra thread
+Arquivo 682, linha 10: linha CSharp thread arquivo contagem
+Arquivo 682, linha 11: teste linha contagem CSharp palavra texto arquivo await thread
+Arquivo 682, linha 12: arquivo teste await palavra palavra CSharp thread texto
+Arquivo 682, linha 13: async thread palavra async linha await palavra palavra arquivo
+Arquivo 682, linha 14: thread teste async contagem contagem thread
+Arquivo 682, linha 15: await async arquivo linha await palavra arquivo teste arquivo await
+Arquivo 682, linha 16: CSharp palavra texto texto CSharp thread arquivo thread teste CSharp await
+Arquivo 682, linha 17: texto texto await arquivo async arquivo palavra teste palavra thread await texto
+Arquivo 682, linha 18: thread CSharp contagem palavra CSharp async

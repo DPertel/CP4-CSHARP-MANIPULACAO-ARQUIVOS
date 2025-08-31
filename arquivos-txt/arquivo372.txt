@@ -1,0 +1,14 @@
+=== Arquivo número 372 ===
+Arquivo 372, linha 1: contagem contagem arquivo thread texto async CSharp linha thread contagem CSharp palavra
+Arquivo 372, linha 2: texto contagem CSharp contagem texto teste contagem texto thread async
+Arquivo 372, linha 3: await async CSharp teste teste async await arquivo palavra contagem teste
+Arquivo 372, linha 4: teste contagem await texto async async
+Arquivo 372, linha 5: arquivo contagem CSharp arquivo await palavra await
+Arquivo 372, linha 6: teste texto thread texto await await texto CSharp async linha palavra await
+Arquivo 372, linha 7: thread palavra thread texto thread arquivo
+Arquivo 372, linha 8: await arquivo linha palavra async contagem texto CSharp
+Arquivo 372, linha 9: async teste texto thread teste await async texto
+Arquivo 372, linha 10: CSharp texto await linha CSharp arquivo async teste async CSharp linha thread
+Arquivo 372, linha 11: linha async linha linha CSharp teste palavra async texto await CSharp await
+Arquivo 372, linha 12: teste texto await linha CSharp await await async arquivo linha
+Arquivo 372, linha 13: palavra linha await await teste async arquivo

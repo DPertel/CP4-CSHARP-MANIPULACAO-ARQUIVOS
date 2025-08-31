@@ -1,0 +1,6 @@
+=== Arquivo número 707 ===
+Arquivo 707, linha 1: thread CSharp thread arquivo thread linha async linha
+Arquivo 707, linha 2: contagem await palavra CSharp thread arquivo palavra texto await CSharp arquivo
+Arquivo 707, linha 3: thread teste teste await async palavra CSharp
+Arquivo 707, linha 4: teste await linha linha CSharp thread contagem teste contagem palavra async
+Arquivo 707, linha 5: thread contagem linha palavra linha texto await CSharp contagem texto

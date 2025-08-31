@@ -1,0 +1,19 @@
+=== Arquivo número 373 ===
+Arquivo 373, linha 1: texto async teste thread texto palavra linha thread contagem
+Arquivo 373, linha 2: linha thread thread texto teste contagem thread await linha arquivo
+Arquivo 373, linha 3: linha contagem await await palavra linha async teste await thread thread await
+Arquivo 373, linha 4: palavra await linha texto arquivo linha linha linha contagem palavra
+Arquivo 373, linha 5: linha palavra teste async async arquivo linha texto texto
+Arquivo 373, linha 6: palavra palavra await texto teste async
+Arquivo 373, linha 7: linha linha arquivo CSharp palavra await texto await contagem CSharp
+Arquivo 373, linha 8: arquivo palavra await contagem contagem
+Arquivo 373, linha 9: texto async thread teste palavra contagem
+Arquivo 373, linha 10: await thread CSharp async thread contagem await
+Arquivo 373, linha 11: teste teste contagem thread palavra thread teste thread
+Arquivo 373, linha 12: palavra palavra CSharp palavra teste contagem await
+Arquivo 373, linha 13: arquivo texto thread CSharp thread
+Arquivo 373, linha 14: contagem linha thread palavra texto CSharp arquivo texto CSharp await arquivo
+Arquivo 373, linha 15: teste async thread palavra texto linha thread
+Arquivo 373, linha 16: palavra async texto linha thread async async CSharp teste thread async palavra
+Arquivo 373, linha 17: await CSharp arquivo CSharp await CSharp
+Arquivo 373, linha 18: linha contagem texto texto contagem contagem contagem arquivo thread

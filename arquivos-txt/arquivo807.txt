@@ -1,0 +1,7 @@
+=== Arquivo número 807 ===
+Arquivo 807, linha 1: teste thread CSharp linha async thread arquivo async teste
+Arquivo 807, linha 2: CSharp linha linha palavra CSharp thread texto
+Arquivo 807, linha 3: teste await async thread arquivo await teste arquivo thread linha linha
+Arquivo 807, linha 4: linha palavra contagem texto linha teste await teste await
+Arquivo 807, linha 5: thread linha contagem thread thread texto arquivo teste texto texto
+Arquivo 807, linha 6: contagem teste async teste arquivo arquivo

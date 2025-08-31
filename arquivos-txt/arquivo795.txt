@@ -1,0 +1,13 @@
+=== Arquivo número 795 ===
+Arquivo 795, linha 1: linha CSharp CSharp thread contagem texto async async
+Arquivo 795, linha 2: contagem linha async contagem CSharp palavra CSharp thread contagem contagem arquivo await
+Arquivo 795, linha 3: await teste CSharp texto palavra linha
+Arquivo 795, linha 4: linha contagem await CSharp teste async arquivo thread await CSharp texto teste
+Arquivo 795, linha 5: teste contagem thread texto await
+Arquivo 795, linha 6: palavra teste linha linha CSharp palavra await linha await
+Arquivo 795, linha 7: arquivo CSharp await contagem CSharp
+Arquivo 795, linha 8: teste arquivo thread palavra linha
+Arquivo 795, linha 9: texto async async CSharp teste CSharp
+Arquivo 795, linha 10: CSharp await await arquivo linha teste arquivo teste
+Arquivo 795, linha 11: contagem arquivo palavra async palavra linha teste async
+Arquivo 795, linha 12: CSharp texto CSharp await contagem linha linha CSharp palavra await contagem CSharp

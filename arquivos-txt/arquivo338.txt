@@ -1,0 +1,15 @@
+=== Arquivo número 338 ===
+Arquivo 338, linha 1: CSharp texto thread texto arquivo texto contagem await texto texto
+Arquivo 338, linha 2: arquivo CSharp arquivo palavra CSharp contagem contagem texto teste texto await teste
+Arquivo 338, linha 3: arquivo texto linha CSharp arquivo await arquivo thread thread teste thread
+Arquivo 338, linha 4: thread contagem teste thread linha
+Arquivo 338, linha 5: teste texto palavra async contagem thread contagem texto async CSharp texto
+Arquivo 338, linha 6: async contagem await arquivo teste
+Arquivo 338, linha 7: CSharp await palavra linha contagem texto teste async
+Arquivo 338, linha 8: arquivo async teste CSharp thread
+Arquivo 338, linha 9: contagem thread palavra linha CSharp CSharp texto contagem palavra contagem teste async
+Arquivo 338, linha 10: linha await CSharp async arquivo await teste arquivo palavra
+Arquivo 338, linha 11: teste arquivo await texto linha arquivo
+Arquivo 338, linha 12: palavra contagem contagem linha contagem await texto await thread thread
+Arquivo 338, linha 13: teste teste texto linha texto arquivo await await arquivo arquivo
+Arquivo 338, linha 14: thread teste texto async arquivo CSharp teste await CSharp linha await teste

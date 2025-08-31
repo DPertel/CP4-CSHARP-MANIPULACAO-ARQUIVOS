@@ -1,0 +1,6 @@
+=== Arquivo número 137 ===
+Arquivo 137, linha 1: linha linha arquivo async texto CSharp thread
+Arquivo 137, linha 2: async palavra texto linha thread thread contagem palavra thread
+Arquivo 137, linha 3: CSharp arquivo linha linha thread thread contagem
+Arquivo 137, linha 4: palavra CSharp thread thread thread teste CSharp arquivo await arquivo contagem async
+Arquivo 137, linha 5: async contagem teste contagem CSharp thread async texto CSharp contagem

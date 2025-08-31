@@ -1,0 +1,17 @@
+=== Arquivo número 472 ===
+Arquivo 472, linha 1: arquivo thread palavra thread CSharp
+Arquivo 472, linha 2: texto thread CSharp palavra await
+Arquivo 472, linha 3: texto thread teste texto palavra await texto texto teste async
+Arquivo 472, linha 4: teste await thread linha teste texto contagem
+Arquivo 472, linha 5: teste texto thread palavra async
+Arquivo 472, linha 6: thread thread arquivo palavra palavra await await await arquivo texto
+Arquivo 472, linha 7: linha contagem teste async arquivo CSharp arquivo
+Arquivo 472, linha 8: texto CSharp teste arquivo texto palavra thread teste arquivo texto
+Arquivo 472, linha 9: texto CSharp texto palavra await async await
+Arquivo 472, linha 10: arquivo arquivo CSharp CSharp await
+Arquivo 472, linha 11: linha linha teste async arquivo CSharp teste palavra
+Arquivo 472, linha 12: CSharp texto texto CSharp CSharp linha arquivo await contagem arquivo contagem
+Arquivo 472, linha 13: async thread await await contagem teste arquivo teste async arquivo CSharp
+Arquivo 472, linha 14: teste arquivo async contagem texto await texto teste linha await
+Arquivo 472, linha 15: async texto teste contagem thread texto linha teste
+Arquivo 472, linha 16: texto linha thread contagem arquivo CSharp

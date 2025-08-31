@@ -1,0 +1,5 @@
+=== Arquivo número 140 ===
+Arquivo 140, linha 1: texto palavra contagem linha teste async contagem texto linha teste teste CSharp
+Arquivo 140, linha 2: CSharp thread linha contagem contagem async async thread
+Arquivo 140, linha 3: arquivo arquivo linha texto await palavra linha teste async thread async CSharp
+Arquivo 140, linha 4: linha await CSharp texto await await await texto await contagem await palavra

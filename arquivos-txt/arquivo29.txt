@@ -1,0 +1,10 @@
+=== Arquivo número 29 ===
+Arquivo 29, linha 1: async linha teste palavra thread linha thread
+Arquivo 29, linha 2: thread teste thread contagem await thread
+Arquivo 29, linha 3: arquivo await linha await thread palavra CSharp
+Arquivo 29, linha 4: thread thread arquivo palavra await contagem thread contagem
+Arquivo 29, linha 5: texto async linha teste contagem
+Arquivo 29, linha 6: CSharp await texto arquivo CSharp thread linha teste thread
+Arquivo 29, linha 7: thread CSharp thread contagem linha async
+Arquivo 29, linha 8: arquivo linha teste arquivo CSharp CSharp linha await
+Arquivo 29, linha 9: palavra teste arquivo async thread thread contagem linha teste async

@@ -1,0 +1,14 @@
+=== Arquivo número 921 ===
+Arquivo 921, linha 1: thread texto arquivo linha CSharp contagem thread teste texto
+Arquivo 921, linha 2: contagem teste thread linha palavra await contagem teste teste
+Arquivo 921, linha 3: thread linha CSharp await palavra arquivo
+Arquivo 921, linha 4: async linha texto palavra arquivo CSharp palavra teste async linha CSharp
+Arquivo 921, linha 5: arquivo async thread texto arquivo thread contagem await async CSharp
+Arquivo 921, linha 6: arquivo async linha async async CSharp async contagem
+Arquivo 921, linha 7: CSharp arquivo arquivo async async
+Arquivo 921, linha 8: texto linha contagem linha contagem await CSharp await contagem linha CSharp CSharp
+Arquivo 921, linha 9: CSharp teste texto texto contagem linha teste CSharp arquivo async await
+Arquivo 921, linha 10: contagem texto thread arquivo contagem teste thread
+Arquivo 921, linha 11: palavra palavra await arquivo CSharp
+Arquivo 921, linha 12: linha thread texto CSharp teste contagem CSharp await linha contagem
+Arquivo 921, linha 13: arquivo texto texto palavra CSharp texto async

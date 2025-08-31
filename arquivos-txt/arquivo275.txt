@@ -1,0 +1,15 @@
+=== Arquivo número 275 ===
+Arquivo 275, linha 1: teste async teste await await
+Arquivo 275, linha 2: palavra teste texto thread async contagem CSharp CSharp
+Arquivo 275, linha 3: CSharp thread arquivo arquivo linha texto texto arquivo await
+Arquivo 275, linha 4: contagem await contagem arquivo teste await await texto async texto
+Arquivo 275, linha 5: linha linha thread await arquivo thread linha palavra palavra async
+Arquivo 275, linha 6: palavra arquivo CSharp texto async texto contagem palavra thread contagem
+Arquivo 275, linha 7: teste thread await contagem arquivo CSharp async
+Arquivo 275, linha 8: thread CSharp thread async teste CSharp thread CSharp arquivo arquivo contagem
+Arquivo 275, linha 9: async arquivo thread await linha thread await linha contagem thread arquivo palavra
+Arquivo 275, linha 10: teste arquivo async arquivo contagem async await palavra arquivo arquivo CSharp
+Arquivo 275, linha 11: thread texto arquivo contagem CSharp thread await thread CSharp palavra arquivo
+Arquivo 275, linha 12: CSharp thread thread texto arquivo CSharp texto arquivo palavra thread async arquivo
+Arquivo 275, linha 13: texto palavra linha async palavra arquivo CSharp CSharp thread teste
+Arquivo 275, linha 14: texto texto await thread teste CSharp

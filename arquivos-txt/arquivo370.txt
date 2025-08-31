@@ -1,0 +1,17 @@
+=== Arquivo número 370 ===
+Arquivo 370, linha 1: contagem teste await CSharp thread thread teste thread await CSharp palavra
+Arquivo 370, linha 2: contagem contagem await teste linha
+Arquivo 370, linha 3: linha await CSharp thread arquivo teste contagem texto contagem linha thread
+Arquivo 370, linha 4: contagem teste arquivo CSharp CSharp texto CSharp
+Arquivo 370, linha 5: async linha teste contagem arquivo texto palavra thread linha palavra async
+Arquivo 370, linha 6: palavra arquivo contagem CSharp teste palavra contagem async linha async linha linha
+Arquivo 370, linha 7: CSharp teste async contagem palavra contagem await CSharp teste linha
+Arquivo 370, linha 8: linha arquivo await thread palavra CSharp arquivo texto arquivo
+Arquivo 370, linha 9: await palavra await thread arquivo
+Arquivo 370, linha 10: async texto async texto teste contagem linha
+Arquivo 370, linha 11: async await CSharp contagem palavra palavra thread linha thread
+Arquivo 370, linha 12: texto CSharp await contagem palavra contagem CSharp arquivo teste
+Arquivo 370, linha 13: teste await texto contagem contagem contagem await
+Arquivo 370, linha 14: palavra await CSharp CSharp await texto await thread async teste contagem linha
+Arquivo 370, linha 15: contagem CSharp await linha palavra CSharp CSharp contagem CSharp
+Arquivo 370, linha 16: teste thread contagem palavra contagem linha contagem linha

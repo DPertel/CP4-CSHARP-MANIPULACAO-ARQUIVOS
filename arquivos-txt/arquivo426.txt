@@ -1,0 +1,18 @@
+=== Arquivo número 426 ===
+Arquivo 426, linha 1: contagem linha async teste CSharp async await CSharp teste CSharp
+Arquivo 426, linha 2: teste palavra async await contagem palavra texto palavra thread arquivo CSharp
+Arquivo 426, linha 3: arquivo linha texto palavra CSharp linha texto await contagem CSharp
+Arquivo 426, linha 4: async async async CSharp palavra arquivo async
+Arquivo 426, linha 5: contagem teste linha linha async
+Arquivo 426, linha 6: texto await texto palavra arquivo teste thread arquivo linha await CSharp CSharp
+Arquivo 426, linha 7: teste contagem await thread await palavra arquivo CSharp arquivo
+Arquivo 426, linha 8: thread await CSharp CSharp CSharp arquivo palavra linha arquivo
+Arquivo 426, linha 9: await async async thread await CSharp
+Arquivo 426, linha 10: texto linha arquivo async CSharp palavra teste
+Arquivo 426, linha 11: arquivo async teste contagem thread async CSharp contagem linha palavra async
+Arquivo 426, linha 12: contagem CSharp palavra CSharp contagem
+Arquivo 426, linha 13: await teste linha teste contagem arquivo arquivo arquivo linha texto texto async
+Arquivo 426, linha 14: contagem texto thread palavra thread thread arquivo teste async await thread
+Arquivo 426, linha 15: contagem contagem palavra texto palavra arquivo
+Arquivo 426, linha 16: CSharp contagem palavra arquivo linha contagem await CSharp CSharp texto
+Arquivo 426, linha 17: async await thread contagem teste teste texto teste texto

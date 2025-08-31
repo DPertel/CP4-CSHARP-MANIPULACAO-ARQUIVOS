@@ -1,0 +1,7 @@
+=== Arquivo número 409 ===
+Arquivo 409, linha 1: palavra teste async arquivo await
+Arquivo 409, linha 2: texto async await thread CSharp palavra async async texto CSharp linha texto
+Arquivo 409, linha 3: arquivo contagem thread linha linha texto texto CSharp palavra teste
+Arquivo 409, linha 4: contagem contagem palavra texto texto await
+Arquivo 409, linha 5: palavra teste thread CSharp teste arquivo CSharp
+Arquivo 409, linha 6: thread linha thread async arquivo palavra palavra linha async

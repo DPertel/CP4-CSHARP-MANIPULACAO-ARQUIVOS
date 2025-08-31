@@ -1,0 +1,9 @@
+=== Arquivo número 551 ===
+Arquivo 551, linha 1: CSharp teste async async teste CSharp async
+Arquivo 551, linha 2: async async arquivo async teste await texto
+Arquivo 551, linha 3: CSharp contagem async arquivo arquivo await
+Arquivo 551, linha 4: teste palavra contagem linha linha contagem async
+Arquivo 551, linha 5: texto contagem teste texto thread contagem palavra contagem async
+Arquivo 551, linha 6: CSharp texto contagem contagem arquivo await arquivo arquivo palavra async
+Arquivo 551, linha 7: thread thread await async await contagem async texto contagem
+Arquivo 551, linha 8: arquivo palavra palavra async arquivo linha arquivo await

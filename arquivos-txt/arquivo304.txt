@@ -1,0 +1,20 @@
+=== Arquivo número 304 ===
+Arquivo 304, linha 1: CSharp teste thread async linha arquivo palavra CSharp
+Arquivo 304, linha 2: CSharp arquivo CSharp CSharp teste
+Arquivo 304, linha 3: palavra texto async arquivo arquivo async contagem
+Arquivo 304, linha 4: async arquivo async CSharp async palavra linha linha contagem arquivo palavra
+Arquivo 304, linha 5: thread thread texto async teste arquivo await texto teste linha CSharp
+Arquivo 304, linha 6: arquivo contagem await arquivo teste await texto await contagem texto
+Arquivo 304, linha 7: async texto CSharp arquivo contagem thread palavra arquivo contagem thread texto teste
+Arquivo 304, linha 8: arquivo await CSharp texto contagem CSharp
+Arquivo 304, linha 9: async linha CSharp arquivo await thread CSharp async teste thread texto await
+Arquivo 304, linha 10: await async palavra teste async contagem teste
+Arquivo 304, linha 11: teste thread linha CSharp teste async await thread await
+Arquivo 304, linha 12: linha arquivo texto palavra palavra thread thread
+Arquivo 304, linha 13: linha arquivo arquivo CSharp await async thread texto thread thread
+Arquivo 304, linha 14: thread teste contagem CSharp await
+Arquivo 304, linha 15: palavra texto arquivo teste CSharp
+Arquivo 304, linha 16: await linha thread texto texto contagem contagem CSharp linha async arquivo
+Arquivo 304, linha 17: contagem arquivo thread contagem texto thread texto
+Arquivo 304, linha 18: async thread CSharp contagem arquivo palavra linha
+Arquivo 304, linha 19: teste async await CSharp await texto async texto contagem arquivo async

@@ -1,0 +1,9 @@
+=== Arquivo número 701 ===
+Arquivo 701, linha 1: await teste await contagem linha teste teste arquivo thread palavra linha
+Arquivo 701, linha 2: linha await linha palavra await arquivo await contagem await linha await
+Arquivo 701, linha 3: CSharp palavra thread texto palavra CSharp palavra CSharp palavra teste arquivo
+Arquivo 701, linha 4: linha await linha thread await CSharp teste await CSharp CSharp
+Arquivo 701, linha 5: thread await await await thread texto linha async palavra thread thread teste
+Arquivo 701, linha 6: contagem teste teste texto contagem async thread contagem async texto texto
+Arquivo 701, linha 7: async await CSharp async palavra linha contagem thread linha teste arquivo linha
+Arquivo 701, linha 8: await thread async linha CSharp texto contagem contagem contagem

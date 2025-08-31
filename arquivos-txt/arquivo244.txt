@@ -1,0 +1,14 @@
+=== Arquivo número 244 ===
+Arquivo 244, linha 1: async linha palavra await CSharp thread CSharp
+Arquivo 244, linha 2: contagem CSharp thread teste teste async await teste
+Arquivo 244, linha 3: linha thread await palavra texto teste texto teste linha contagem
+Arquivo 244, linha 4: linha linha contagem await teste linha linha CSharp linha arquivo
+Arquivo 244, linha 5: arquivo texto contagem thread linha await CSharp palavra texto arquivo linha
+Arquivo 244, linha 6: teste arquivo teste teste await async CSharp texto async
+Arquivo 244, linha 7: arquivo arquivo teste teste linha await
+Arquivo 244, linha 8: teste linha linha linha CSharp linha texto
+Arquivo 244, linha 9: texto palavra CSharp await palavra
+Arquivo 244, linha 10: teste arquivo palavra texto CSharp
+Arquivo 244, linha 11: contagem async linha teste texto contagem teste CSharp arquivo await
+Arquivo 244, linha 12: thread await palavra linha contagem await async
+Arquivo 244, linha 13: teste palavra teste CSharp arquivo

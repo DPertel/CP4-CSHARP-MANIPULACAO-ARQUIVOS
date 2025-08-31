@@ -1,0 +1,15 @@
+=== Arquivo número 996 ===
+Arquivo 996, linha 1: texto teste CSharp contagem thread CSharp teste async await CSharp thread contagem
+Arquivo 996, linha 2: texto teste linha thread contagem teste texto async
+Arquivo 996, linha 3: thread thread teste texto palavra arquivo linha teste await async CSharp
+Arquivo 996, linha 4: linha texto thread CSharp thread linha palavra
+Arquivo 996, linha 5: await linha linha contagem contagem contagem thread teste await contagem texto
+Arquivo 996, linha 6: await await CSharp teste palavra await async thread linha thread
+Arquivo 996, linha 7: CSharp teste arquivo teste teste async palavra contagem
+Arquivo 996, linha 8: texto async arquivo texto teste arquivo palavra palavra teste texto
+Arquivo 996, linha 9: linha teste CSharp teste teste async texto texto texto arquivo
+Arquivo 996, linha 10: arquivo linha linha CSharp await await async linha await
+Arquivo 996, linha 11: thread thread linha async arquivo CSharp palavra contagem thread texto CSharp
+Arquivo 996, linha 12: teste await arquivo await arquivo thread await thread palavra await
+Arquivo 996, linha 13: texto arquivo thread contagem linha texto thread teste CSharp palavra async
+Arquivo 996, linha 14: texto teste teste await arquivo CSharp await arquivo CSharp palavra contagem linha

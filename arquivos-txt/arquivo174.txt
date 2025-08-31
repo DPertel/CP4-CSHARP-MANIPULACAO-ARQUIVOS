@@ -1,0 +1,15 @@
+=== Arquivo número 174 ===
+Arquivo 174, linha 1: teste CSharp palavra contagem linha texto arquivo
+Arquivo 174, linha 2: contagem CSharp contagem teste linha linha await thread linha palavra contagem
+Arquivo 174, linha 3: async arquivo texto teste async linha CSharp
+Arquivo 174, linha 4: thread CSharp texto CSharp async teste
+Arquivo 174, linha 5: teste linha teste teste linha CSharp linha await
+Arquivo 174, linha 6: thread await CSharp thread linha
+Arquivo 174, linha 7: await async arquivo thread thread linha contagem texto contagem
+Arquivo 174, linha 8: contagem texto palavra await palavra async linha CSharp teste async
+Arquivo 174, linha 9: CSharp arquivo contagem palavra CSharp thread
+Arquivo 174, linha 10: thread thread CSharp linha texto
+Arquivo 174, linha 11: CSharp CSharp linha arquivo contagem teste palavra thread thread teste
+Arquivo 174, linha 12: contagem texto teste CSharp thread teste palavra texto CSharp
+Arquivo 174, linha 13: CSharp contagem thread async teste await texto await
+Arquivo 174, linha 14: thread linha CSharp teste async linha

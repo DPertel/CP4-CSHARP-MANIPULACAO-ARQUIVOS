@@ -1,0 +1,13 @@
+=== Arquivo número 335 ===
+Arquivo 335, linha 1: contagem linha texto arquivo CSharp thread linha async texto thread arquivo CSharp
+Arquivo 335, linha 2: thread contagem CSharp palavra thread
+Arquivo 335, linha 3: teste thread palavra CSharp thread CSharp CSharp
+Arquivo 335, linha 4: palavra linha await texto CSharp
+Arquivo 335, linha 5: linha contagem texto contagem CSharp linha thread arquivo contagem contagem
+Arquivo 335, linha 6: thread linha CSharp async linha arquivo palavra thread palavra palavra
+Arquivo 335, linha 7: thread async arquivo async arquivo palavra thread
+Arquivo 335, linha 8: palavra linha teste teste await await linha teste teste thread thread palavra
+Arquivo 335, linha 9: async contagem palavra CSharp linha
+Arquivo 335, linha 10: CSharp arquivo CSharp palavra texto texto thread linha arquivo CSharp await
+Arquivo 335, linha 11: contagem contagem contagem thread palavra async await thread arquivo CSharp
+Arquivo 335, linha 12: linha contagem await arquivo linha arquivo async await

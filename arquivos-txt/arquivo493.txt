@@ -1,0 +1,6 @@
+=== Arquivo número 493 ===
+Arquivo 493, linha 1: thread palavra texto arquivo await thread teste
+Arquivo 493, linha 2: await contagem contagem async CSharp thread await async arquivo palavra
+Arquivo 493, linha 3: linha palavra contagem CSharp arquivo arquivo arquivo texto
+Arquivo 493, linha 4: contagem arquivo CSharp contagem thread teste await contagem CSharp CSharp texto
+Arquivo 493, linha 5: async teste linha palavra teste async arquivo teste

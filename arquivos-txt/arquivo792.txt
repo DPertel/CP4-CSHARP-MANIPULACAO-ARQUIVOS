@@ -1,0 +1,15 @@
+=== Arquivo número 792 ===
+Arquivo 792, linha 1: async async palavra await async
+Arquivo 792, linha 2: palavra CSharp thread teste palavra async texto contagem
+Arquivo 792, linha 3: arquivo arquivo contagem CSharp thread contagem thread async thread async
+Arquivo 792, linha 4: async contagem teste texto contagem linha thread CSharp contagem thread async contagem
+Arquivo 792, linha 5: contagem teste contagem thread texto
+Arquivo 792, linha 6: thread texto thread thread palavra thread thread linha contagem linha await contagem
+Arquivo 792, linha 7: teste linha arquivo contagem CSharp arquivo async async
+Arquivo 792, linha 8: teste thread CSharp thread async
+Arquivo 792, linha 9: linha arquivo CSharp thread texto
+Arquivo 792, linha 10: await arquivo contagem arquivo palavra thread arquivo teste thread thread teste teste
+Arquivo 792, linha 11: async palavra CSharp arquivo teste thread
+Arquivo 792, linha 12: CSharp texto teste linha thread palavra linha texto texto
+Arquivo 792, linha 13: arquivo teste texto teste palavra
+Arquivo 792, linha 14: await palavra contagem contagem palavra contagem CSharp

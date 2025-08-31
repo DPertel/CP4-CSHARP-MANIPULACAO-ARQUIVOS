@@ -1,0 +1,8 @@
+=== Arquivo número 931 ===
+Arquivo 931, linha 1: teste contagem arquivo await async contagem
+Arquivo 931, linha 2: palavra CSharp linha contagem CSharp
+Arquivo 931, linha 3: await texto linha palavra arquivo palavra await teste palavra CSharp contagem
+Arquivo 931, linha 4: teste teste teste thread texto async thread async thread palavra async contagem
+Arquivo 931, linha 5: texto CSharp contagem teste CSharp
+Arquivo 931, linha 6: arquivo CSharp arquivo thread async contagem CSharp palavra texto thread texto linha
+Arquivo 931, linha 7: texto arquivo async thread await palavra teste async async texto CSharp CSharp

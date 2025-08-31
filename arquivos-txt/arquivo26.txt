@@ -1,0 +1,14 @@
+=== Arquivo número 26 ===
+Arquivo 26, linha 1: palavra linha palavra thread async
+Arquivo 26, linha 2: async arquivo async texto palavra contagem async
+Arquivo 26, linha 3: await teste async palavra contagem CSharp
+Arquivo 26, linha 4: arquivo thread teste texto CSharp await thread linha thread
+Arquivo 26, linha 5: teste async arquivo arquivo linha palavra thread CSharp palavra palavra
+Arquivo 26, linha 6: teste contagem async teste palavra arquivo CSharp CSharp linha async await
+Arquivo 26, linha 7: texto thread await linha contagem
+Arquivo 26, linha 8: arquivo contagem CSharp async contagem texto linha arquivo texto
+Arquivo 26, linha 9: arquivo arquivo contagem palavra linha async
+Arquivo 26, linha 10: CSharp texto palavra contagem palavra texto
+Arquivo 26, linha 11: palavra CSharp palavra await texto teste linha arquivo palavra
+Arquivo 26, linha 12: texto async arquivo teste await async arquivo
+Arquivo 26, linha 13: CSharp arquivo linha contagem async CSharp await

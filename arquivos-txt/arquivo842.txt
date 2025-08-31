@@ -1,0 +1,11 @@
+=== Arquivo número 842 ===
+Arquivo 842, linha 1: contagem teste thread thread palavra await arquivo
+Arquivo 842, linha 2: texto texto teste arquivo await
+Arquivo 842, linha 3: teste linha linha texto linha async
+Arquivo 842, linha 4: contagem linha linha async thread thread contagem async CSharp contagem teste contagem
+Arquivo 842, linha 5: CSharp await CSharp linha texto teste await texto
+Arquivo 842, linha 6: arquivo teste teste await await
+Arquivo 842, linha 7: linha async await teste async texto async arquivo texto CSharp
+Arquivo 842, linha 8: linha arquivo async texto contagem linha arquivo arquivo texto await contagem
+Arquivo 842, linha 9: arquivo contagem await arquivo await arquivo async arquivo contagem await arquivo await
+Arquivo 842, linha 10: CSharp linha texto contagem teste linha texto palavra await contagem thread

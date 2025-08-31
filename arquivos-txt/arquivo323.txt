@@ -1,0 +1,9 @@
+=== Arquivo número 323 ===
+Arquivo 323, linha 1: await arquivo await thread palavra linha async arquivo async teste texto
+Arquivo 323, linha 2: await thread arquivo linha await texto
+Arquivo 323, linha 3: teste async await palavra thread teste async
+Arquivo 323, linha 4: teste arquivo thread thread teste await
+Arquivo 323, linha 5: palavra teste palavra async CSharp
+Arquivo 323, linha 6: async palavra teste teste palavra teste teste texto linha palavra
+Arquivo 323, linha 7: arquivo async contagem await await thread contagem await
+Arquivo 323, linha 8: arquivo CSharp palavra thread await

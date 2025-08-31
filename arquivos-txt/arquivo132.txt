@@ -1,0 +1,8 @@
+=== Arquivo número 132 ===
+Arquivo 132, linha 1: linha async arquivo thread texto
+Arquivo 132, linha 2: texto await arquivo teste palavra thread palavra thread teste async
+Arquivo 132, linha 3: arquivo CSharp arquivo palavra arquivo palavra palavra
+Arquivo 132, linha 4: teste await thread teste await
+Arquivo 132, linha 5: arquivo thread arquivo CSharp arquivo async await await teste texto async teste
+Arquivo 132, linha 6: arquivo contagem CSharp thread palavra palavra linha arquivo
+Arquivo 132, linha 7: palavra CSharp CSharp texto thread CSharp thread texto palavra

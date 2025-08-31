@@ -1,0 +1,6 @@
+=== Arquivo número 96 ===
+Arquivo 96, linha 1: palavra thread texto linha await thread arquivo linha thread contagem
+Arquivo 96, linha 2: palavra palavra teste linha texto linha arquivo teste teste
+Arquivo 96, linha 3: thread texto contagem arquivo thread linha
+Arquivo 96, linha 4: palavra palavra thread CSharp palavra linha arquivo linha
+Arquivo 96, linha 5: teste teste teste await teste

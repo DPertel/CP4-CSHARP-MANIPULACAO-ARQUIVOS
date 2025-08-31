@@ -1,0 +1,18 @@
+=== Arquivo número 6 ===
+Arquivo 6, linha 1: async thread texto teste await texto arquivo contagem teste contagem contagem arquivo
+Arquivo 6, linha 2: palavra teste thread async texto
+Arquivo 6, linha 3: async texto thread texto texto arquivo
+Arquivo 6, linha 4: texto palavra teste teste contagem await arquivo async thread palavra contagem linha
+Arquivo 6, linha 5: palavra CSharp contagem palavra palavra teste palavra palavra teste texto CSharp
+Arquivo 6, linha 6: arquivo linha async async texto contagem async thread await
+Arquivo 6, linha 7: palavra await CSharp teste texto async
+Arquivo 6, linha 8: await contagem await arquivo palavra await teste
+Arquivo 6, linha 9: contagem texto async CSharp teste linha await palavra async arquivo
+Arquivo 6, linha 10: teste CSharp thread teste contagem palavra contagem contagem palavra
+Arquivo 6, linha 11: contagem async await teste arquivo texto async linha texto contagem arquivo
+Arquivo 6, linha 12: texto CSharp CSharp arquivo async teste contagem
+Arquivo 6, linha 13: palavra await await thread CSharp linha CSharp texto texto thread async contagem
+Arquivo 6, linha 14: async linha texto teste teste
+Arquivo 6, linha 15: contagem async texto linha arquivo CSharp
+Arquivo 6, linha 16: palavra teste thread CSharp await linha thread arquivo arquivo palavra CSharp palavra
+Arquivo 6, linha 17: palavra thread linha arquivo thread texto thread arquivo

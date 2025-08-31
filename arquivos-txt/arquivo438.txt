@@ -1,0 +1,9 @@
+=== Arquivo número 438 ===
+Arquivo 438, linha 1: linha teste await await arquivo palavra linha
+Arquivo 438, linha 2: arquivo linha CSharp palavra thread
+Arquivo 438, linha 3: palavra teste CSharp teste thread
+Arquivo 438, linha 4: palavra contagem texto palavra await linha arquivo
+Arquivo 438, linha 5: arquivo CSharp palavra linha arquivo await async
+Arquivo 438, linha 6: linha CSharp linha linha texto
+Arquivo 438, linha 7: await texto contagem CSharp palavra
+Arquivo 438, linha 8: contagem await async contagem contagem thread async CSharp teste arquivo thread thread

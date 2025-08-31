@@ -1,0 +1,7 @@
+=== Arquivo número 67 ===
+Arquivo 67, linha 1: palavra palavra teste thread teste thread teste await await palavra
+Arquivo 67, linha 2: await contagem teste palavra teste
+Arquivo 67, linha 3: texto thread texto thread teste texto async texto thread CSharp texto
+Arquivo 67, linha 4: async palavra teste await teste async palavra palavra
+Arquivo 67, linha 5: teste contagem teste CSharp texto contagem linha async texto texto
+Arquivo 67, linha 6: palavra linha teste linha CSharp texto linha
