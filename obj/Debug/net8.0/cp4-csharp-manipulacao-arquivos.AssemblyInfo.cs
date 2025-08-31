@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cp4-csharp-manipulacao-arquivos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3359d59d6ff34027457f49b5b1f82570a1dbdb00")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be1f0f5573e597078399cae0c767612dfcf80eec")]
 [assembly: System.Reflection.AssemblyProductAttribute("cp4-csharp-manipulacao-arquivos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cp4-csharp-manipulacao-arquivos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
